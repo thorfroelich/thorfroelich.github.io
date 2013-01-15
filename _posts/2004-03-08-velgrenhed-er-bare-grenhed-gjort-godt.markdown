@@ -1,0 +1,19 @@
+---
+title: Velgørenhed er bare gørenhed gjort godt
+author: Thor Frølich
+layout: post
+permalink: /velgrenhed-er-bare-grenhed-gjort-godt/
+categories:
+  - Frække ting
+---
+Det er svært at tro at de er væk. Hvordan gik det til? Rovdrift på tømmer, forurening og almindelig vandalisme mod redekasser er uden tvivl hovedårsagerne. Helt borte er de forhåbentlig ikke, men antallet er drastisk reduceret, ikke desto mindre. Jeg savner dem og det tror jeg også at du gør, måske uden helt at være opmærksom på det. Det skal der naturligvis gøres noget ved – vi så hvad dovenskab og skørlevned førte til for de før så smukke byer Atlantis og Nakskov – nu skal det være slut! Jeg refererer selvfølgelig til den drastiske nedgang i antallet af herboende og redebyggende Tyranosaurus Rex. Det er ikke så længe siden at de danske skove genlød af disse blide kæmpers parringsbrøl. Jeg husker det ihvertfald som var det blot i går. Min kikkert og jeg lå ofte i skjul bag bodega ‘Negeren og den Kulørte Fjerkrans’ i Ruds Vedby ved forårets komme for at se de første pars tilbagevenden fra deres overvintren under sydligere himmelstrøg. I timevis var vi der. Sulten blev holdt stangen med fundne rester af cowboy-toasts som muntre og mætte krogæster skødesløst havde bortkastet på deres vej hjem – kun jeg spiste af disse, da kikkertens optik ikke bør blive fedtet og iøvrigt er ganske foruden et ordenligt fordøjelsessystem. Men nok nostalgi – tilbage til opgaven.  
+Jeg foreslår en såkaldt ‘fund raiser’, som kendt fra Amerikas Forenede Stater. Muligvis også fra den engelske trone og dennes territorier. Midlerne indhentet fra dette arrangement vil stort set ubeskåret gå til en kunstigt opdrættet bestand af disse før så almindelig medlemmer af den danske fauna. Dyrene vil blive udsat i udvalgte skove og lunde, når de er vurderet klar til overlevelse på egen hånd. Eller snarere underlig lille klo som videnskaben mener ikke er god for andet end perfid viften omkring.
+
+![Sjov og kæk drabsmaskine][1]  
+*Trodsig og smuk øgle fotograferet nær vildnis, sydsjælland, anno 1908*
+
+For selve arrangementet forestiller jeg mig et overdådigt men smagløst komsammen holdt i et forsamlingshus eller en svømmehal. Der vil være remoulade og fernet branca nok til alle kan I være vis på – såfremt ‘alle’ ikke dækker over synderligt mange flere end 12-13 mennesker. I får mig simpelthen ikke til at købe så meget remoulade. Efter traktementet vil der blive samlet ind i en form for beholder som er velegnet til penge (detaljer vil blive afsløret på selve dagen). Herefter vil Bestyrer af *Fondet for Mere Forhistorisk Øglen Omkring i Danske Skove*, konferencier og hyret jonglør, undertegnede, gøre udfald mod eventuelle gæster der blokerer en eller flere af de tydligt mærkede udgange og derpå forlade stedet i hast. ‘Sikke en fart, ikke så meget som et farvel hørte vi’, vil nogen råbe. Grunden hertil er naturligvis at banker, sparekasser og Honduras Rejser ikke har åbent mere end gennemsnitligt 1 minut ugentligt. Det skulle jo nødigt være sådan at godtfolk skulle kunne gøre forretning med disse instanser uden at smide alt hvad de har i hænderne på de mindst opportune tidspunkter – men det er en anden snak.
+
+For at afslutte mit skriveri og forslag om konkret handling vil jeg postulere at jeg med ovenstående har bevist at Tyrranusaurus Rex ikke kan komme op på fordum tids ynglende bestand uden din og min hjælp. Og det er jo synd og skam. Vil du med god samvittighed kunne berøve de kommende generationer muligheden for at kunne nyde en hapsdog med en lille spids til den beroligende lyd af 12 tons tung fouragerende vrede? Helt naturlig og økologisk vrede. Ganske som din bedstefar nød den.
+
+ [1]: /images/t_rex_01.jpg

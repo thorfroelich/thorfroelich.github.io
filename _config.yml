@@ -1,0 +1,26 @@
+auto:        true
+#exclude: ['Rakefile', 'README.textile', test, 'History.txt']
+domain: abekat.net
+title: Brian Mørk & Thor Frølich præsenterer
+description: Abekat. Frække, frække abekat.
+author: Brian Mørk & Thor Frølich
+email: thor@abekat.net
+url: http://abekat.net
+
+markdown: rdiscount
+
+permalink: /:title
+
+# configuration for ehancements, uncomment to enable
+
+# feedburner:
+#   id: feedburnerid
+
+# google_analytics:
+#   account: UA-XXXXX-X
+
+# github:
+#   username: ghusername
+
+# disqus:
+#   id: disqusid

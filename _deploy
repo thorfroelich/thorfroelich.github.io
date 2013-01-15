@@ -1,0 +1,1 @@
+rsync -avr --delete --progress -e "ssh -c arcfour -o Compression=no -x" _site/* thor@178.77.72.189:/home/thor/sites/abekat/
