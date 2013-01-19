@@ -38,7 +38,7 @@ header.site-header {
 	padding-top: 1em;
 	padding-bottom: 3em;
 	margin-bottom: 2em;
-	background: #F7F7F7;
+	/*background: #F7F7F7;*/
 	background-image: url('../gfx/abekat.png');
 	background-repeat: no-repeat;
 	background-position: 56% 95%;
