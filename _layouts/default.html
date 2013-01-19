@@ -16,8 +16,8 @@
 
     <!-- <link rel="stylesheet" media="screen" href="/stylesheets/styles.css" type="text/css" /> -->
 
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+<!--    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet"> -->
     <link rel="stylesheet" href="/css/style.css">
     {% if site.feedburner %}
       <link href="http://feeds.feedburner.com/{{ site.feedburner.id }}" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
@@ -38,28 +38,20 @@
   </head>
   <body>
 
-    <div class="container">
+    <div id="container">
 
-      <div class="row">
-        <div class="span8 offset2">
-          <header class="site-header">
-            <a href="{{ site.url }}"><h1>{{ site.title }}</h1></a>
-            <div class="description">
-              <a href="{{ site.url }}"><h1>{{ site.description }}</h1></a>
-            </div>
-          </header>
+      <header class="site-header">
+        <a href="{{ site.url }}"><h1>{{ site.title }}</h1></a>
+        <div class="description">
+          <a href="{{ site.url }}"><h1>{{ site.description }}</h1></a>
         </div>
-      </div>
+      </header>
 
       {{ content }}
         
-      <div class="row">
-        <div class="content span6 offset3">
-          <footer>
-            <p>powered by <a href="https://github.com/mojombo/jekyll">jekyll</a></p>
-          </footer>
-        </div>
-      </div> 
+      <footer>
+        <p>powered by <a href="https://github.com/mojombo/jekyll">jekyll</a></p>
+      </footer>
 
     </div>
   </body>
