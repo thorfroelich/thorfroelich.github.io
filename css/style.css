@@ -1,7 +1,10 @@
 
 body
 {
-	font-family: 'Book Antiqua', Baskerville,'Baskerville Old Face', Georgia, Serif;
+/* 	font-family: "adobe-garamond-pro-1","adobe-garamond-pro-2", "Times New Roman", serif; */
+/* 	font-family: font-family: 'Times New Roman', Times, Serif; */
+/* 	font-family: 'Book Antiqua', Baskerville,'Baskerville Old Face', Georgia, Serif; */
+	font-family: Baskerville,'Baskerville Old Face', Georgia, Serif;
 	/*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; */
 	font-weight: 300;
 	line-height: 1.5em;
@@ -31,8 +34,7 @@ a:hover
 /*Header*/
 
 header.site-header {
-	font-family: 'Book Antiqua', Baskerville,'Baskerville Old Face', Georgia, Serif;
-	font-size: 1em;
+	font-size: 0.9em;
 	height: 220px;
 	margin-top: -20px;
 	padding-top: 1em;
@@ -60,13 +62,12 @@ header h1
 
 header.headline
 {
-	font-size: 2.0em;
+	font-size: 1.5em;
 	margin-top: 0.2em;
 	text-align: center;
-	font-family: 'Times New Roman', Serif;
 	text-transform: uppercase;
 	line-height: 1em;
-	letter-spacing: -1px;
+	letter-spacing: 1px;
 }
 
 .headline a
@@ -104,7 +105,7 @@ header.headline
 
 #home, #single
 {
-	font-size: 0.9em;
+	font-size: 1.0em;
 	line-height: 1.4em;
 }
 
@@ -154,11 +155,6 @@ header.headline
 	position: absolute;
 }
 
-#primary .meta, #single .meta
-{
-	font-size: 0.4em;
-}
-
 #secondary
 {
 	font-size: 0.9em;
@@ -175,15 +171,23 @@ header.headline
 	color: #444;
 	letter-spacing: 0.1em;
 	text-align: center;
-	font-style: italic;
+/* 	font-style: italic; */
 	padding-bottom: 1em;
 	padding-top: 1.0em;
+	font-size: 0.5em;
+}
+
+/*
+#primary .meta, #single .meta
+{
+	font-size: 0.5em;
 }
 
 #secondary .meta, #tertiary .meta
 {
 	font-size: 0.5em;
 }
+*/
 
 /* SINGLE */
 
