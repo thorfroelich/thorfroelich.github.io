@@ -45,10 +45,12 @@ header.site-header {
 	background-repeat: no-repeat;
 	background-position: 56% 95%;
 	/* optional rounded corners for browsers that support it */
+/*
    -moz-border-radius: 8px;
    -khtml-border-radius: 8px;
    -webkit-border-radius: 8px;
    border-radius: 8px;
+*/
 }
 
 header h1
@@ -62,7 +64,7 @@ header h1
 
 header.headline
 {
-	font-size: 1.5em;
+	font-size: 1.3em;
 	margin-top: 0.2em;
 	text-align: center;
 	text-transform: uppercase;
@@ -162,7 +164,7 @@ header.headline
 
 #tertiary
 {
-	font-size: 0.7em;
+	font-size: 0.8em;
 }
 
 .meta
@@ -174,7 +176,7 @@ header.headline
 /* 	font-style: italic; */
 	padding-bottom: 1em;
 	padding-top: 1.0em;
-	font-size: 0.5em;
+	font-size: 0.6em;
 }
 
 /*
