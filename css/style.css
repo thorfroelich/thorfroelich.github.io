@@ -193,7 +193,7 @@ header.headline
 
 /* SINGLE */
 
-#single .wp-caption.alignleft, #single .wp-caption.alignright
+#single .wp-caption.alignleft, #single .wp-caption.alignright, #single .bitImage
 {
 	max-width: 40%;
 	height: auto;
@@ -275,19 +275,21 @@ div.aligncenter {
    float: right;
 }
 
-.wp-caption {
+.wp-caption, .bitImage
+{
    text-align: center;
-   padding-top: 10px;
+   padding-top: 20px;
    margin: 0px 10px -10px 10px;
 }
 
-#home .wp-caption {
+#home .wp-caption, #home .bitImage
+{
    width: 14em !important;
 	overflow: visible;
 	max-width: 120px;
 }
 
-.wp-caption img {
+.wp-caption img, .bitImage img {
    margin: 0;
    padding: 0;
    border: 0 none;
@@ -302,7 +304,7 @@ div.aligncenter {
    height: auto;
 }
 
-.wp-caption p.wp-caption-text {
+.wp-caption p.wp-caption-text, .bitImage p {
    font-size: 0.9em;
    padding: 0em 1em 0.5em;
    margin: 0;
@@ -460,6 +462,7 @@ cite.fn {
 
 /* LEGACY CAPTIONS MADE WITH BRIAN'S IMAGE TOOL PLUGIN */
 
+/*
 .bitImage {
 	padding: 8px;
     margin: 12px 20px 12px 20px;
@@ -468,6 +471,7 @@ cite.fn {
     font-size: 0.9em;
     text-align: center;
 }
+*/
 
 .bitLeft {
 	float: left;
