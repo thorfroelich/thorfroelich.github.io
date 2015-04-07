@@ -78,6 +78,10 @@ header.headline
 	text-decoration: none;
 }
 
+h1.headline {
+	text-align: center;
+}
+
 .description
 {
 	margin-top: -0.4em !important;
@@ -102,6 +106,7 @@ header.headline
 
 .content
 {
+	margin-top: 4em;
 	margin-bottom: 3em;
 }
 
@@ -132,7 +137,7 @@ header.headline
 	position: absolute;
 	bottom: 0px;
 	left: 0;
-	width: 100%; 
+	width: 100%;
 	margin: 0;
 	padding: 20px 0;
 	padding-bottom: 100px;
@@ -214,7 +219,8 @@ header.headline
 
 /* FOOTER */
 
-#footer {
+footer {
+	font-style: italic;
 	font-size: 1em;
 	text-align: center;
 	margin-top: 5em;
@@ -227,7 +233,6 @@ header.headline
 }
 
 #footer h2 {
-
 	font-size: 2em;
 	padding-bottom: 0.1em;
 }
@@ -421,7 +426,7 @@ cite.fn {
 	-khtml-border-radius: 3px;
 	-webkit-border-radius: 3px;
 	border-radius: 3px;
-}Â 
+}Â
 
 
 
@@ -476,12 +481,12 @@ cite.fn {
 .bitLeft {
 	float: left;
 }
-	
+
 .bitCenter {
 	margin: 0 auto !important;
 	margin-bottom: 2em !important;
 }
-	
+
 .bitRight {
 	float: right;
 }

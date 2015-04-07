@@ -5,10 +5,10 @@ description: A description about my blog homepage
 
 <div id="archive">
 
-	<h2>Archives</h2>
+	<h2>Arkivet</h2>
 	<ul>
 	  {% for post in site.posts %}
-	
+
 	    {% unless post.next %}
 	      <h3>{{ post.date | date: '%Y' }}</h3>
 	    {% else %}
@@ -18,11 +18,9 @@ description: A description about my blog homepage
 	        <h3>{{ post.date | date: '%Y' }}</h3>
 	      {% endif %}
 	    {% endunless %}
-	
+
 	    <li><span class="meta">{{ post.date | date:"%b" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
 
 </div>
-
-
