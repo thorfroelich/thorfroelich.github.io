@@ -12,7 +12,7 @@ tags:
   - statspræmieobligation
 ---
 <div id="attachment_533" class="wp-caption alignright" style="width: 277px">
-  <img class="size-full wp-image-533" title="Gammel og ond i sulet" src="http://www.abekat.net/wp-content/images/scaled-image.jpg" alt="Du så nogenlunde således ud!" width="267" height="294" /><p class="wp-caption-text">
+  <img class="size-full wp-image-533" title="Gammel og ond i sulet" src="http://www.abekat.net/images/scaled-image.jpg" alt="Du så nogenlunde således ud!" width="267" height="294" /><p class="wp-caption-text">
     Du så nogenlunde således ud!
   </p>
 </div>

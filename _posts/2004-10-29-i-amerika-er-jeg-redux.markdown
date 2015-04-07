@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 178px">
-  <img src="http://www.abekat.net/wp-content/images/statue_01.jpg" alt="Manden har ikke tøj på. Og han er lavet af bronze." /><br /> Her er en statue af en mand
+  <img src="http://www.abekat.net/images/statue_01.jpg" alt="Manden har ikke tøj på. Og han er lavet af bronze." /><br /> Her er en statue af en mand
 </div>
 
 Jeg er i Los Angeles, en by som primært er i USA og derfor langt fra hvor jeg normalt er. Det er meget ligesom at være i København, bare uden nogen af de ting man kender. Jeg er så travl, så travl, så travl. 

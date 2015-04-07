@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 218px">
-  <img src="http://www.abekat.net/wp-content/images/trainwreck.jpg" alt="DSB bruger kun glade og forelskede tog." /></p> <p>
+  <img src="http://www.abekat.net/images/trainwreck.jpg" alt="DSB bruger kun glade og forelskede tog." /></p> <p>
     Kyssende tog<br /> (Propagandamateriale venligst udlånt af DSB’s Kundeservice)
   </p>
 </div>
@@ -53,7 +53,7 @@ Og deres var (som kom over en måned senere) lyder:
 
 <center>
   <div class="bitImage bitCenter" style="width: 358px">
-    <img src="http://www.abekat.net/wp-content/images/fancytrain.jpg" alt="Det kører til marsken, hvori Thor bor." /><br /> Dette tog kører ikke til Kalundborg. Ihvertfald ikke med mig indeni.
+    <img src="http://www.abekat.net/images/fancytrain.jpg" alt="Det kører til marsken, hvori Thor bor." /><br /> Dette tog kører ikke til Kalundborg. Ihvertfald ikke med mig indeni.
   </div>
   
   <p>

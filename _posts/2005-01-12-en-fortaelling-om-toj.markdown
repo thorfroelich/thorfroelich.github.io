@@ -12,7 +12,7 @@ Med til denne fortælling bør naturligvis følge en kort forfortælling der kan
 Det medfører imidlertid at der kan gå længe imellem at jeg har sparet sammen til slige luksusvarer som f.eks. mad eller tøj på kroppen.
 
 <div class="bitImage bitRight" style="width: 138px">
-  <img src="http://www.abekat.net/wp-content/images/haute_couture_01.jpg" alt="Fesent er det også. Og det er noget pigerne vil have!" /><br /> Jamen, det er da rasende sprælsk. Funky.
+  <img src="http://www.abekat.net/images/haute_couture_01.jpg" alt="Fesent er det også. Og det er noget pigerne vil have!" /><br /> Jamen, det er da rasende sprælsk. Funky.
 </div>
 
 Da jeg i min søgen efter herrebeklædningsgenstande begiver mig ind en butik der udefra ser ud til at kunne efterkomme mine behov møder der mig et sælsomt syn. Ja, jeg vil næsten sige at jeg bliver helt bestyrtet, og ærgelig på den stakkels butiksindehavers vegne. Hans samfulde kollektion af herretøj har været ude for den mest sælsomme ulykke, tænker jeg. Jeg henvender mig straks til ekspedienten for at udtrykke min medfølelse over alt det fine tøj, der på sælsom vis er blevet helt misfarvet.
@@ -29,7 +29,7 @@ Jeg vakler stakåndet og forvirret fra butikken. Lettet over at være sluppet me
 Jeg tænker at ekspedienten må have fejlfortolket sin Guru, Hr. Nørretranders. Kvinder elsker ikke mænd der kan overkomme dinosaurerne. De elsker øjensynligt mænd uden smag, selvkritik eller selvopholdelses drift.
 
 <div class="bitImage bitLeft" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/stilet_01.jpg" alt="En ninja-dragt eller toga går også an." /><br /> Stateligt og smukt skrud. Hvor finder man klæder som disse?
+  <img src="http://www.abekat.net/images/stilet_01.jpg" alt="En ninja-dragt eller toga går også an." /><br /> Stateligt og smukt skrud. Hvor finder man klæder som disse?
 </div>
 
 Moralen af min fortælling er naturligvis at mænd bør bære sort, eller variationer over dette tema. Det kunne være meget sort, lidt mindre sort, mørk grå, eventuelt sammensat med sort.

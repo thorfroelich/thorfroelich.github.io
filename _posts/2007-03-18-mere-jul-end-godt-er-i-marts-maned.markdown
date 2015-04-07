@@ -12,7 +12,7 @@ Tidligere her på aben har jeg skrevet om min plan om at lave en voksen julekale
 Det følgende er en præcis beskrivelse af hvad jeg og mine to kolleger, Michael Schøt og Jacob Wilson, har planer om at skrive og sælge til tv. Men er det en voksen julekalender du ville gide se? Læs og bedøm.
 
 <div class="bitImage bitRight" style="width: 280px">
-  <img src="http://www.abekat.net/wp-content/images/speer.jpg" alt="Men han er død." /><br /> Albert Speer ville le og le.
+  <img src="http://www.abekat.net/images/speer.jpg" alt="Men han er død." /><br /> Albert Speer ville le og le.
 </div>
 
 *”Du synes din chef er led? Deres chef er Hitler!”*
@@ -35,7 +35,7 @@ Al handling foregår på Hitlers forkontor med hvad der umiddelbart dertil følg
 
 <center>
   </p> <div class="bitImage bitCenter" style="width: 423px">
-    <img src="http://www.abekat.net/wp-content/images/hitler1.jpg" alt="Højt fra træets grønne top sidder hagekorset." /><br /> Hitler julehygger med drengene.
+    <img src="http://www.abekat.net/images/hitler1.jpg" alt="Højt fra træets grønne top sidder hagekorset." /><br /> Hitler julehygger med drengene.
   </div>
   
   <p>

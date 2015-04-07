@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 207px">
-  <img src="http://www.abekat.net/wp-content/images/ejerforening_01.jpg" alt="Mangt en hund blev båret rundt på i de tidlige år." /></p> <p>
+  <img src="http://www.abekat.net/images/ejerforening_01.jpg" alt="Mangt en hund blev båret rundt på i de tidlige år." /></p> <p>
     Illustration fra ejerforeningens skabelsesberetning.
   </p>
 </div>
@@ -36,7 +36,7 @@ Støjen er tilbage, som mange af Jer har bemærket. Malmbruddet i naboejendommen
 Budgettet blev godkendt under forudsætning at posten med benævnelsen *Hovedsalat og anden esoterica* (stor 435.000,-) bliver redegjort grundigt for i en følgeskrivelse.
 
 <div class="bitImage bitLeft" style="width: 162px">
-  <img src="http://www.abekat.net/wp-content/images/smallstatue_01.jpg" alt="Han er god med ædle metaller. Hvis I forstår sådan en lille een?!" /><br /> Den nyvalgte buttede og gyldne kasserer.
+  <img src="http://www.abekat.net/images/smallstatue_01.jpg" alt="Han er god med ædle metaller. Hvis I forstår sådan en lille een?!" /><br /> Den nyvalgte buttede og gyldne kasserer.
 </div>
 
 *7. Valg af bestyrelse*  

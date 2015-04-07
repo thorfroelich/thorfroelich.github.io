@@ -9,7 +9,7 @@ categories:
 Et nyt år er oprunden og med det følger den sædvanlige træge samling slatne ord fra denne digitale interweb-vulkan af ubegav og ukløgt. For det undskylder jeg og fortsætter ufortrødent. Med nytårsfortsætter. Mine i særdeleshed. Det er nemlig meget vigtigt at man ved det nye års begyndelse spyer en lind strøm af usandsynlige påstande om alt fra afholdenhed til næstekærlighed. Og jeg er ingen undtagelse.
 
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/niazov.jpg" alt="Han er god for børn!" /><br /> Turkmanbashi er også din bashi!
+  <img src="http://www.abekat.net/images/niazov.jpg" alt="Han er god for børn!" /><br /> Turkmanbashi er også din bashi!
 </div>
 
 **I det nye år…**  
@@ -25,7 +25,7 @@ Et nyt år er oprunden og med det følger den sædvanlige træge samling slatne 
 … vil jeg ikke gå i cirkus. Så på den måde vil året foran os komme til at ligne det forgangne til forveksling.
 
 <div class="bitImage bitLeft" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/tjur.jpg" alt="Se hvor den ter sig!" /><br /> En uhjælpsom fugl.
+  <img src="http://www.abekat.net/images/tjur.jpg" alt="Se hvor den ter sig!" /><br /> En uhjælpsom fugl.
 </div>
 
 **I det nye år…**  

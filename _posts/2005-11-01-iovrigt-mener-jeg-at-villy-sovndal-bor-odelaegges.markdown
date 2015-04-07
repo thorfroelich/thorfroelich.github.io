@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 168px">
-  <img src="http://www.abekat.net/wp-content/images/villy_01.jpg" alt="Spild endelig MERE af vores tid" /><br /> Spørge-Jørgen
+  <img src="http://www.abekat.net/images/villy_01.jpg" alt="Spild endelig MERE af vores tid" /><br /> Spørge-Jørgen
 </div>
 
 Min harme kender ingen grænser. Herr Søvndal, nyvalgt formand for SF (hvilket jeg kun kan tolke som partiets selvmordsforsøg), er kendt for at være den som stiller flest spørgsmål til regeringen. Jeg er helt med på ideen om en kritisk opposition. Jeg er ikke helt med på ideen om idioti. Navnligt ikke idioti, som kan undgås ved lidt skolegang eller i mangel af dette, et hastigt opslag på [google][1] eller [wikipedia][2]. Det er en oldie, jeg ved det godt, men årsagen til mit helt magisk lysende had til denne mandsling skal naturligvis findes i hans [spørgsmål til statministeren om Fort Bragg][3]:

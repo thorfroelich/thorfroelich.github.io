@@ -14,4 +14,4 @@ Wow, *sprudlende*!
 
 Oplev!
 
- [1]: http://www.abekat.net/wp-content/images/jarloque_01.jpg
+ [1]: http://www.abekat.net/images/jarloque_01.jpg

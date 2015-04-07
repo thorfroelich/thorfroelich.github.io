@@ -21,13 +21,13 @@ Ie deth Theather Cosmorama staar ein mörch Mann auph Aphriicaaner-Äth, ein san
 Veth siithen auph seer mann ein Jöde ie ein hviith Bajass-Dracht meth Cnapper sohm ere liiege saa stuhre sohm Roys Näever! Ahh, hann mohrer deth Publiichoum meth att spiiese Rhrunn-Stycker ock wrövle paa phräck Maneer! 
 
 <div class="bitImage bitCenter" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/avekat_01.jpg" alt="" /></p>
+  <img src="http://www.abekat.net/images/avekat_01.jpg" alt="" /></p>
 </div>
 
 Liith länghere väck staar ett Scuhr, ock ein Räv ock ein Abe-Cath kicke uth. Dehne Monckey uthviisthe phorriiege Aahr ein Phährdiigheth ie att biithe Phiingeren halw ouver paa en Arbeither, mehn ie Aahr dehn hauufe gioerth deth bethre! Paa ett Mögh-Bharn, dere ere chommen dehn phor nähr hauffe dehn scammeliieght phorrehvet deths Annsicht. Holl Jier väck phra dethe Bästh!
 
 <div class="bitImage bitCenter" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/olding_01.jpg" alt="" /></p>
+  <img src="http://www.abekat.net/images/olding_01.jpg" alt="" /></p>
 </div>
 
 Ie ett pariisiisch Thelt mhores Publiichoum auph ein Oldhiing. Roy hauffe mehmouhreret diesse Ohrr:  

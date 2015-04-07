@@ -12,7 +12,7 @@ tags:
   - vendinger
 ---
 <div id="attachment_405" class="wp-caption alignright" style="width: 216px">
-  <img class="size-full wp-image-405" title="Bane til at løbe på." src="http://www.abekat.net/wp-content/images/loebebane.jpg" alt="Eksempel på korrekt brug af ordet &quot;bane&quot;." width="206" height="150" /><p class="wp-caption-text">
+  <img class="size-full wp-image-405" title="Bane til at løbe på." src="http://www.abekat.net/images/loebebane.jpg" alt="Eksempel på korrekt brug af ordet &quot;bane&quot;." width="206" height="150" /><p class="wp-caption-text">
     Eksempel på korrekt brug af bane. Ikke at forveksle med bane.
   </p>
 </div>
@@ -29,7 +29,7 @@ Ah, jeg tror jeg forstår. En herlig sports-analogi, for at virke dynamisk og vi
 Det er min faste overbevisning at der ikke på dansk kan ytres en sætning som er fonetisk værre end ovenstående. Det er lidt af en påstand, men ikke desto mindre har jeg ret. Eftertiden vil utvivlsomt kende mit udsagn for sandt, hvorimod samtiden vil tage lige så grueligt fejl som den altid gør. Da I er en del af samtiden, er I en del af problemet. I skulle skamme Jer og lytte lidt mere til eftertiden.
 
 <div id="attachment_415" class="wp-caption alignleft" style="width: 364px">
-  <img class="size-full wp-image-415" title="laminatbordplade" src="http://www.abekat.net/wp-content/images/laminatbordplade.gif" alt="Eksempel på en kant. Ikke at forveksle med Kant." width="354" height="195" /><p class="wp-caption-text">
+  <img class="size-full wp-image-415" title="laminatbordplade" src="http://www.abekat.net/images/laminatbordplade.gif" alt="Eksempel på en kant. Ikke at forveksle med Kant." width="354" height="195" /><p class="wp-caption-text">
     Eksempel på en kant. Ikke at forveksle med Kant.
   </p>
 </div>

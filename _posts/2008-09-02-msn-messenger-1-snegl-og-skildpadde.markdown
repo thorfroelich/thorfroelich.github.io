@@ -16,5 +16,5 @@ categories:
   </p>
   
   <div class="bitImage bitCenter" style="width: 313px">
-    <img src="http://www.abekat.net/wp-content/images/MSNMessenger_0001.gif" alt="Jeg har en gang mødt sådan en skildpadde!" />
+    <img src="http://www.abekat.net/images/MSNMessenger_0001.gif" alt="Jeg har en gang mødt sådan en skildpadde!" />
   </div>

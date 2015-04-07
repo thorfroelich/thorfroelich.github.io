@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 228px">
-  <img src="http://www.abekat.net/wp-content/images/brianhitler.jpg" alt="Men folk VIL bedrages!" /></p> <p>
+  <img src="http://www.abekat.net/images/brianhitler.jpg" alt="Men folk VIL bedrages!" /></p> <p>
     Det er i grunden sært at Brians pandetatovering, overskæg og adresse ikke vækker mere opsigt.
   </p>
 </div>
@@ -26,7 +26,7 @@ Brian Mørk kan indtil flere ord på tysk – flere gang valgt til International
 Brian Mørk har engang besøgt Afrika. Brian Mørk udtaler det Aaaafrika (med adskillige flade a’er). “Her bor mange negre”, skulle han have sagt ved ankomsten.
 
 <div class="bitImage bitLeft" style="width: 209px">
-  <img src="http://www.abekat.net/wp-content/images/leniriefen.jpg" alt="Kvindedragten sidder løst og er godt ventileret." /><br /> Brian, iført kvindedragt, fotograferer den del af Afrika hvori han står.
+  <img src="http://www.abekat.net/images/leniriefen.jpg" alt="Kvindedragten sidder løst og er godt ventileret." /><br /> Brian, iført kvindedragt, fotograferer den del af Afrika hvori han står.
 </div>
 
 Brian Mørk lavede de fleste af Det Tredie Rige’s propagandafilm (under et pseudonym). Da riget drejede nøglen om, tog han som nævnt til Afrika og lavede en del film af de lokale i færd med forskellige gøremål. Ofte uden tøj på. Han blev sendt hjem da negrene blev trætte af at have hans nøgne krop rendende rundt.

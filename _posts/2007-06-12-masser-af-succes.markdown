@@ -18,7 +18,7 @@ Er det kult? Nej, det er sekt.
 
 <center>
   </p> <div class="bitImage bitCenter" style="width: 404px">
-    <img src="http://www.abekat.net/wp-content/images/hq.jpg" alt="Lidt uden for Køge." /><br /> Abekattens nye lokaler.
+    <img src="http://www.abekat.net/images/hq.jpg" alt="Lidt uden for Køge." /><br /> Abekattens nye lokaler.
   </div>
   
   <p>
@@ -40,7 +40,7 @@ Er det kult? Nej, det er sekt.
   <p>
     <center>
       </p> <div class="bitImage bitCenter" style="width: 404px">
-        <img src="http://www.abekat.net/wp-content/images/Yacht.jpg" alt="Den er fin." /><br /> Den båd vi bruger for at komme ud til vores yacht.
+        <img src="http://www.abekat.net/images/Yacht.jpg" alt="Den er fin." /><br /> Den båd vi bruger for at komme ud til vores yacht.
       </div>
       
       <p>
@@ -78,7 +78,7 @@ Er det kult? Nej, det er sekt.
       <p>
         <center>
           </p> <div class="bitImage bitCenter" style="width: 404px">
-            <img src="http://www.abekat.net/wp-content/images/guld.jpg" alt="Besværlige håndører." /><br /> Lidt til parkometeret.
+            <img src="http://www.abekat.net/images/guld.jpg" alt="Besværlige håndører." /><br /> Lidt til parkometeret.
           </div>
           
           <p>

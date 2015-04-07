@@ -7,7 +7,7 @@ categories:
   - Introduktioner til...
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/sleeping_man_01.jpg" alt="Drøm behageligt, din lille laban!" /><br /> Et praktisk leje, hvis man har drømme om diarré!
+  <img src="http://www.abekat.net/images/sleeping_man_01.jpg" alt="Drøm behageligt, din lille laban!" /><br /> Et praktisk leje, hvis man har drømme om diarré!
 </div>
 
 Disse udødelige ord blev ytret af negerrettighedsforkæmperen Martin Luther King. Drømmen viste sig at være en ganske uinteressant og kedelig drøm om legende børn og senere blev han da også skudt til han døde af det.  
@@ -23,7 +23,7 @@ Jeg har valgt at vise et lille udvalg. Bemærk at intet af det følgende er opdi
 Ja, eller at man har set for mange spændende film om Bukkake. Og man kan sige meget om den herlige Bukkake men det er ingen velsignelse. En form for dåb måske, men ingen velsignelse.
 
 <div class="bitImage bitLeft" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/jesus_02.jpg" alt="Nu skal han revses!" /><br /> Frelseren har her fanget et barn, som havde forkerte drømme!
+  <img src="http://www.abekat.net/images/jesus_02.jpg" alt="Nu skal han revses!" /><br /> Frelseren har her fanget et barn, som havde forkerte drømme!
 </div>
 
 **Jesus**  
@@ -48,7 +48,7 @@ Ja, og skuffelse over graden af forfriskning man får ud af at drikke et glas k�
 Ja, især hvis din arbejdsplads ligger ved foden af Vesuv i udbrud og dit arbejde består i at bygge en lavatæt jolle på utroligt kort tid.
 
 <div class="bitImage bitRight" style="width: 212px">
-  <img src="http://www.abekat.net/wp-content/images/monkey_01.jpg" alt="Abe-drømme er farlige drømme!" /><br /> Et ansigt kun en abe-mor kan holde af
+  <img src="http://www.abekat.net/images/monkey_01.jpg" alt="Abe-drømme er farlige drømme!" /><br /> Et ansigt kun en abe-mor kan holde af
 </div>
 
 **Abe**  

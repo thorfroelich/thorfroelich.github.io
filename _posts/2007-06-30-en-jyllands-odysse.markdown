@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 218px">
-  <img src="http://www.abekat.net/wp-content/images/jysk_vogn.jpg" alt="Her vist med deres berømte Jellinge-model GTI." /></p> <p>
+  <img src="http://www.abekat.net/images/jysk_vogn.jpg" alt="Her vist med deres berømte Jellinge-model GTI." /></p> <p>
     Statue af Julius og Krelle – Jyllands første vognmagere.
   </p>
 </div>
@@ -24,7 +24,7 @@ Velankommen til fastlandet blev vi modtaget af de lokale, heriblandt svigerfamil
 Efter den dejlige modtagelse fulgte hvad jeg bedst kan beskrive som en lille uges kagespisning. Lille-pigen og den større pige nød det i fulde drag. Som hovedregel nyder jeg ingen verdens ting. Det skulle da lige være en lille dram eller synet af en gammeldags sporvogn.
 
 <div class="bitImage bitLeft" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/hazmat.jpg" alt="Vi skrev alt ned!" /><br /> Her er jeg med svigerfar ude for at kigge på, tælle og vurdere noget jord.
+  <img src="http://www.abekat.net/images/hazmat.jpg" alt="Vi skrev alt ned!" /><br /> Her er jeg med svigerfar ude for at kigge på, tælle og vurdere noget jord.
 </div>
 
 Vi kom, vi så, vi spiste kage. Det skulle dog mod feriens slutning vise sig at vi havde begået en katastrofal brøler. Først væltede min hustru (billedligt) om på siden og brød i brand, grundet en kedelig sot. Siden slog den samme mikrobe til mod mig, trods mit kække mod på livet. Imod bedrevidende undlod vi inden afrejse at lade os vaccinere mod den slags fremmede dårligdomme. Vores urbaniserede immunsystemer var magtesløs overfor angrebet og det er et mirakel at vi er i live i dag. 

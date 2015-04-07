@@ -16,7 +16,7 @@ Dansk Frihed er nemlig ikke bare frihed til at gøre hvad man vil, det er også 
 Alligevel går jeg og synes at samme spilleregler skal gælde for Os som for alle andre.
 
 <div class="bitImage bitLeft" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/struense_01.jpg" alt="Pæn gynter lige der" /><br /> Se dét var en ordentlig forrædder,<br /> Ham kan jeg ikke måle mig med!
+  <img src="http://www.abekat.net/images/struense_01.jpg" alt="Pæn gynter lige der" /><br /> Se dét var en ordentlig forrædder,<br /> Ham kan jeg ikke måle mig med!
 </div>
 
 Vi danskere er ikke bare *genetisk* bedre end alle andre: Nej, vi er overlegne helt ned på det molekylære, det atomare, ja selv det kvantemekaniske plan. Så vi behøver da ikke tage hensyn til nogen. Danske pikke er hårdere, større og mere knortede end nogen andres i hele verden. Hver gang en dansker lader sit vand på gaden stiger ejendomsværdien i miles omkreds. Vores naturlige, medfødte og iboende overlegenhed er anerkendt alle vegne – hvorfor skulle tyskerne ellers have udkæmpet Anden Verdenskrig, blot for at besidde Danmark og danskerne? Det er et historisk faktum at det var danskeres modstandskamp der førte til Det Tredje Riges fald!  
@@ -26,7 +26,7 @@ Nationen Danmarks grænser er ikke arbitrære og omskiftelige som andre staters.
 Det er noget jeg bare skal have igennem min tommetykke pandeskal.
 
 <div class="bitImage bitRight" style="width: 200px">
-  <img src="http://www.abekat.net/wp-content/images/hell_01.jpg" alt="Maleri er hvad der venter!" /><br /> Det er hvad der venter mig!
+  <img src="http://www.abekat.net/images/hell_01.jpg" alt="Maleri er hvad der venter!" /><br /> Det er hvad der venter mig!
 </div>
 
 Danmark er så betydningsfuldt at hvis en enkelt terrorhandling, rettet mod os, skulle have samme konsekvenser som den i New York i 2001, så behøvede den kun at slå 55-60 danskere ihjel. Ikke at det overhovedet ville kunne lade sig gøre – eller nogen ville turde lægge sig ud med en så slagkraftig, indflydelsesrig og frem for alt elskelig nation.  

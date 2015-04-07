@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 228px">
-  <img src="http://www.abekat.net/wp-content/images/canada_01.jpg" alt="Bark og tørv var materialerne" /><br /> Et typisk candalusisk kørekort.
+  <img src="http://www.abekat.net/images/canada_01.jpg" alt="Bark og tørv var materialerne" /><br /> Et typisk candalusisk kørekort.
 </div>
 
 Jeg kender en pragtfuld mand ved navn Jeremy. Han kommer fra Candinavien og er derfor en løjerlig udenlandsk starut. Der er vældig megen radioaktivitet og snavs i luften, i landet hvorfra han kommer, så det er nok derfor at han nu er her i Danmark.
@@ -20,7 +20,7 @@ et vellignende pasfoto (problematisk, da canadianere ikke kan ses i reflektioner
 og hans gamle kørekort. “Vi ombytter gerne dit rædsomme ungabunga-kørekort til et mere dansk og tidssvarende, Hr. Udlænding”, sagde de til ham. “Der vil i forbindelse dermed skulle betales pengebeløb til os. Danske pengebeløb. Her har dine træmønter og gnaverpelse ingen værdi”.
 
 <div class="bitImage bitLeft" style="width: 250px">
-  <img src="http://www.abekat.net/wp-content/images/k%F8rekort_01.jpg" alt="Hitler hentede aldrig sit danske førerbevis." /><br /> Et typisk dansk kørekort.
+  <img src="http://www.abekat.net/images/k%F8rekort_01.jpg" alt="Hitler hentede aldrig sit danske førerbevis." /><br /> Et typisk dansk kørekort.
 </div>
 
 Da Jeremy er fuld af gåpåmod og nybygger-snilde lykkes det ham hurtigt og trods alle odds at fremskaffe samtlige ovenstående effekter. Lægeerklæringen kostede ham 360,- at få foretaget, fordi lægen var en rigtig læge med uddannelse og fin kittel og pasfotoet 60,-. Altså foreløbig en samlet udgift på de to beløb, lagt sammen. Billigt sluppet for et dejligt dansk kørekort af fineste danske kørekortskvalitet. Med disse effekter i hånd og hjertet bugnende af forventet køreglæde, drog han atter til myndighedens hus.

@@ -16,5 +16,5 @@ categories:
   </p>
   
   <div class="bitImage bitCenter" style="width: 275px">
-    <img src="http://www.abekat.net/wp-content/images/MSNMessenger_0003.gif" alt="Han er VILDT irriterende, den flagermuse-dreng!" /></p>
+    <img src="http://www.abekat.net/images/MSNMessenger_0003.gif" alt="Han er VILDT irriterende, den flagermuse-dreng!" /></p>
   </div>

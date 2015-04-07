@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/brian.jpg" alt="Og min sjæl." /></p> <p>
+  <img src="http://www.abekat.net/images/brian.jpg" alt="Og min sjæl." /></p> <p>
     Så gammel er min krop.
   </p>
 </div>
@@ -26,7 +26,7 @@ Men den største synder er noget der hedder gluten. Gluten bor i vores brød og 
 
 <center>
   </p> <div class="bitImage bitCenter" style="width: 358px">
-    <img src="http://www.abekat.net/wp-content/images/brian2.jpg" alt="Og som jeg ser mig selv indeni." /><br /> Som jeg burde se ud.
+    <img src="http://www.abekat.net/images/brian2.jpg" alt="Og som jeg ser mig selv indeni." /><br /> Som jeg burde se ud.
   </div>
   
   <p>
@@ -38,7 +38,7 @@ Men den største synder er noget der hedder gluten. Gluten bor i vores brød og 
   </p>
   
   <div class="bitImage bitLeft" style="width: 238px">
-    <img src="http://www.abekat.net/wp-content/images/spinning.jpg" alt="Sveder mere end hende, dog." /><br /> Spinning går jeg til.
+    <img src="http://www.abekat.net/images/spinning.jpg" alt="Sveder mere end hende, dog." /><br /> Spinning går jeg til.
   </div>
   
   <p>

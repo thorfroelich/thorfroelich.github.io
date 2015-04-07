@@ -12,7 +12,7 @@ Jeg brugte dagene efter på at kigge på gulnede fotos og søge i vores familiet
 Her er et lille udvalgt af de mindst kedelige medlemmer af den storslåede race af mennesker kaldet Mørk:
 
 <div class="bitImage bitRight" style="width: 228px">
-  <img src="http://www.abekat.net/wp-content/images/neger.jpg" alt="Og han er den første Mørk." /><br /> Ukwekwe. Stolt som en negerhøvding.
+  <img src="http://www.abekat.net/images/neger.jpg" alt="Og han er den første Mørk." /><br /> Ukwekwe. Stolt som en negerhøvding.
 </div>
 
 **Ukwekwe Mørk**  
@@ -21,7 +21,7 @@ Ukwekwes smukke negerfarve er faktisk grunden til at familien fik navnet Mørk, 
 Ukwekwe er grunden til de negroide træk der dukker op i mange af hans efterkommere. Store læber, store næsebor, store manddomme og en hang til let voodoo.
 
 <div class="bitImage bitLeft" style="width: 274px">
-  <img src="http://www.abekat.net/wp-content/images/jack.jpg" alt="Og seriemorder." /><br /> Høj i hatten.
+  <img src="http://www.abekat.net/images/jack.jpg" alt="Og seriemorder." /><br /> Høj i hatten.
 </div>
 
 **Jack “Grinebider” Mørk**  
@@ -29,7 +29,7 @@ En farverig herre som læste til slagter i anden halvdel af 1800-tallet. Det ene
 Han voksede op med en dominerende mor som tjente til dagen og vejen ved at prostituere sig selv og sin generte og tillukkede søn til forbipasserende gøglere og gademusikanter. En mor som desværre afgik ved blødningsdøden få dage efter hans hjemkomst til Danevang, men som blev udødeliggjort da hun lagde navn til Jacks vidt berømte pølser ”Mutters egen Tarm”.
 
 <div class="bitImage bitRight" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/bertram.jpg" alt="Måske den smukkeste Mørk nogensinde." /><br /> Flot som ingen anden galning.
+  <img src="http://www.abekat.net/images/bertram.jpg" alt="Måske den smukkeste Mørk nogensinde." /><br /> Flot som ingen anden galning.
 </div>
 
 **Bertram ”Lampeskærm” Mørk**  
@@ -38,7 +38,7 @@ Han endte sine dage i favnen på sine 52 koner i sit storslåede mudder og kvist
 Billedet er taget et par dage efter.
 
 <div class="bitImage bitLeft" style="width: 210px">
-  <img src="http://www.abekat.net/wp-content/images/cerebus.jpg" alt="Formidabelt Intellekt. Og god til tennis." /><br /> Cerebros Mørk. Her er han 46 år gammel.
+  <img src="http://www.abekat.net/images/cerebus.jpg" alt="Formidabelt Intellekt. Og god til tennis." /><br /> Cerebros Mørk. Her er han 46 år gammel.
 </div>
 
 **Cerebros Kincaid Mørk**  
@@ -47,7 +47,7 @@ På få år havde Cerebros Mørk samlet sig en hær af mentalt slavebundne og vi
 Han havde tilranet sig så meget magt at lokale fyrster og lensherrer, i 1901, i en alliance med kongen og en ung Bud Spencer, rettede et direkte angreb på hans højborg ”Mentallicastellet” og udryddede både hæren og en dybt rystet Cerebros Mørk i et slag der for eftertiden blev kendt som ”Massakren på en masse sagesløse mænd ved navn Jens”.
 
 <div class="bitImage bitRight" style="width: 198px">
-  <img src="http://www.abekat.net/wp-content/images/henryette.jpg" alt="Et job hun både elskede og hadede." /><br /> Henryetta Mørk på arbejde.
+  <img src="http://www.abekat.net/images/henryette.jpg" alt="Et job hun både elskede og hadede." /><br /> Henryetta Mørk på arbejde.
 </div>
 
 **Henryetta Mørk**  

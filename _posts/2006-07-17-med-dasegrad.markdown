@@ -14,7 +14,7 @@ I får nu muligheden for at få et indblik i komikkens hemmelige verden. Et hurt
 Spild af blæk og papir er de. Og nu også af din tid. Læs og græd.
 
 <div class="bitImage bitRight" style="width: 152px">
-  <img src="http://www.abekat.net/wp-content/images/Clinton.jpg" alt="Det er den altid underholdende Boris Yeltsin." /><br /> Det er ikke Brian Mørk han hører i sine hovedtelefoner.
+  <img src="http://www.abekat.net/images/Clinton.jpg" alt="Det er den altid underholdende Boris Yeltsin." /><br /> Det er ikke Brian Mørk han hører i sine hovedtelefoner.
 </div>
 
 **Jokes fra Brian Mørks sorte bog.**
@@ -112,7 +112,7 @@ Jeg har en veninde der for nylig fik en abort.
 Smagløs indflytningsgave mener jeg.</em>
 
 <div class="bitImage bitCenter" style="width: 182px">
-  <img src="http://www.abekat.net/wp-content/images/Hippo.jpg" alt="Men flot er den." /><br /> Hvis dyret havde sans for humor ville den stadig gabe ad mig.
+  <img src="http://www.abekat.net/images/Hippo.jpg" alt="Men flot er den." /><br /> Hvis dyret havde sans for humor ville den stadig gabe ad mig.
 </div>
 
 Ja, sådan er det. Det er ikke smukt at skue det ved jeg. Men hvad kan man gøre når man er talentløs og grim? Jeg overvejer kraftigt at skifte branche. Måske noget hvor jeg hverken ses eller høres. For alles bedste.  

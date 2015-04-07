@@ -7,7 +7,7 @@ categories:
   - Podcasts
 ---
 <div style="width: 184px" class="bitImage bitRight">
-  <img width="184" height="164" alt="Manden kan ikke finde den!" src="http://www.abekat.net/wp-content/images/bigbird_01.jpg" /><br /> Fuglen er større end normale fugle!!
+  <img width="184" height="164" alt="Manden kan ikke finde den!" src="http://www.abekat.net/images/bigbird_01.jpg" /><br /> Fuglen er større end normale fugle!!
 </div>
 
 Så er vi nået til den 5. udgave af Affenkaffen. Denne gang kigger vi på truslen fra fugleinfluenza. Sædvanen tro løser vi problemet til alles store fornøjelse, altimens vi drikker dejlig kaffe og spiser kanelgifler. Følgende spørgsmål står dog tilbage: Er der noget der hedder ‘snotnæb’?

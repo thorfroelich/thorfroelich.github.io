@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/Sommerhus_01.jpg" alt="Mouse over: Familien har slået telt op udenfor, for at beskytte sig mod elementernes rasen." /><br /> Et typisk sommerhus
+  <img src="http://www.abekat.net/images/Sommerhus_01.jpg" alt="Mouse over: Familien har slået telt op udenfor, for at beskytte sig mod elementernes rasen." /><br /> Et typisk sommerhus
 </div>
 
 Ferien er over mig, mine tasker er pakkede og mit rejsemål denne gang en af verdens mest mystiske mysterier. Som Pyramiderne, Stonehenge og Bermudatrekanten aftvinger også sommerhuset os spørgsmålet: ”hvem byggede det? … og HVORFOR?”  
@@ -20,7 +20,7 @@ Sommerhuset er normalt beliggende i en del af landet, som ved et mystisk geograf
 I sommerhuset vil du heller ikke, som på andre ferier, få chancen for at møde farverige fremmede kulturer og pege fingre af dem. Den lokale cuisine består mest af flæskestegssandwich og remoulade. Du kan ikke købe toldfrit på noget tidspunkt af turen, og de har akkurat de samme is som din hjemlige kiosk også fører. Du vil med andre ord opleve præcis det samme, som du kunne have oplevet derhjemme, bare meget mindre af det.
 
 <div class="bitImage bitLeft" style="width: 168px">
-  <img src="http://www.abekat.net/wp-content/images/Hatten_01.jpg" alt="Langt mere uhyggelige er de tykke turister." /><br /> Ingen af denne slags tyskere ser man.
+  <img src="http://www.abekat.net/images/Hatten_01.jpg" alt="Langt mere uhyggelige er de tykke turister." /><br /> Ingen af denne slags tyskere ser man.
 </div>
 
 Det skorter også betragteligt på letpåklædte cyklepiger af den type, som i denne tid gør Nørrebrogade til et veritabelt Moulin Rouge. Sommerlandet befolkes øjensynligt udelukkende af tykke børnefamilier og endnu tykkere tyskere (og tyskerne er naturligvis helt og holdent af den kedelige moderne slags, uden dødningehoved-prydet hovedpryd og naziguld i lommerne).

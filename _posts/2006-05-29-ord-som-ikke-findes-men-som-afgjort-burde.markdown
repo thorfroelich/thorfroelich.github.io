@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 228px">
-  <img src="http://www.abekat.net/wp-content/images/marengs_01.jpg" alt="OG BÆR!!!!!!!!!" /><br /> MARENGS!!!!!!!!!!
+  <img src="http://www.abekat.net/images/marengs_01.jpg" alt="OG BÆR!!!!!!!!!" /><br /> MARENGS!!!!!!!!!!
 </div>
 
 **Busloren**  
@@ -27,7 +27,7 @@ Eksempel på brug: *“Domptøren slog mig som særdeles kammersjukøs. Ikke et 
 Se: *Fjertenbuks*
 
 <div class="bitImage bitLeft" style="width: 158px">
-  <img src="http://www.abekat.net/wp-content/images/liguster_01.jpg" alt="Hertil og ikke længere!" /><br /> Den private ejendomsrets vogter!
+  <img src="http://www.abekat.net/images/liguster_01.jpg" alt="Hertil og ikke længere!" /><br /> Den private ejendomsrets vogter!
 </div>
 
 **Kratfældig**  

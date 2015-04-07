@@ -14,7 +14,7 @@ Da jeg var på højde med en knallert glædede jeg mig hvert år ved vinterens k
 Vi havde ingen pejs og min kælk var ingen kælk men en plastik bobslæde med rat der knækkede første gang den skulle navigere uden om en træstub. Og resten er også blot opiumsdrømme og galimatias. Dagene med sne syntes bare længere fordi børnetid minder om hundetid og sneen lå højere fordi man selv var mindre end en Ewok.
 
 <div class="bitImage bitLeft" style="width: 130px">
-  <img src="http://www.abekat.net/wp-content/images/fnug.jpg" alt="Hvis du spørger mig så ligner det alle de andre." /><br /> Fnug.
+  <img src="http://www.abekat.net/images/fnug.jpg" alt="Hvis du spørger mig så ligner det alle de andre." /><br /> Fnug.
 </div>
 
 I virkeligheden var dagene kun præcist lange nok til at man kunne nå at få lungebetændelse og snedriverne var mere søer af det mest forurenede sjap.  
@@ -22,7 +22,7 @@ Vinteren i Danmark er den årstid hvor man glædes over at kunne se sin ånde fo
 I andre lande har de ordentlige vintre. Schweitz og Østrig med deres afterski fester, sneklædte pister og bjerge. Sverige og Norge med deres kaner med bjælder, strikhuer og glögg og Rusland med slaget om Stalingrad. 
 
 <div class="bitImage bitRight" style="width: 200px">
-  <img src="http://www.abekat.net/wp-content/images/kulde.JPG" alt="Se hvor de fryser." /><br /> En ordentlig vinter holder tysken fra døren.
+  <img src="http://www.abekat.net/images/kulde.JPG" alt="Se hvor de fryser." /><br /> En ordentlig vinter holder tysken fra døren.
 </div>
 
 Den eneste morskab man har herhjemme er at undlade at salte foran sit hus og så betragte brave fodgængeres kamp mod alliancen af tyngdekraft og manglende fodfæste. Det og så at huske at vande asfalten hver aften inden man går i seng. Det er muligvis ulovligt men det er al morskab jo.  

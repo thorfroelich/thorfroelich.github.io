@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/saddam_01.jpg" alt="Han er SØD!" /><br /> Solsikke-kongen, Saddam Hussein al-Majid.
+  <img src="http://www.abekat.net/images/saddam_01.jpg" alt="Han er SØD!" /><br /> Solsikke-kongen, Saddam Hussein al-Majid.
 </div>
 
 Vi her på aben har fået fingre i det komplette anklageskrift mod Irak’s tidligere (og nuværende, i følge manden selv) dikator, Saddam Hussein al-Majid alias *Baathman*. Det er en længere sag, som vi i samfundets tjeneste har kogt ned til de væsentlige punkter, således at du ikke skal kede dig med at læse side op og side ned af juridisk bavl. På arabisk.
@@ -24,7 +24,7 @@ Afventer domsafsigelse.
 Afventer domsafsigelse.
 
 <div class="bitImage bitLeft" style="width: 240px">
-  <img src="http://www.abekat.net/wp-content/images/moon.jpg" alt="Helt vidunderlig, siger jeg!" /><br /> “Så gør dog noget!”; Saddam Hussein, 1997.
+  <img src="http://www.abekat.net/images/moon.jpg" alt="Helt vidunderlig, siger jeg!" /><br /> “Så gør dog noget!”; Saddam Hussein, 1997.
 </div>
 
 … at urimeligt have krævet alle irakere i stand til at flyve helikopter i mørke, med det formål at fylde himmelhvælvet med utallige af disse flyvende maskiner, for en gang for alle at skærme hans mange paladser mod “månens tarvelige og kvindagtigt blege lys”.  

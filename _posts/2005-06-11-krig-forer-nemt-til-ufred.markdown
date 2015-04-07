@@ -7,7 +7,7 @@ categories:
   - Introduktioner til...
 ---
 <div class="bitImage bitRight" style="width: 178px">
-  <img src="http://www.abekat.net/wp-content/images/kidsoldier_01.jpg" alt="De er helt utålmodige efter strid!" /><br /> Selv de helt små kan være med!
+  <img src="http://www.abekat.net/images/kidsoldier_01.jpg" alt="De er helt utålmodige efter strid!" /><br /> Selv de helt små kan være med!
 </div>
 
 Vi mennesker bryder os generelt ikke særligt om hinanden. Bevares, i ny og næ kan jeg synes at både hende pigen derhjemme og endog Brian, er tålelige, men kun hvis jeg er fuld eller meget syg. Menneskene i lejligheden ved siden af, rødhårede, folk der taler et uforståeligt sprog og utallige andre; dem kan jeg sgu ikke lide. Og sådan har vi det allesammen. Undtagen Jesus og måske Paven. Det er derfor vi, som art, ret hurtigt i vores udvikling opfandt krig.
@@ -29,7 +29,7 @@ Popularitet: Urimeligt udbredt
 Skade: Væsentligt mere end jævnt nas
 
 <div class="bitImage bitLeft" style="width: 258px">
-  <img src="http://www.abekat.net/wp-content/images/rocketlauncher_01.jpg" alt=""Sådan ja, det var flot ... far er stolt"." /><br /> “Peg den over mod muslimerne, lille skat”.
+  <img src="http://www.abekat.net/images/rocketlauncher_01.jpg" alt=""Sådan ja, det var flot ... far er stolt"." /><br /> “Peg den over mod muslimerne, lille skat”.
 </div>
 
 **Raketkaster**  

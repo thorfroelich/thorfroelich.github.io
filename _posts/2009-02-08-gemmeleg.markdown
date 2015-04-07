@@ -16,7 +16,7 @@ tags:
   - æg
 ---
 <div id="attachment_483" class="wp-caption alignright" style="width: 270px">
-  <img class="size-full wp-image-483" title="Struds gemmer sig" src="http://www.abekat.net/wp-content/images/ostrichhiding.jpg" alt="En anden gemmestrategi" width="260" height="171" /><p class="wp-caption-text">
+  <img class="size-full wp-image-483" title="Struds gemmer sig" src="http://www.abekat.net/images/ostrichhiding.jpg" alt="En anden gemmestrategi" width="260" height="171" /><p class="wp-caption-text">
     En anden gemmestrategi
   </p>
 </div>
@@ -34,7 +34,7 @@ tags:
 Det er sjældent til at finde hoved og hale i hvad det Lille Barn, ja, børn i det hele taget siger. Og det er jo fordi børn bliver født uden viden om noget som helst. Derfor går de ind i ting, prøver at spise sommerfugle og hiver katte (fulde af tænder og klør) i knurhårene. Næ, viden skal man skam selv sørge for at berige dem med. Problemet er bare at hjernen hvori al denne viden skal gøres af, først er færdigudviklet sent i teenageårene.
 
 <div id="attachment_490" class="wp-caption alignleft" style="width: 274px">
-  <img class="size-full wp-image-490" title="Menneske-æg" src="http://www.abekat.net/wp-content/images/human_egg.jpg" alt="&quot;Ih, nu skal vi snart klække lille Kenwin.&quot;" width="264" height="233" /><p class="wp-caption-text">
+  <img class="size-full wp-image-490" title="Menneske-æg" src="http://www.abekat.net/images/human_egg.jpg" alt="&quot;Ih, nu skal vi snart klække lille Kenwin.&quot;" width="264" height="233" /><p class="wp-caption-text">
     "Ih, nu skal vi snart klække lille Kenwin."
   </p>
 </div>

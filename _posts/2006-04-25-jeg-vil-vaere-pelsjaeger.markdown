@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 192px">
-  <img width="192" height="221" alt="Flotte som idioter." src="http://www.abekat.net/wp-content/images/furry.jpg" /><br /> Se hvor flotte de er.
+  <img width="192" height="221" alt="Flotte som idioter." src="http://www.abekat.net/images/furry.jpg" /><br /> Se hvor flotte de er.
 </div>
 
 Danmark er et ganske lille kongerige beskyttet på alle sider af et kold, uvelkommende og algeinfesteret farvand. Bortset fra et enkelt sted hvor vi er bevogtet af stolte germanere. Og dem har vi aldrig haft grund til at frygte.  
@@ -16,7 +16,7 @@ Det er sket før. Hvem husker ikke den katastrofale Goth-invasion hvor livskraft
 Det har længe været moderne blandt ungdommen at fjerne hvert eneste hår på deres krop til den er ganske nøgen og glat som en ådselsædende ål. Noget ungdommen i dens evige naivitet og enfoldighed har drevet alt for langt så den også kom til at gælde hankønsvæsner. Men nu går tendensen den anden vej. På en måde. Ude i verden er unge mennesker begyndt at iklæde sig pels. Eller ikke så meget pels som plyds. Disse forvirrede individer er kendt som Furries og deres demente fetish (seksuelle orientering, ikke en afrikansk shamans åndefigur) går ud på at forklæde sig som nuttede plydsdyr. Bamser, kaniner, hunde og egern. En helt ny måde at flygte fra den kedelige og trivielle hverdag og langt ind i sindssygen.
 
 <div class="bitImage bitLeft" style="width: 192px">
-  <img width="192" height="257" alt="Mig!" src="http://www.abekat.net/wp-content/images/sexy.jpg" /><br /> Hvem ville ikke tænde på denne frække mis?
+  <img width="192" height="257" alt="Mig!" src="http://www.abekat.net/images/sexy.jpg" /><br /> Hvem ville ikke tænde på denne frække mis?
 </div>
 
 Som alt andet der er usundt for sjælen og ganske enkelt forkert, stammer denne tendens fra Perversitetens øverste Citadel, også kendt som Japan. I den nedgående sols land er livet åbenbart så utroligt nederen at en eksistens som en to meter høj killing er en forbedring.  

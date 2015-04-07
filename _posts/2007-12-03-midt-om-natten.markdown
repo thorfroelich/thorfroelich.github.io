@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/owl_01.jpg" alt="Den ofte ugleset. Undskyld." /></p> <p>
+  <img src="http://www.abekat.net/images/owl_01.jpg" alt="Den ofte ugleset. Undskyld." /></p> <p>
     Uglen kan findes om natten i og omkring uglerier.
   </p>
 </div>
@@ -22,7 +22,7 @@ Natten er den tid hvor verden er klogest – de fleste af idioterne sover og nå
 Og nu jeg skriver om lyde… Om natten kan man høre alle lyde med deres oprindelige lydstyrke, modsat om dagen hvor en mp3 afspiller ikke engang kan overdøve trafikstøjen uden at skulle skrues op over smertetærsklen! Man kan også høre den enkelte lyd, ikke bare en summende susende baggrundsstøj – faktisk kan man skelne enkelte automotiver fra hinanden selvom deres respektive lydpotter er uskadte!
 
 <div class="bitImage bitLeft" style="width: 220px">
-  <img src="http://www.abekat.net/wp-content/images/skinnydipping.jpg" alt="Mit kamera lå på natbordet." /><br /> Jeg er (desværre) ikke ophavsmand til dette pragtfulde fotografi af den badende ungdom.
+  <img src="http://www.abekat.net/images/skinnydipping.jpg" alt="Mit kamera lå på natbordet." /><br /> Jeg er (desværre) ikke ophavsmand til dette pragtfulde fotografi af den badende ungdom.
 </div>
 
 Sent om natten er også det eneste tidspunkt man kan se Venus på den østlige horisont. Den er værd at være på udkig efter! Man kan ofte også se Mars (planeten med monstrene, ikke nougatstangen) – faktisk indhenter jorden Mars om cirka to uger fra skrivende stund, og da vil den være det klareste den kommer til at være det næste års tid.  

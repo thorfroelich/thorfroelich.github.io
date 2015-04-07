@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/lada.jpg" alt="En-akslet køreglæde!" /><br /> Ladavogntøj.
+  <img src="http://www.abekat.net/images/lada.jpg" alt="En-akslet køreglæde!" /><br /> Ladavogntøj.
 </div>
 
 Hold da helt op manner. Siden adjunkt Brian Mørk offentliggjorde nogle af de breve vi har modtaget igennem tiden og brevsprækken, er det væltet ind med mere uønsket post. Mange sølle eksistenser har fået det indtryk at vi her på aben ikke har bedre at tage os til end at svare på spørgsmål fra selvsamme sølle eksistenser. Og det har vi naturligvis ikke.
@@ -35,7 +35,7 @@ Kærlige hilsner,
 Aben, Afdelingen for Hele Internettet
 
 <div class="bitImage bitLeft" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/divan.jpg" alt="Velour!" /><br /> Sans monsieur Mørk.
+  <img src="http://www.abekat.net/images/divan.jpg" alt="Velour!" /><br /> Sans monsieur Mørk.
 </div>
 
 *Kære Abekat,  

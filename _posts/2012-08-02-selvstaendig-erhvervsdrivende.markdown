@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div id="attachment_603" class="wp-caption alignleft" style="width: 310px">
-  <a href="http://www.abekat.net/wp-content/images/revisor.jpg"><img class="size-full wp-image-603" title="revisor" src="http://www.abekat.net/wp-content/images/revisor.jpg" alt="" width="300" height="323" /></a><p class="wp-caption-text">
+  <a href="http://www.abekat.net/images/revisor.jpg"><img class="size-full wp-image-603" title="revisor" src="http://www.abekat.net/images/revisor.jpg" alt="" width="300" height="323" /></a><p class="wp-caption-text">
     Jeg er så uduelig at min revisor fik et dovent øje.
   </p>
 </div>

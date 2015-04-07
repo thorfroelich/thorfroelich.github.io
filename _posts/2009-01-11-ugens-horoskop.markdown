@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight">
-  <img src="http://www.abekat.net/wp-content/images/unicorn_chaser.gif" alt="Unicorn Chaser" /> </p> <p>
+  <img src="http://www.abekat.net/images/unicorn_chaser.gif" alt="Unicorn Chaser" /> </p> <p>
     Glimmer-dyr ved fuldmåne. Tak, Internettet.
   </p>
 </div>
@@ -28,7 +28,7 @@ Du vil i denne uge være sparet for direkte indblanding i det geopolitiske magts
 Du har eller har haft en jævnaldrende bror eller søster! Derudover vil bekendtskaber spille en rolle denne uge og det samme gælder grundstofferne, som du under ingen omstændigheder kan ignorere i den kommende tid. Det tyder på noget med Brom. Eller måske Brint. Stjernerne er lidt utydelige på det punkt.
 
 <div class="bitImage bitLeft" style="width: 300px;">
-  <img src="http://www.abekat.net/wp-content/images/horoscope_01.gif" alt="Diagrammer!" /> </p> <p>
+  <img src="http://www.abekat.net/images/horoscope_01.gif" alt="Diagrammer!" /> </p> <p>
     Horoskopet er fuld af videnskabsdiagrammer og anden skematik, således at du kan være sikker på dets forudsigelser.
   </p>
 </div>

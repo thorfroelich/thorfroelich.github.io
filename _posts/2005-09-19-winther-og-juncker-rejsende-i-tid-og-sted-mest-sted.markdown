@@ -22,13 +22,13 @@ Juncker har lige lavet dejlig the. Udover det, er han ikke til megen hjælp. For
 Herefter kan samtalen tage en ud af to mulige drejninger. Enten går den i ring med mulighed for at fortsætte længe eller også bliver den hastigt afbrudt fra opringerens side. Men der går aldrig ret lang tid før en lignende telefonisk udveksling vil finde sted.
 
 <div class="bitImage bitCenter" style="width: 108px">
-  <img src="http://www.abekat.net/wp-content/images/margarine_01.jpg" alt="" /></p>
+  <img src="http://www.abekat.net/images/margarine_01.jpg" alt="" /></p>
 </div>
 
 Winther og Juncker og deres forhold bør beskrives nærmere. Tyksak er et godt ord at bruge om Winther, fordi han er en. Dette skyldes, som det ofte gør, et lavt stofskifte – han er så at sige disponeret for det. Det skyldes også en diæt bestående overvejende af fedtmamoreret kød med sovs til. Sovs lavet på fedt. Hans tidlige år stod i margarinens tegn og “Der er mere derude”, var bordbøn i Winther’s barndomshjem.
 
 <div class="bitImage bitRight" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/broend_01.jpg" alt="" /></p>
+  <img src="http://www.abekat.net/images/broend_01.jpg" alt="" /></p>
 </div>
 
 Juncker’s opvækst var en ganske anden, specielt i den forstand at han voksede langt mindre. En ikke ubetydelig del af Junckers noget kummerlige ungdom blev tilbragt i en brønd. Det var en udmærket brønd, som havde alt hvad sådan en skal have – mest vand og mørke. Hans forældre var ikke decideret velegnede til børneopdragelse og besluttede tidligt at nakkedrag og ophold i brønd skulle være konsekvensen af selv den mindste forteelse. Hvis de sociale myndigheder dengang havde forfulgt den slags sager med samme nidkærhed som i dag, var lille Juncker sandsynligvis blevet fjernet fra hjemmet og sendt til destruktion. Det sidste, fordi Juncker var og stadig er, en grimrian uden lige. Han er dog i store træk det man vil kalde et ‘godt menneske’, hans noget triste barndom til trods. Han hjælper Winther i det daglige, fordi denne uden omsvøb kan betegnes som hjælpeløs. Som tak, lader tyksakken grimmerten bo hos sig. Symbiosen er i virkeligheden ganske smuk og fortjener en del ros.

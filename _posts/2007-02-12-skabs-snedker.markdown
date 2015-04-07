@@ -10,7 +10,7 @@ Jeg har bygget et skab. Nej, ikke blot et skab men en købmandsdisk. Sådan et m
 
 <center>
   </p> <div class="bitImage bitCenter" style="width: 452px">
-    <img src="http://www.abekat.net/wp-content/images/al.jpg" alt="Altså en hvilken som helst disk!" /><br /> En disk som ville være Al Pacino i rollen som købmanden fra Venedig værdig.
+    <img src="http://www.abekat.net/images/al.jpg" alt="Altså en hvilken som helst disk!" /><br /> En disk som ville være Al Pacino i rollen som købmanden fra Venedig værdig.
   </div>
   
   <p>
@@ -22,7 +22,7 @@ Jeg har bygget et skab. Nej, ikke blot et skab men en købmandsdisk. Sådan et m
   </p>
   
   <div class="bitImage bitRight" style="width: 176px">
-    <img src="http://www.abekat.net/wp-content/images/jesus1.jpg" alt="Med en mirakuløs savteknik." /><br /> Jesus er en bedre snedker end jeg.
+    <img src="http://www.abekat.net/images/jesus1.jpg" alt="Med en mirakuløs savteknik." /><br /> Jesus er en bedre snedker end jeg.
   </div>
   
   <p>

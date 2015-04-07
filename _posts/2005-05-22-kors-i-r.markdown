@@ -15,7 +15,7 @@ Og mit galdebæger er ellers dybt som et digt forfattet af en følsom pige fra 3
 Nej de har egentlig ikke gjort mig noget rent personligt. Faktisk aner de ikke at jeg eksisterer. Men det vil de komme til. Mærk jer mine ord. De vil komme til at fortryde den dag de krydsede Brian Mørks vej. Fortryde og begræde.
 
 <div class="bitImage bitRight" style="width: 200px">
-  <img src="http://www.abekat.net/wp-content/images/nazi.jpg" alt="De er åbenlyst medlemmer af herskerracen. Se de flotte mænd!" /><br /> De er åbenlyst medlemmer af herskerracen. Se de flotte mænd!
+  <img src="http://www.abekat.net/images/nazi.jpg" alt="De er åbenlyst medlemmer af herskerracen. Se de flotte mænd!" /><br /> De er åbenlyst medlemmer af herskerracen. Se de flotte mænd!
 </div>
 
 Hvad de har gjort mig?  
@@ -59,7 +59,7 @@ De spiser rigeligt og gladeligt af vores flæskebord.
 På bålet med dem.
 
 <div class="bitImage bitCenter" style="width: 200px">
-  <img src="http://www.abekat.net/wp-content/images/kitten.jpg" alt="Nazipartiets nye image" /><br /> Nazipartiets nye image.
+  <img src="http://www.abekat.net/images/kitten.jpg" alt="Nazipartiets nye image" /><br /> Nazipartiets nye image.
 </div>
 
 Når så Nazipartiet er blevet reformeret til den lyse side og alle i verden ser på det med nye og positive øjne så vil jeg gå min sejrsgang over kloden.  

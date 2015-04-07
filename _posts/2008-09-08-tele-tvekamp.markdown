@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 238px">
-  <img src="http://www.abekat.net/wp-content/images/smsklovn.jpg" alt="Men ikke så gode ord." /></p> <p>
+  <img src="http://www.abekat.net/images/smsklovn.jpg" alt="Men ikke så gode ord." /></p> <p>
     “Man kan skrive ord med knapperne på telefon-maskinen!”
   </p>
 </div>

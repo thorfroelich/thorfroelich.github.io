@@ -9,14 +9,14 @@ categories:
 Der er få ting i verden der kan fylde mit skrøbelige fedthylster af en krop med energi og adrenalin som en regngrå eftermiddag med håndbold på fjernsynsmaskinen. Desværre er der altid tale om en energi og adrenalin som er født i et hav af vrede og had. Jeg får nemlig ikke lyst til at løbe rundt og spille bold, jeg får lyst til at indtage Polen. Energisk.
 
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/ulrik.jpg" alt="En ægte Ogier le Danois." /><br /> Sådan ser en dansk helt ud.
+  <img src="http://www.abekat.net/images/ulrik.jpg" alt="En ægte Ogier le Danois." /><br /> Sådan ser en dansk helt ud.
 </div>
 
 Det føles lidt som en falliterklæring at vi kaster vores heroiske fædrelandskærlighed på lige den sportsgren vi tilfældigvis er ret ferme til. Det kunne have været Meyer, Høvdingebold eller Langspyt, men nu er det blevet håndbold. En sport der ville have været en obskur skolegårdsleg som ’dåseskjul’ eller ’Hvem-mobber-pigen- med-tørklædet-til-hun-græder’ havde det ikke været fordi vi danskere var lovligt dygtige til at kaste med bold og løbe ind i hinanden. Der er jo tale om noget der stadig stinker langt væk af gymnastiktime selvom det bliver udført på højt internationalt plan. Jeg sidder og ser på eliteidræt men føler at der lige om lidt er frikvarter og alle spillerne skal hurtigt ud i bad fordi de skal skynde sig ned og have en god plads i køen i kantinen.
 
 <center>
   <div class="bitImage bitCenter" style="width: 258px">
-    <img src="http://www.abekat.net/wp-content/images/bold.jpg" alt="Bare se den. Føj!" /><br /> En globe af det pureste ondskab.
+    <img src="http://www.abekat.net/images/bold.jpg" alt="Bare se den. Føj!" /><br /> En globe af det pureste ondskab.
   </div>
   
   <p>
@@ -28,7 +28,7 @@ Det føles lidt som en falliterklæring at vi kaster vores heroiske fædrelandsk
   </p>
   
   <div class="bitImage bitRight" style="width: 114px">
-    <img src="http://www.abekat.net/wp-content/images/svin.jpg" alt="Og remoulade og Hitler." /><br /> Han er bare glad for håndbold.
+    <img src="http://www.abekat.net/images/svin.jpg" alt="Og remoulade og Hitler." /><br /> Han er bare glad for håndbold.
   </div>
   
   <p>

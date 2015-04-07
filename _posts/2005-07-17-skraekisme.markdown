@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 152px">
-  <img src="http://www.abekat.net/wp-content/images/fly.jpg" alt="Hvad byder man uventede gæster?" /><br /> Dengang de opdagede de havde brug for større fly.
+  <img src="http://www.abekat.net/images/fly.jpg" alt="Hvad byder man uventede gæster?" /><br /> Dengang de opdagede de havde brug for større fly.
 </div>
 
 Jeg har knækket nøden (så nu skal jeg på skadestuen ha ha) og inde i den sønderknuste skal har jeg fundet løsningen på alle vores problemer. Eller ihvertfald et enkelt af dem.  
@@ -27,7 +27,7 @@ Men ikke mere. For i fremtiden ringer jeg bare ind og påtager mig ansvaret før
 Jeg forudser at det vil lyde præcis som følger:
 
 <div class="bitImage bitLeft" style="width: 172px">
-  <img src="http://www.abekat.net/wp-content/images/Peace201.jpg" alt="Som står uafgjort i Sten, Saks, Papir konkurrencen." /><br /> To små herlige skrækister.
+  <img src="http://www.abekat.net/images/Peace201.jpg" alt="Som står uafgjort i Sten, Saks, Papir konkurrencen." /><br /> To små herlige skrækister.
 </div>
 
 Ring ring (telefonen)  

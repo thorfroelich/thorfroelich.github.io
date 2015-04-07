@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 158px">
-  <img src="http://www.abekat.net/wp-content/images/cykel_01.gif" alt="Af banen, af banen, her kommer binanen!" /><br /> Selv passer jeg altid flot på, når jeg cykler!
+  <img src="http://www.abekat.net/images/cykel_01.gif" alt="Af banen, af banen, her kommer binanen!" /><br /> Selv passer jeg altid flot på, når jeg cykler!
 </div>
 
 Langt flere end først antaget bør, efter min mening, have deres ben sat af. Alternativt kan man vælte deres cykler i en vulkan. Årsagen er dårlig trafik-etikette, som sandsynligvis er et resultat af mangelfuld opdragelse eller en forsvindende evne til at sætte sig i andres sted. Det er for så vidt uvedkommende for diskussionen lige nu, da jeg aldrig har været den store tilhænger af andet end symptombehandling. Jeg mener, hvis man er konsekvent nok med amputationerne, vil problemet gå i sig selv igen. Lidt ligesom det skete for sabeltigeren og rytmik-timer i folkeskolen. Hvis ikke, så har man haft det sjovt med det så længe.
@@ -15,7 +15,7 @@ Langt flere end først antaget bør, efter min mening, have deres ben sat af. Al
 Ofte kommer jeg cyklende, forsvarligt, lovmæssigt og sikkert, men betydeligt hurtigere end de andre mennesker. Overhaling på overhaling, i eet væk. Det er såmænd ikke fordi jeg kører særligt stærkt. Min fysik tillader det dårligt. Men snarere er det fordi det øjensynligt er på mode at køre akkurat så hurtigt, at man ikke vælter om på siden og bryder i brand. Men så bestemt heller ikke hurtigere. Personligt synes jeg det er pinligt at komme langsommere frem end mennesker til fods men på det punkt skiller jeg mig ud.
 
 <div class="bitImage bitLeft" style="width: 158px">
-  <img src="http://www.abekat.net/wp-content/images/cykel_02.jpg" alt="Måske var manden ikke så tosset endda?!" /><br /> Med en cykel som denne ville jeg eje vejen, som profeten forudså det. Manden vil jeg ikke vide af.
+  <img src="http://www.abekat.net/images/cykel_02.jpg" alt="Måske var manden ikke så tosset endda?!" /><br /> Med en cykel som denne ville jeg eje vejen, som profeten forudså det. Manden vil jeg ikke vide af.
 </div>
 
 Af og til hænder det så. En af de meget langsomme øjner muligheden for at overhale en af de helt ubeskriveligt langsomme cyklister. Som en gletsjer kryber forbi en anden og mere træg gletsjer. Eller et væddeløb mellem muslinger. Men man må jo ikke overhale før man har kigget sig tilbage – der kunne jo komme nogen, som man så kørte lige ud foran! Farligt! Over skuldren ser de mig i rasende fart nærme sig og trækker derpå prompte ud foran. Jeg truer naturligvis med at skænde deres grave og måske nive dem.  
@@ -29,7 +29,7 @@ Men, vent! Der er flere farlige forhindringer på din vej. Alle kender vi De Uad
 *“Hvad giver Jer dog anledning til at turde gætte på sværhedsgraden af min mangel på tid”?!*
 
 <div class="bitImage bitRight" style="width: 85px">
-  <img src="http://www.abekat.net/wp-content/images/figur_01.jpg" alt="Så få dog bukser på, menneske!" /><br /> De er ikke alle lige vellignende
+  <img src="http://www.abekat.net/images/figur_01.jpg" alt="Så få dog bukser på, menneske!" /><br /> De er ikke alle lige vellignende
 </div>
 
 Er mit møde blevet udsat? Venter de lidt med at starte filmen i biografen, fordi jeg var nødsaget til at køre bag Jer? Hvor heldigt. Hurra. Godt jeg mødte Jer.

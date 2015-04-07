@@ -7,7 +7,7 @@ categories:
   - Skrønen
 ---
 <div class="bitImage bitRight" style="width: 228px">
-  <img src="http://www.abekat.net/wp-content/images/gammel_01.jpg" alt="Men de anede ikke hvad de skulle gøre, hvis de fik 'tænderne' i vort kød." /><br /> Det hændte ofte, at de gamle prøvede at spise personalet.
+  <img src="http://www.abekat.net/images/gammel_01.jpg" alt="Men de anede ikke hvad de skulle gøre, hvis de fik 'tænderne' i vort kød." /><br /> Det hændte ofte, at de gamle prøvede at spise personalet.
 </div>
 
 “Ser du, gamle menneske, jeg var nødsaget til at sælge dine tænder for at kunne betale for dit fortsatte ophold her på hjemmet”, sagde jeg til ham, opgivende. Og højt. “Vi har ellers givet dig utallige girokort, uden held”. Han kiggede på mig, stærkt skelende. Jeg rakte ud mod hans ansigt for at rette på glasøjet. Gamlingen dukkede sig, adræt som en stork. Han frygtede uden tvivl nok en kindhest og var ikke klar over, at jeg blot havde i sinde at rette på hans skævtsiddende øjenkulisse.  
@@ -16,7 +16,7 @@ Jeg stak ham en kindhest. Og mindede ham igen om, at, skønt vi synes det var de
 Jeg havde været på plejehjemmet lige så længe jeg kunne huske. Formodentlig ikke i særlig lang tid. Jeg synes godt om arbejdet, ikke beboerne. Og dog; arbejdet faldt egentlig heller ikke i min smag. Omstændighederne omkring min ‘anbringelse’, som der stod på det skæbnesvangre papir, havde vist en hel del at gøre med en domsafsigelse og strafudmåling ved en højere juridisk instans. Slem var min brøde og nu udstod jeg min straf. Det skal nævnes, at jeg aldrig blev helt klar over, hvad jeg skulle have gjort og kunne derfor ikke undgå en vis bitterhed over den tvang jeg blev underlagt. Kancellisprog var ikke min stærke side. Den sparsomme information jeg kunne vriste fra retsdokumenterne nævner en salthorst på Falster, forsvundne midler og et større antal forældreløse børn. Muligvis vanrøgt. Tættere kommer jeg det næppe.
 
 <div class="bitImage bitLeft" style="width: 178px">
-  <img src="http://www.abekat.net/wp-content/images/gammel_02.jpg" alt="Noget jeg igen og igen glemte." /><br /> Af terapeutiske årsager, var det her vigtigt at lade den gamle falde selv, uden at hjælpe med et skub.
+  <img src="http://www.abekat.net/images/gammel_02.jpg" alt="Noget jeg igen og igen glemte." /><br /> Af terapeutiske årsager, var det her vigtigt at lade den gamle falde selv, uden at hjælpe med et skub.
 </div>
 
 Dagene var lange og ligeså mit skrotum. Tiden fordrev jeg med at sælge de gamles effekter tilbage til dem. Deri bestod også hovedparten af min indtægt, som dog blev suppleret med penge vundet i hazardspil. Hvis boccia kan kategoriseres som sådan. Som jeg forklarede forstanderen, efter adskillige klager: “Ingen er blevet tvunget til, at aflevere deres lommepenge til mig, udover dem jeg decideret var nødt til at true med vold”. Gamle kan være noget så påståelige. De løber heldigvis sjældent hurtigt og jeg har endnu ikke mødt den pensionist, som kan forsvare sig mod mit møllevingeangreb. Jeg tror min voldsomme virren med hovedet og skrigeriet også er med til at forvirre dem. Men det er kun nødvendigt, skulle de voldsomme circulært bevægende arme mod forventning ramme forbi.

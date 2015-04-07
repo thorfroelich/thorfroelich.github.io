@@ -7,7 +7,7 @@ categories:
   - Skrønen
 ---
 <div class="bitImage bitRight" style="width: 148px">
-  <img src="http://www.abekat.net/wp-content/images/asier_01.jpg" alt="De er gode til et stykke med mad, ja" /></p>
+  <img src="http://www.abekat.net/images/asier_01.jpg" alt="De er gode til et stykke med mad, ja" /></p>
 </div>
 
 Der sidder de. På bænken, ned til åen, lige bagved Fakta, hvor de under påskud af, at skulle købe et glas asier har forsynet sig med kaffe, som ellers kun er til handlende kunder. Som de plejer, Ketty og Frk. Faber, henholdsvis 78 og 79 år. Frk. Fabers søndagsudgave befinder sig i hænderne på Ketty og Kettys øjne peger i retning af dødsannoncerne på hvilke avisen er slået op.  

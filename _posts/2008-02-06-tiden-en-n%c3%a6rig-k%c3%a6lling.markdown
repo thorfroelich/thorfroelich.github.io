@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 190px">
-  <img src="http://www.abekat.net/wp-content/images/laeser.jpg" alt="Han dukker op i en søgning på 'Virus From Space"! /></p> <p>
+  <img src="http://www.abekat.net/images/laeser.jpg" alt="Han dukker op i en søgning på 'Virus From Space"! /></p> <p>
     Her ses Abekattens læser surmule over tingenes tilstand. Og sig selv.
   </p>
 </div>
@@ -29,7 +29,7 @@ Det er bare en sølle kompensation ved vi, så her kommer en dybere forklaring p
 Thor Frølich er utrætteligt i færd med at oprette barrikader omkring hans gård i marsken hvor han bor, for at holde reptilmændene ude af hans forrådskammer. Vores hjerte går ud til ham og hans.
 
 <div class="bitImage bitLeft" style="width: 202px">
-  <img src="http://www.abekat.net/wp-content/images/hotmodel.jpg" alt="Det er nemlig lige noget for mig, Brian Mørk!" /><br /> Lidt mere af det her, tak?!
+  <img src="http://www.abekat.net/images/hotmodel.jpg" alt="Det er nemlig lige noget for mig, Brian Mørk!" /><br /> Lidt mere af det her, tak?!
 </div>
 
 Jeg derimod arbejder i den smarte medieverden. Fyldt med sushi, drugs og vilde fotomodeller. Det var i hvert fald hvad jeg var blevet lovet da jeg søgte ind i den smarte medieverden. Sandheden har vist sig at være en lidt anden. Det er mere noget med kaffe, stress, mere kaffe og antimavesyre tabletter. Og de eneste fotomodeller er dem man ser i bladene.

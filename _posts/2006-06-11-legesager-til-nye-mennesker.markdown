@@ -10,7 +10,7 @@ Min datter har, af den tidligere her på siden nævnte Jeremy og dennes mindst l
 
 <center>
   <div class="bitImage bitCenter" style="width: 278px">
-    <img src="http://www.abekat.net/wp-content/images/hippo_01.jpg" alt="Et gråt køleskab af kød!" /><br /> Således ser den i naturen forkommende flodhest ud.
+    <img src="http://www.abekat.net/images/hippo_01.jpg" alt="Et gråt køleskab af kød!" /><br /> Således ser den i naturen forkommende flodhest ud.
   </div>
   
   <p>

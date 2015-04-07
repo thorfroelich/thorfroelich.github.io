@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 238px">
-  <img src="http://www.abekat.net/wp-content/images/dragoer_01.jpg" alt="De blev hurtigt enige og gik hjem." /></p> <p>
+  <img src="http://www.abekat.net/images/dragoer_01.jpg" alt="De blev hurtigt enige og gik hjem." /></p> <p>
     Byens spidser mødes ved borgerforeningen til en snak om at være i spidsen for en by som Dragør.
   </p>
 </div>
@@ -24,7 +24,7 @@ I sidste uge kunne vi berette om de rædselsfulde overgreb begået mod de lokale
 Advarselshornet gjaldede igen denne tirsdag, da Olof Palme’s evigt brændende øje på toppen af Turning Torso i Malmö så mere olmt ud end sædvanligvis. Foruroligende mange Nazgûl var ligeledes på vingerne med deres evindelige hylen og skrigen. Det viste sig dog at være falsk alarm, da Malmö’s vrede tilsyneladende skyldtes prisen på snus og altså ikke varslede et stormløb over isen.
 
 <div class="bitImage bitLeft" style="width: 236px">
-  <img src="http://www.abekat.net/wp-content/images/dagon_01.jpg" alt="Det er en mand med en fisk på." /><br /> Byens tegner og poet, Dirch Leise Morgan har lavet den skitse af fiskemændene.
+  <img src="http://www.abekat.net/images/dagon_01.jpg" alt="Det er en mand med en fisk på." /><br /> Byens tegner og poet, Dirch Leise Morgan har lavet den skitse af fiskemændene.
 </div>
 
 Den omdiskuterede skolelukning synes nu en realitet af virkelige proportioner. I følge staten, under hvis kyndige administration byen pt er (som direkte resultat af sidste års uheldige investeringer i et dusin radiumraffinaderier på Saltholm) er 18 skoler i en kommune med ligeså mange børn “unrentabelt, grænsende til det forbryderiske”. Et stærkt uenigt byråd har derfor for få dage siden vedtaget at lukke Vierdigets skole. Valget faldt på Vierdiget, da den med sine ene elev ville have relativt nemt ved at fordele elevgruppen ud på de øvrige skoler. Desuden blev det manglende tag og fundet af et større samfund fiskemænd i kælderkomplekset nævnt som talende for valget. Forældre og bekendte til den berørte elev har allerede varslet demonstrationer ved rådhuset og et sagsanlæg ved domstolen i Haag. (Den Internationale Domstol for Lokalpolitisk Hysteri. *Red*).

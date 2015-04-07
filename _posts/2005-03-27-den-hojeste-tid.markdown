@@ -19,7 +19,7 @@ Men ved du overhovedet hvad påsken drejer sig om?
 Gu gør du røv.
 
 <div class="bitImage bitRight" style="width: 150px">
-  <img src="http://www.abekat.net/wp-content/images/pope.jpg" alt="Uden held." /><br /> Paven spejder efter en åben butik.
+  <img src="http://www.abekat.net/images/pope.jpg" alt="Uden held." /><br /> Paven spejder efter en åben butik.
 </div>
 
 Der er kun èt meget enkelt men vigtigt punkt til påsken som man bør huske, og som den religionskyndige alfons jeg mener jeg er, vil jeg belære dig grundigt om det.  
@@ -47,7 +47,7 @@ Maria: *…hvad er det?*
 Og med en børneopsparing der består af 2/3 røgelse og myrrahskær er man nødt til at finde et ordentligt job som tømrer så man i det mindste kan tjene nogle sorte penge inden man bliver korsfæstet i starten af trediverne.
 
 <div class="bitImage bitLeft" style="width: 160px">
-  <img src="http://www.abekat.net/wp-content/images/jesus.jpg" alt="Stakkels frelser." /><br /> Jesus var født med hjertet udenpå. Hvilket ikke gjorde hans liv lettere.
+  <img src="http://www.abekat.net/images/jesus.jpg" alt="Stakkels frelser." /><br /> Jesus var født med hjertet udenpå. Hvilket ikke gjorde hans liv lettere.
 </div>
 
 **En lille ekstra påskedage guide.**
@@ -65,7 +65,7 @@ Og oven i købet var der nogle af de lokale der råbte bandeord efter ham.
 Jeg synes et tandlæge besøg varer evigt, så jeg tror også jeg ville finde lige den fredag en kende lang.
 
 <div class="bitImage bitRight" style="width: 240px">
-  <img src="http://www.abekat.net/wp-content/images/Easterbunny.jpg" alt="Mmm, fyldet smager bedst." /><br /> Påskeharen ifærd med at fortære et lille barn.
+  <img src="http://www.abekat.net/images/Easterbunny.jpg" alt="Mmm, fyldet smager bedst." /><br /> Påskeharen ifærd med at fortære et lille barn.
 </div>
 
 **Indkøbslørdag**  

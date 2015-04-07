@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 258px">
-  <img src="http://www.abekat.net/wp-content/images/surtbarn.jpg" alt="Måske fordi han besørger i en pose der er bundet fast til ham?" /></p> <p>
+  <img src="http://www.abekat.net/images/surtbarn.jpg" alt="Måske fordi han besørger i en pose der er bundet fast til ham?" /></p> <p>
     Hvorfor mon lille Vanart er så sur?!
   </p>
 </div>

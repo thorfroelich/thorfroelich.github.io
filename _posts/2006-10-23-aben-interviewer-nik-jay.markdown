@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/nikogjay_01.jpg" alt=""Jeg skulle tegne hår på mine ben"." /><br /> “Nik, få noget tøj på. Jeg har slugt en kuglepen”.
+  <img src="http://www.abekat.net/images/nikogjay_01.jpg" alt=""Jeg skulle tegne hår på mine ben"." /><br /> “Nik, få noget tøj på. Jeg har slugt en kuglepen”.
 </div>
 
 Abekat.net har været så heldig at sikre sig et interview med fænomenet Nik & Jay, som til vores store overraskelse ikke var en negermand ved navn Jay. Derimod er det en duo af blege knægte som synger sange og danser badut, ofte i bar overkrop. Men vi besluttede os at gennemføre interviewet alligevel.
@@ -31,7 +31,7 @@ Aben: Det mener nogen.
 Nik: Ja, men ikke os, vel Jay?!
 
 <div class="bitImage bitLeft" style="width: 238px">
-  <img src="http://www.abekat.net/wp-content/images/nikogjay_02.jpg" alt="De vandt ikke." /><br /> Her er de to unge kunstnere lige inden de stillede op til Falster-mesterskaberne i springgymnastik.
+  <img src="http://www.abekat.net/images/nikogjay_02.jpg" alt="De vandt ikke." /><br /> Her er de to unge kunstnere lige inden de stillede op til Falster-mesterskaberne i springgymnastik.
 </div>
 
 Aben: Hvordan forholder I jer til de delte meninger om Jer? De svage i ånden, der elsker Jeres overdrevne og flamboyante playboy-stil og så de med moderate begavelser eller over, der på ingen måde kan tåle noget som helst af det I foretager Jer.

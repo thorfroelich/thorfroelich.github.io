@@ -16,7 +16,7 @@ Pigebarnet gjorde det nu godt må jeg indrømme. Jeg har i næsten et år været
 Og så er der det med smerten. Skal vi ikke bare sige at hun havde nok af den? At hun overlevede den fødsel er et mirakel. Hvis man tror på mirakler. Jeg tror mere på at hun bare var sej.
 
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/absalon.jpg" alt="De poserede godt før i tiden." /><br /> Min søn. En af dem. Ved ikke hvilken. De er begge seje.
+  <img src="http://www.abekat.net/images/absalon.jpg" alt="De poserede godt før i tiden." /><br /> Min søn. En af dem. Ved ikke hvilken. De er begge seje.
 </div>
 
 Men det skal handle om min søn. Den kommende hersker. Grundlæggeren af den nye kongeslægt og den nye verdensorden. Trofaste læsere af Abekatten! I vil blive husket når revolutionen kommer! I vil få status af gentlemen med ret til at bære sabel og skose UnderDanerne (det kommer resten af danskerne til at hedde).
@@ -46,7 +46,7 @@ Se Hugin Mørk.
 
 <center>
   <div class="bitImage bitCenter" style="width: 458px">
-    <img src="http://www.abekat.net/wp-content/images/leo.jpg" alt="Jeg troede at grækere var mere behårede?" /><br /> Min søn. En græsk krigerkonge.
+    <img src="http://www.abekat.net/images/leo.jpg" alt="Jeg troede at grækere var mere behårede?" /><br /> Min søn. En græsk krigerkonge.
   </div>
   
   <p>

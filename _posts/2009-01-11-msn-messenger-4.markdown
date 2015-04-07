@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitCenter" style="width: 225px">
-  <img src="http://www.abekat.net/wp-content/images/MSNMessenger_0004.gif" alt="Se hvor vred han bliver!" /></p>
+  <img src="http://www.abekat.net/images/MSNMessenger_0004.gif" alt="Se hvor vred han bliver!" /></p>
 </div>
 
 <center>

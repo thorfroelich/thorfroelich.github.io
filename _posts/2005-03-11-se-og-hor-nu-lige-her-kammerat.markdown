@@ -9,7 +9,7 @@ categories:
 Henrik Qvortrup. Denne ytringsfrihedens stærke poet, som med sandhedens klinge *Se og Hør*, kløver pandebraske på celebre Übermenschen. Han gør det tilsyneladende fordi almindelige rottemennesker, som du og jeg, har brug for det. Begivenheder, store som små, fiktive som opdigtede, bliver beskrevet i pinlig detalje. Eneste krav er, at de omhandler kendte mennesker. Eller næsten kendte mennesker og måske folk i disses omgangskreds. Som tak for denne uselviske opofrelse for almuens trivsel, besluttede redaktionen her på ‘avekatten’ at dedikere en hel artikel til Skt. Qvortrup’s gøren og laden. Noget af det du vil læse her, kan meget vel chokere og forarge din sarte menigmandsfornuft, men vær forsikret om at alt er den skinbarlige sandhed. Alle data er målt og vejet med den patenterede Truthifier 3000(tm), fremstillet på Akhmed’s Grill- og Statistikfabrik. Et apparat magen til det *Se og Hør* selv benytter til kildevurdering.
 
 <div class="bitImage bitRight" style="width: 228px">
-  <img src="http://www.abekat.net/wp-content/images/qvortrup_01.jpg" alt="Det er der. Alt det man kan spise." /><br /> Tak skal De have, Holocaust. Er der mere nakkekam?
+  <img src="http://www.abekat.net/images/qvortrup_01.jpg" alt="Det er der. Alt det man kan spise." /><br /> Tak skal De have, Holocaust. Er der mere nakkekam?
 </div>
 
 **Qvortrup til Endlösung Bal**  
@@ -20,7 +20,7 @@ Prisen for bedste udklædning gik til en ung mand ved navn Jannik, en beslutning
 Ved en større indkøbstur i Iso på Vermlandsgade på Amager, blev Henrik Qvortrup, bedst kendt som hende der spillede Pipi Langstrømpe i serien af samme navn og chefredaktør på Se og Hør, opdaget af vores journalist! Han var ifærd med at give en bleg servicemedarbejder en dragt verbale prygl, angiveligt over udløbsdatoen på en pose røde linser. Da vores journalist nærmede sig, tog Hr. Chefredaktør og Ungpigeskuespiller flugten ned ad gangen med konservesprodukter. Efter nogen tid lykkedes det igen vor mand på stedet, at tage levemanden på fersk gerning. Denne gang involveret i et scoringsforsøg, rettet mod Liselotte fra Frostvarer. Hovsa, din charmør!
 
 <div class="bitImage bitLeft" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/henrik_hund_01.jpg" alt="Tossede rad!" /><br /> Der er ingen hund på billedet. Skøre kugle.
+  <img src="http://www.abekat.net/images/henrik_hund_01.jpg" alt="Tossede rad!" /><br /> Der er ingen hund på billedet. Skøre kugle.
 </div>
 
 **Henrik’s hunde-hurlumhej**  

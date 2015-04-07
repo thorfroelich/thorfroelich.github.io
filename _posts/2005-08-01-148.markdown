@@ -13,7 +13,7 @@ Jeg har tænkt mig at lægge mit liv om. Det kræver at jeg først får et liv a
 Mine skavanker og mangler er legion og ville tage mange generationer af forskere og kittelmænd at udbedre. Derfor har jeg koncentreret al min energi om de vigtigste punkter. Og da al min energi ikke er mere end hvad der kan drive et digitalur fra nu til…nu, så er punkterne ganske fåtallige. Totallige faktisk.
 
 <div class="bitImage bitRight" style="width: 202px">
-  <img src="http://www.abekat.net/wp-content/images/grsk.jpg" alt="Hvem ved?" /><br /> Græsk idræt eller mandeerotik?
+  <img src="http://www.abekat.net/images/grsk.jpg" alt="Hvem ved?" /><br /> Græsk idræt eller mandeerotik?
 </div>
 
 **Motion**  
@@ -25,7 +25,7 @@ De løbesko kostede mig 1500 kr og det synes jeg egentlig er ret godt givet ud. 
 Og en af dagene pakker jeg dem også ud.
 
 <div class="bitImage bitLeft" style="width: 152px">
-  <img src="http://www.abekat.net/wp-content/images/remoulade.jpg" alt="Den er sund for der er salatgrønt ovenpå." /><br /> Læskende remoulade til morgenmad.
+  <img src="http://www.abekat.net/images/remoulade.jpg" alt="Den er sund for der er salatgrønt ovenpå." /><br /> Læskende remoulade til morgenmad.
 </div>
 
 **Kost**  

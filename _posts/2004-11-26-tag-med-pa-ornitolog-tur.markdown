@@ -7,13 +7,13 @@ categories:
   - Introduktioner til...
 ---
 <div class="bitImage bitRight" style="width: 250px">
-  <img src="http://www.abekat.net/wp-content/images/ornitolog_01.jpg" alt="Han bygger en rede af bølgepap." /><br /> Jo. Der sidder bestemt en hvidtoppet ornitolog oppe i det træ.
+  <img src="http://www.abekat.net/images/ornitolog_01.jpg" alt="Han bygger en rede af bølgepap." /><br /> Jo. Der sidder bestemt en hvidtoppet ornitolog oppe i det træ.
 </div>
 
 Jeg har en tilståelse. Jeg holder forbavsende meget af at kigge på ornitologer, helst gennem en form for optik. Det er en besværlig og dyr interesse, men minsandten om jeg ikke bliver ved, dag ud og dag ind. Man kan vel nærmest kalde det en hobby. Eller besættelse. Jeg nyder at snige mig så tæt på jeg kan komme disse sælsomme skabninger, musestille, som en lækat med små filtsko på. I en lille bog noterer jeg tid, sted og dato, hvis jeg ser et ekstra spændende eksemplar. Man skal være helt stille og undgå pludselige bevægelser. Så kan jægerene med deres skydevåben, nemlig ikke få øje på dig i det høje græs. De kan tro at du er en hare eller en impala og skyde dig for dit gevir og kød. Sådan er jægere nemlig – klar til at dræbe med krudt og kniv.
 
 <div class="bitImage bitLeft" style="width: 248px">
-  <img src="http://www.abekat.net/wp-content/images/fugl_01.jpg" alt="Vi har alle sådanne dage. Men det hjælper ikke at blive gloet på." /><br /> Forståeligt nok er ikke alle fugle begejstrede for at man kigger på dem.
+  <img src="http://www.abekat.net/images/fugl_01.jpg" alt="Vi har alle sådanne dage. Men det hjælper ikke at blive gloet på." /><br /> Forståeligt nok er ikke alle fugle begejstrede for at man kigger på dem.
 </div>
 
 De fugleinteresseredes redevaner adskiller sig kun på få punkter fra dine og mine. De gør, ligesom vi andre, aldrig rent og har gerne mindre dyr boende i deres hårpragt. De dækker sig med tæpper af vat eller hør inden de går til ro og spiser nødder og frugter fra træer. Den ornitologinteresserede skal dog vide at det ofte er forbundet med en del besvær og kan være decideret forbudt, at trænge ind på en ornitolog’s redeplads. De er nemt meget aggressive, når mennesker kommer for tæt på og *kan* finde på at benytte sten, lange stokke eller politimænd til tvinge den indtrængende væk. I særligt slemme tilfælde er det sket, at landets dømmende magt skal mægle i en sådan strid. Så kommer man i fængsel.

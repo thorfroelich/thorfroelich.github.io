@@ -9,7 +9,7 @@ categories:
 Helledusseda. Internettet er en totalt sej opfindelse. Hvis du endnu ikke har prøvet det, må jeg på det strengeste anbefale at du kommer igang. Det er uden tvivl det net i verden der kan allermest, når det gælder computer-agtige ting. Hvis du er helt ny kan det dog være en lidt stor mundfuld at kaste sig ud i (og det er ofte det man gør med mundfulde). Optaget af dit ve og vel, har jeg taget det på mig at skrive følgende guide til Internettet.
 
 <div class="bitImage bitRight" style="width: 178px">
-  <img src="http://www.abekat.net/wp-content/images/man_02.jpg" alt="Jeg er din nye ven!" /><br /> Bettina, 19 år, blond, 189 cm, studine.
+  <img src="http://www.abekat.net/images/man_02.jpg" alt="Jeg er din nye ven!" /><br /> Bettina, 19 år, blond, 189 cm, studine.
 </div>
 
 Når du er på internettet er det meget vigtigt at vide hvad det er du gør – du surfer! Som med så meget andet har internettet sin helt egen terminologi. På internettet skriver man ikke dagbog, man *blogger*, fordi det er et mere elektronisk fremtidskorrekt ord. Det er også vigtigt at gøre sig klart at på informationsmotorvejen er alt multimedia og interaktivt. Selv helt almindelig sort tekst på en hvid baggrund er mindst lige så futuristisk som eksempelvis en gif-animation af et roterende kranie med ild i eller en mand der graver et hul i noget jord. En musikfil hedder en mp3, hvis altså ikke lige det er en musikfil man får fra en anden datamat. Så hedder den en podcast og er radio bare uden radio. Podcasts spænder gerne fra hujende teenagere med en mikrofon fra Aldi, der udbreder sig om alt uden at vide noget somhelst over professionelt producerede radioprogrammer med erfarne studieværter, der udbreder sig om alt uden at vide noget somhelst.
@@ -36,7 +36,7 @@ Det er en typisk begynderfejl at bringe emner som *kendsgerninger* og *kausalite
 Derved vinder OG afslutter du diskussionen før rottebarnet og kan derfor rolig være ganske stolt af dig selv.*
 
 <div class="bitImage bitLeft" style="width: 168px">
-  <img src="http://www.abekat.net/wp-content/images/man_01.jpg" alt="Jeg er din næst-nyeste ven." /><br /> Nadia, 24 år, brunette, 167 cm, frisør.
+  <img src="http://www.abekat.net/images/man_01.jpg" alt="Jeg er din næst-nyeste ven." /><br /> Nadia, 24 år, brunette, 167 cm, frisør.
 </div>
 
 Jeg håber ovenstående kan være med til at gøre dig til en mere robust og selvsikker internetbruger. Den opmærksomme læser vil bemærke at jeg har udeladt at behandle Internettets primære opgave, nemlig at fungere som verdens absolut fremmeste distributionskanal for erotisk kunst. Et emne så omfattende at jeg føler det nødvendigt at dedikere en hel artikel til samme. Derfor vil jeg nu opsamle en sok fra gulvet og tage solidt fat på research udi de pirrende udtryksformer af hvilke Internettet bogstavelig talt bugner.

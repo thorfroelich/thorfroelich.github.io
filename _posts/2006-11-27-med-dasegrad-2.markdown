@@ -7,7 +7,7 @@ categories:
   - Introduktioner til...
 ---
 <div class="bitImage bitRight" style="width: 244px">
-  <img src="http://www.abekat.net/wp-content/images/hest.jpg" alt="Den prøver desperat at bide mit ansigt af i afsky." /><br /> Koen griner ikke af det jeg har lavet.
+  <img src="http://www.abekat.net/images/hest.jpg" alt="Den prøver desperat at bide mit ansigt af i afsky." /><br /> Koen griner ikke af det jeg har lavet.
 </div>
 
 Denne sommer gjorde jeg den ugerning at irritere abens trofaste læsere med uddrag fra min sorte komiker notesbog ([Med Dåsegråd #1][1]) den bog hvor alle mine stand-up ideer grifles ukritiusk ned. En slags humor Necronomicon, bare mindre underholdende. Jeg gjorde det for at få helt på det rene at jeg er et andenrangsmenneske som burde skys og bortjages fra der hvor godtfolk var. Det virkede ikke.  
@@ -38,7 +38,7 @@ Hvordan slipper man for at blive voldtaget af en vampyr?
 Kors i røven.
 
 <div class="bitImage bitCenter" style="width: 211px">
-  <img src="http://www.abekat.net/wp-content/images/mus.jpg" alt="Kort efter slog han pjalterne sammen med Adolf." /><br /> Benito overværer her et Brian Mørk show.
+  <img src="http://www.abekat.net/images/mus.jpg" alt="Kort efter slog han pjalterne sammen med Adolf." /><br /> Benito overværer her et Brian Mørk show.
 </div>
 
 Jeg kan finde på at onanere når jeg slet ikke har lyst.  

@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/byggemandgud.jpg" alt="Nej, det skal vi ikke." /></p> <p>
+  <img src="http://www.abekat.net/images/byggemandgud.jpg" alt="Nej, det skal vi ikke." /></p> <p>
     Skal vi se at få noget fra hånden?
   </p>
 </div>
@@ -29,7 +29,7 @@ På andendagen skabte Gud himmelvælvet og jorden og vandene, og han så at det 
 På tredjedagen vendte Gud tilbage og så, at det ikke længere var helt så godt som det havde været på andendagen da han gik. Og Gud sagde ”hvad fanden har du gang i din idiot, jeg sagde jo at du ikke måtte gå på det før det var tørt. Se her ovre i Himalaya, det er jo helt bulet. Jeg brugte fandeme en hel time i går på at få det glat!” Derefter gik Gud ud efter noget værktøj, og blev væk resten af dagen og næste dag med.
 
 <div class="bitImage bitLeft" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/malermandgud.jpg" alt="Det meste af jorden måtte renses grundigt bagefter." /><br /> Disse arbejder blev desværre udført inden afdækningsplasten blev til.
+  <img src="http://www.abekat.net/images/malermandgud.jpg" alt="Det meste af jorden måtte renses grundigt bagefter." /><br /> Disse arbejder blev desværre udført inden afdækningsplasten blev til.
 </div>
 
 På femtedagen skabte gud alle jordens dyr og himlens fugle og havenes fisk. Og han så at det var godt, også selvom Gud godt nok havde fået et par morgenbajere, og mange af dyrene var blevet ret mærkelige. 

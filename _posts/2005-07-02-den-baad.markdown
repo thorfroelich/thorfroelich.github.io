@@ -22,7 +22,7 @@ Post scriptum: Vi havde en slem fejde med de indfödte neegercannibaler til morg
 Midtskibsmand Bockhardt led spyddöden da en vildmand kom ham ganske for taet.
 
 <div class="bitImage bitCenter" style="width: 242px">
-  <img src="http://www.abekat.net/wp-content/images/nautilus.jpg" alt="NEJ! Det er ikke bare en model har jeg jo sagt!" /><br /> Det stolte skib Nautilus i tørdok.
+  <img src="http://www.abekat.net/images/nautilus.jpg" alt="NEJ! Det er ikke bare en model har jeg jo sagt!" /><br /> Det stolte skib Nautilus i tørdok.
 </div>
 
 D. 6 Februari 1896  
@@ -38,7 +38,7 @@ Jeg var aldeles ödelagt og vandet sprang mig ud af alle porer, jeg kunde ikke t
 Ikke megen kaelen for krumtappen blev det til, ikkun ganske kort.
 
 <div class="bitImage bitRight" style="width: 202px">
-  <img src="http://www.abekat.net/wp-content/images/squid.JPG" alt="Men den er også god med hvidløg og en kande Sangria til." /><br /> Sushi-kokke var de ikke.
+  <img src="http://www.abekat.net/images/squid.JPG" alt="Men den er også god med hvidløg og en kande Sangria til." /><br /> Sushi-kokke var de ikke.
 </div>
 
 D. 23 Februari 1896  

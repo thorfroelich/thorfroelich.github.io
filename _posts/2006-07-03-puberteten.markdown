@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 158px">
-  <img src="http://www.abekat.net/wp-content/images/teenager.jpg" alt="En levende levende?" /><br /> Akavet og ugidelig ynde
+  <img src="http://www.abekat.net/images/teenager.jpg" alt="En levende levende?" /><br /> Akavet og ugidelig ynde
 </div>
 
 I takt med at mennesker vokser sig større og skifter ham, indtræder en række gennemgribende biologiske forandringer i det enkelte individ. En af disse går under navnet puberteten og når puppen efter endt metamorfose atter åbner sig kryber en yndefuld og glinsende *teenager ud*. Væk er mælketænder og i deres sted findes store skinnende bisser. Ligeledes er mælkearme og -ben faldet af til fordel for begyndende voksenlemmer. Der er altså i det unge menneske sket en massiv forandring over ganske kort tid, som måske kun overgåes af en lobotomi med samtidig kønsskifteoperation. 
@@ -25,7 +25,7 @@ og det mere filosofisk undrende
 *“Sker der for dig, der?”.*
 
 <div class="bitImage bitLeft" style="width: 132px">
-  <img src="http://www.abekat.net/wp-content/images/holdning_01.gif" alt="Der bliver ingen østfront til dig, min ven!" /><br /> Rank som en portion boller i karry!
+  <img src="http://www.abekat.net/images/holdning_01.gif" alt="Der bliver ingen østfront til dig, min ven!" /><br /> Rank som en portion boller i karry!
 </div>
 
 Det er uforståelig poesi og bør nydes i fulde drag. Stryg smilende teenageren henover dennes spørgsmålstegnskrumme rygstykker og giv den penge. Det er givetvis derfor den forsøger at få dig i tale.

@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/fortune_teller_01.jpg" alt="7 dage. 24 timer pr. dag. Skiftevis mørke og lys, osv." /><br /> Hun ved nok hvordan din uge ser ud!
+  <img src="http://www.abekat.net/images/fortune_teller_01.jpg" alt="7 dage. 24 timer pr. dag. Skiftevis mørke og lys, osv." /><br /> Hun ved nok hvordan din uge ser ud!
 </div>
 
 **Vædder**  
@@ -26,7 +26,7 @@ I denne uge er der stor sandsynlighed for at du er en nådesløs diktator i et �
 Du er en vægelsindet starut, ganske som en rigtig løve ude på savannen. Din ubeslutsomhed gør at du finder det svært at træffe valg medmindre du ved hvilket der umiddelbart er det bedste. Da vil du vælge det. Pas på med at løbe med sakse, da de kan være svære at finde igen, hvis de ikke ligger på den sædvanlige plads.
 
 <div class="bitImage bitLeft" style="width: 138px">
-  <img src="http://www.abekat.net/wp-content/images/astrologer_01.gif" alt="Eller ved at stille meget ledende spørgsmål." /><br /> Kun ved at pege på stjernerne er det muligt at sige noget om din fremtid.
+  <img src="http://www.abekat.net/images/astrologer_01.gif" alt="Eller ved at stille meget ledende spørgsmål." /><br /> Kun ved at pege på stjernerne er det muligt at sige noget om din fremtid.
 </div>
 
 **Landmåler**  

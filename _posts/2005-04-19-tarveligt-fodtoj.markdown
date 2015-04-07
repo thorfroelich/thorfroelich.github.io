@@ -9,5 +9,5 @@ categories:
 Jeg tænker tiden måske er oprunden, hvor jeg bør udskifte mine mao-sko. Det er dem jeg har på når jeg er på arbejde.
 
 <div class="bitImage bitCenter" style="width: 400px">
-  <img src="http://www.abekat.net/wp-content/images/sutsko_01.jpg" alt="De falder tit af fødderne, når jeg bevæger mig" /><br /> De har tjent mig godt
+  <img src="http://www.abekat.net/images/sutsko_01.jpg" alt="De falder tit af fødderne, når jeg bevæger mig" /><br /> De har tjent mig godt
 </div>

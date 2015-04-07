@@ -13,7 +13,7 @@ tags:
   - tv
 ---
 <div id="attachment_433" class="wp-caption alignright" style="width: 276px">
-  <img class="size-full wp-image-433  " src="http://www.abekat.net/wp-content/images/ozzy1.jpg" alt="Min drøm som jeg husker den." width="266" height="280" /><p class="wp-caption-text">
+  <img class="size-full wp-image-433  " src="http://www.abekat.net/images/ozzy1.jpg" alt="Min drøm som jeg husker den." width="266" height="280" /><p class="wp-caption-text">
     Min drøm som jeg husker den.
   </p>
 </div>
@@ -31,7 +31,7 @@ I drømmen var min bolig godt nok en form for ridderborg på en fjern planet beb
  
 
 <div id="attachment_434" class="wp-caption alignleft" style="width: 344px">
-  <img class="size-full wp-image-434   " src="http://www.abekat.net/wp-content/images/caligula.jpg" alt="Min drøm som omverdenen åbenbart ser den" width="334" height="227" /><p class="wp-caption-text">
+  <img class="size-full wp-image-434   " src="http://www.abekat.net/images/caligula.jpg" alt="Min drøm som omverdenen åbenbart ser den" width="334" height="227" /><p class="wp-caption-text">
     Min drøm som omverdenen åbenbart ser den
   </p>
 </div>

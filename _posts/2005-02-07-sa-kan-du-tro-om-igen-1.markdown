@@ -19,7 +19,7 @@ Og jeg må ikke slå ham ihjel med en kroketkølle eller andre sportsrelaterede 
 Ifølge Biblen (Den første, som var klart federe end toeren) tog Moses en backpackertur op i Alperne helt uden sherpaer og pakdyr. Oppe på toppen (hvor luften er meget tynd) fandt han et par lertavler hvor ”Gud” havde nedfældet nogle spilleregler. Det var Basicsættet, senere kom Advanced reglerne.
 
 <div class="bitImage bitLeft" style="width: 150px">
-  <img src="http://www.abekat.net/wp-content/images/moses2.jpg" alt="Men han var aldrig glad for abekatten. You damn dirty ape!" /><br /> Moses var også glad for skydevåben.
+  <img src="http://www.abekat.net/images/moses2.jpg" alt="Men han var aldrig glad for abekatten. You damn dirty ape!" /><br /> Moses var også glad for skydevåben.
 </div>
 
 Moses tog tavlerne med ned til sine venner som i mellemtiden var begyndt at tilbede en guldko eller en sølvfisk eller noget. Moses blev skidesur fordi han nu var gået så langt uden grund og smadrede lertavlerne i tusinde hellige lerstumper. Så nu har vi kun hans børnefornærmede ord for hvad der stod på dem.  
@@ -41,7 +41,7 @@ Men at det skulle være selveste Gud (æretværehamialevighed, amen) der har fun
 Hvis du skider i naboens blomsterbed er der gode chancer for at han bliver mobset og tisser i din brønd. Og det er der ingen der har lyst til (jo det er der, men de er ikke raske).
 
 <div class="bitImage bitLeft" style="width: 235px">
-  <img src="http://www.abekat.net/wp-content/images/bigfoot.JPG" alt="De er altid så slørede de billeder." /><br /> Et muligt billede af Gud i det fri.
+  <img src="http://www.abekat.net/images/bigfoot.JPG" alt="De er altid så slørede de billeder." /><br /> Et muligt billede af Gud i det fri.
 </div>
 
 Det er ikke Gud der siger du ikke må køre over for rødt. Det er fornuften der fortæller os at du muligvis ender under en Scania hvis du gør.  

@@ -10,7 +10,7 @@ I mit lange og indholdsløse liv har jeg gjort nogle få ting jeg ikke er stolt 
 Men ja, jeg har skam løbet rundt i en skov og svunget med et hjemmelavet gummisværd og jeg har nedkæmpet elvere og kastet med tryl i øjnene på en imaginær trold så han blev imaginært blind. Og det var FEDT! I al sandhed noget af det fedeste jeg har oplevet nogensinde. Men nu hvor jeg er blevet en lille smule ældre (røvgammel) er jeg begyndt at tænke over noget. Realismen. Ja, du synes måske nok at det lyder lidt sært at tale om realisme i forbindelse med rollespil, men du skal bare holde din kæft, nu er det mig der skriver. 
 
 <div class="bitImage bitRight" style="width: 146px">
-  <img src="http://www.abekat.net/wp-content/images/asfalt.jpg" alt="Måske noget trafik-rollespil?" /><br /> En der spiller rollen som asfalt.
+  <img src="http://www.abekat.net/images/asfalt.jpg" alt="Måske noget trafik-rollespil?" /><br /> En der spiller rollen som asfalt.
 </div>
 
 Live rollespil foregår som regel (oftest) om sommeren i en hyggelig skov fyldt med glade unge mennesker hvor pollen er den farligste fjende. Men hvor er de egentlige strabadser? Strabadser er hvad min lille afhandling kommer at handle om. For strabadser er nemlig vigtige for at rigtigt kunne leve sig ind i sin rolle. Noget vi svage, bløde, svagpissende, moderne, forkælede, rygradsmanglende, klynkende, luksus, tyndhudede, forvænte, slapsvansede og astmatiske tøserollespillere kunne lære noget af.
@@ -24,7 +24,7 @@ Tag jer nu sammen rollespillere!?
 I middelalderen var der ikke meget Dominos, MikDonalds eller Nutella på hylderne. Til gengæld var der meget saltpølse, vandgrød og birkemos. Eller faktisk var der heller ikke så meget af det, da folk i de gamle dage mest levede af ingenting og som følge deraf sultede en del. Det er som om I ikke gider!?!?
 
 <div class="bitImage bitLeft" style="width: 160px">
-  <img src="http://www.abekat.net/wp-content/images/lego.jpg" alt="Langhårede og fine." /><br /> Der er også feminine piger med.
+  <img src="http://www.abekat.net/images/lego.jpg" alt="Langhårede og fine." /><br /> Der er også feminine piger med.
 </div>
 
 **March**  

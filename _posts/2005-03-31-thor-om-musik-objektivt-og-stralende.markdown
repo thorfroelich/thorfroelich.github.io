@@ -10,7 +10,7 @@ Engang i løbet af den tid homo sapiens har tilbragt i verden, valgte en særlig
 Musikere er, som sagt, ikke flydt ud af en tilfældig flaske billig hostesaft fuld af banale folkemelodier og råbende djævlemusik. Nej, de er alle efterkommere af den førnævnte uduelige urmusikant. Det er i den forbindelse værd at ihukomme, at selv elefanten kan spore sine rødder tilbage til en lille umælende og beskidt fisk i en sø. Denne artikel skal handle om et lille, mere eller mindre tilfældigt udvalgte grupperinger af disse musikkens evolutionære kongeørne. En kongeørn er en stor ørnefugl, som er konge over andre og mindre adelige fugle. Enkelte individer eller orkestre udgør en alt for finkornet detaljeringsgrad til, at min æter-omtumlede hjerne kan behandle dem med det overblik og den finesse de fortjener. Derfor har jeg valgt kun at kigge på genrer. Mange har også udenlandske navne, som kun svært lader sig udtale, endsige huske.
 
 <div class="bitImage bitRight" style="width: 258px">
-  <img src="http://www.abekat.net/wp-content/images/black_metal_01.jpg" alt="De kristne i nr 32 skal FRYGTE os. I Satans navn." /><br /> DoomBringer og Blood Lord gør Næstveds villaområder ondere.
+  <img src="http://www.abekat.net/images/black_metal_01.jpg" alt="De kristne i nr 32 skal FRYGTE os. I Satans navn." /><br /> DoomBringer og Blood Lord gør Næstveds villaområder ondere.
 </div>
 
 **Black metal**  
@@ -26,7 +26,7 @@ Iført neonfarvede gevandter og ditto hårpragt, stamper tilhængerne af denne m
 Lytteforslag: Scooter, Astral Projection
 
 <div class="bitImage bitLeft" style="width: 258px">
-  <img src="http://www.abekat.net/wp-content/images/funky_01.jpg" alt="vredvredvredvredvredvredvred" /><br /> Ej men, det er da sindssygt irriterende, er det ikke?
+  <img src="http://www.abekat.net/images/funky_01.jpg" alt="vredvredvredvredvredvredvred" /><br /> Ej men, det er da sindssygt irriterende, er det ikke?
 </div>
 
 **Funk**  

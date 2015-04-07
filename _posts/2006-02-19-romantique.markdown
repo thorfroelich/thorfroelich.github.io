@@ -9,7 +9,7 @@ categories:
 For ganske få dage siden var det Valentins aften. En aften hvor man ihukommer at imam Valentin døde for vore synder og fór til Mekka på en guddommelig scooter. En aften hvor man skal være en romantisk orkan af kærlighed, se mindre olieret ud end man ellers gør og opføre sig eksemplarisk overfor sin udkårne. Det lyder altsammen nemt, men er overordentlig svært, særligt hvis man er en form for mande-menneske. Jeg vil gerne benytte denne platform til at øse af min erfaring og forhåbentlig derved ruste Jer lidt bedre til næste år. Dette års katastrofale udfald tåler vist ikke gentagelse, har jeg ret?
 
 <div class="bitImage bitRight" style="width: 148px">
-  <img src="http://www.abekat.net/wp-content/images/bestik_01.jpg" alt="Men brug det rigtigt. Ikke noget med at vende det forkert eller vifte faretruende med det." /><br /> Madværktøj. Brug det på forlangen.
+  <img src="http://www.abekat.net/images/bestik_01.jpg" alt="Men brug det rigtigt. Ikke noget med at vende det forkert eller vifte faretruende med det." /><br /> Madværktøj. Brug det på forlangen.
 </div>
 
 **Spise med kniv og gaffel**  
@@ -19,7 +19,7 @@ På Valentins aften skal man tage næring til sig, ganske som øvrige dage. Men 
 Manden gør klogt i at ihukomme pigens behov for pæne ord. Kvindfolk elsker at blive mindet om at de eksempelvis for dig er nyttige og værdsatte, som en blikkenslager skønner på sin rørtang og transportfradrag. Således smelter hendes hjerte og med lidt held, hendes knæ. Lad hende vide at hun er unik, helt særlig og speciel. Og at videnskaben kan verificere din påstand med analyser af fingeraftryk såvel som DNA-profil. Jeg kan også kun anbefale at fortælle hende hvad du har tænkt dig at gøre, hvis hun skulle hengive sig helt til dig på et senere tidspunkt. Hvisk i hendes øren at du har i sinde at sikre adgang til rent vand og varierede råvarer. Du kan også nævne at skulle hendes cykel punktere, vil du være over den med dine lappegrejer, som en høg over et byttedyr der indgår i høgens diæt.
 
 <div class="bitImage bitLeft" style="width: 158px">
-  <img src="http://www.abekat.net/wp-content/images/blomst_01.jpg" alt="Benyt gerne kradse farver!" /><br /> Botanik er en vigtig del af kurmageri.
+  <img src="http://www.abekat.net/images/blomst_01.jpg" alt="Benyt gerne kradse farver!" /><br /> Botanik er en vigtig del af kurmageri.
 </div>
 
 **Blomster**  

@@ -20,5 +20,5 @@ Der er her tale om en fjernstyret bil. Den bliver styret af en, måske, flere m�
 Hvorom alting er, har jeg klart og utvetydigt (noget sjældent i disse dage) bevist at fisk hører 1930′erne til men at NASA’s rumbil er fremtiden – lige her og nu. Der er sikkert mange grunde til at kun nogle ting er fine nok til at måtte tilhøre rum-fremtiden. Men eet er sikkert – ingen af os synes om det. Tilbage er der blot at håbe på, at ham der fjernstyrer den lille bil på Mars – vi kan kalde ham Facius – ikke får serveret fisk til frokost. Det ville da være ironisk og dumt at kløjes på et fiskeben, mens man er ved at dirrigere en strømdreven bil rundt om en rødlig klippe eller udenom tentaklerne fra en Laser-krokodille. Specielt når den lille bil befinder sig rundt regnet tusind millioner milliarder kilometer væk fra jorden og vores groft forældede fisk.  
 ‘*Fisk og dens frække ben tager livet af mand – Laser-ørn har frit spil til at spise Mars Rover*‘. Jeg kan se overskrifterne for mig. Tsk.
 
- [1]: http://www.abekat.net/wp-content/images/fish_01.jpg
- [2]: http://www.abekat.net/wp-content/images/mars_rover_01.jpg
+ [1]: http://www.abekat.net/images/fish_01.jpg
+ [2]: http://www.abekat.net/images/mars_rover_01.jpg

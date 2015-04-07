@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/gorillamascot.jpg" alt="Han løber hurtigt og brøler af fryd." /></p> <p>
+  <img src="http://www.abekat.net/images/gorillamascot.jpg" alt="Han løber hurtigt og brøler af fryd." /></p> <p>
     Vor blide maskot løber børnene i møde ved ankomst til parken!
   </p>
 </div>
@@ -22,7 +22,7 @@ Derfor kan det ikke undre nogen at vi nu stolt kan præsentere den planlagte åb
 Kom og se den skøreste pneumatisk drevne pind i hele Japan, ja måske verden! En festligt malet pind udfordrer dine sanser ved at dreje rundt og endog køre op og ned. Men mest dreje rundt. Hurlumhej-pinden vil garanteret henrykke de mindste, de ældre og tykke mennesker, med sine pludselige bevægelser og mekaniske lyde.
 
 <div class="bitImage bitLeft" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/bilpaamark.jpg" alt="Mere specifikt, se biler." /><br /> Her betaler det sig at kunne se!
+  <img src="http://www.abekat.net/images/bilpaamark.jpg" alt="Mere specifikt, se biler." /><br /> Her betaler det sig at kunne se!
 </div>
 
 **Den Mystiske Mark**  

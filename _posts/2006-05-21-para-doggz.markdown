@@ -10,7 +10,7 @@ I vore dage – optagede som de er med fordummende fjernsyn, hjerne-rådnende re
 **Jeg finder det tankevækkende**, at vor mægtige allierede mod vest i dag forkaster udviklingslæren på statsligt plan, men samtidig har bygget sit sociale, økonomiske og kulturelle samfund op i skøn samklang med evolutionens principper. Faktisk finder jeg det også tankevækkende at vi er allierede med nogen som forkaster udviklingslæren, men det er en helt anden sag, jeg mener: Romerne hyrede jo også barbarer som hjælpetropper.
 
 <div class="bitImage bitRight" style="width: 212px">
-  <img src="http://www.abekat.net/wp-content/images/monkey_02.jpg" alt="Abehat!" /><br /> That’s not my culture and heritage! Is that your culture and heritage??
+  <img src="http://www.abekat.net/images/monkey_02.jpg" alt="Abehat!" /><br /> That’s not my culture and heritage! Is that your culture and heritage??
 </div>
 
 **Jeg finder det tankevækkende**, at det er de mest aktivt religiøse kristne der insisterer på, ja ligefrem velsigner, at gentage den handling som deres legender fortæller førte til deres forfædres uddrivelse af himmerige. Ja de anser det ligefrem for syndigt at blive set uden tøj på, selvom mennesket først blev genkendeligt som syndigt da det bestemte sig for at gemme sin krop.  

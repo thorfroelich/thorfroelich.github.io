@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitCenter" style="width: 458px">
-  <img src="http://www.abekat.net/wp-content/images/orlandob.jpg" alt="" />
+  <img src="http://www.abekat.net/images/orlandob.jpg" alt="" />
 </div>
 
 <center>
@@ -19,7 +19,7 @@ Orlando Bloom er en følsom rad. Det siges at han græd i en uge, da han fik den
 <!--more-->
 
 <div class="bitImage bitCenter" style="width: 399px">
-  <img src="http://www.abekat.net/wp-content/images/justint.jpg" alt="" />
+  <img src="http://www.abekat.net/images/justint.jpg" alt="" />
 </div>
 
 <center>
@@ -30,7 +30,7 @@ Orlando Bloom er en følsom rad. Det siges at han græd i en uge, da han fik den
 Den prominente pikkemand der pryder Justins torso er efter hans eget udsagn en efterligning af den tatovering af hans tissetrold han har på ryggen. Adspurgt hvilke af de to grafiske repræsentationer af penis han foretrækker, var svaret: *“Helt klart dem begge. Men måske lidt mere den ene. Må jeg vælge det?”*
 
 <div class="bitImage bitCenter" style="width: 434px">
-  <img src="http://www.abekat.net/wp-content/images/bradp.jpg" alt="" />
+  <img src="http://www.abekat.net/images/bradp.jpg" alt="" />
 </div>
 
 <center>

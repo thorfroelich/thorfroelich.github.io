@@ -34,7 +34,7 @@ I Grønland kører man derimod i sneen. Og det er fordi der er væsentlig mere s
 På den prægtige ø mod nord er religion en vigtig del af indbyggernes liv. De er nemlig ikke skatteundgældende [apotekere][1] eller [agroteknikere][1], eller hvad hulan, som ham Brian Mørk. De kryber ikke ‘tvivlende’ langs husmurene, som han. Oprejst og hellige, går de, velvidende at Havmoderen beskytter og våger over dem.
 
 <div class="bitImage bitRight" style="width: 168px">
-  <img src="http://www.abekat.net/wp-content/images/bighair_01.jpg" alt="Hun har normalt ikke kjole på." /><br /> Havmoder. Tilsæt blot vand.
+  <img src="http://www.abekat.net/images/bighair_01.jpg" alt="Hun har normalt ikke kjole på." /><br /> Havmoder. Tilsæt blot vand.
 </div>
 
 Havmoderen er en fiskekvinde eller en stor kvindelig fisk, med en anseelig mængde, mægtigt filtret hår oven på sit hovede. I håret bor sæler, edderkopper og tukaner. Med andre ord: jeg har ikke begreb skabt om, hvad der bor i Havmoderens hår eller om det overhovedet er vigtigt. Men jeg ved, at hun ville kunne banke alle Grønlands fjender. Hun har store, tykke arme, fulde af muskler, fordi hun svømmer i vandet dagen lang og nogen gange natten med.  

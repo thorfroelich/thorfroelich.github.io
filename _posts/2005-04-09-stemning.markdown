@@ -33,7 +33,7 @@ Alle spændende titler men ingen indeholder helt den følelse af fuldstændig re
 Nå, det må komme senere.
 
 <div class="bitImage bitLeft" style="width: 240px">
-  <img src="http://www.abekat.net/wp-content/images/sarkofag.jpg" alt="Sarkofag er gammelgræsk og betyder Ligæder. Smukt." /><br /> Væk med de stemmeurner. En stemmesarkofag er lige mig.
+  <img src="http://www.abekat.net/images/sarkofag.jpg" alt="Sarkofag er gammelgræsk og betyder Ligæder. Smukt." /><br /> Væk med de stemmeurner. En stemmesarkofag er lige mig.
 </div>
 
 Når først jeg er blevet valgt vil jeg holde folkeafstemninger ofte. Folket skal jo stadig have friheden til at vælge selv. Jeg er jo ikke urimelig.  
@@ -49,7 +49,7 @@ Det skal være folk frit for om de vil stille op som modstandere mod mig i de fr
 • Folk der er præsidenter (mig) skal have kage. Tit og ofte. Den gode slags med glasur.
 
 <div class="bitImage bitRight" style="width: 230px">
-  <img src="http://www.abekat.net/wp-content/images/indian.jpg" alt="Hans totemdyr er en vred og skuffet bæver. En gnaven gnaver. Ha ha!" /><br /> En oprindelig amerikaner. Brysk og stolt som en inder.
+  <img src="http://www.abekat.net/images/indian.jpg" alt="Hans totemdyr er en vred og skuffet bæver. En gnaven gnaver. Ha ha!" /><br /> En oprindelig amerikaner. Brysk og stolt som en inder.
 </div>
 
 Ja, jeg ved det bliver svært for mine modkandidater når jeg buser frem med den slags valgflæsk, men jeg har arbejdstegningerne til Utopia. Nu er det op til jer at stemme på det gode og det sande.  

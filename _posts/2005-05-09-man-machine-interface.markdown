@@ -7,7 +7,7 @@ categories:
   - "Thor's ting"
 ---
 <div class="bitImage bitLeft" style="width: 200px">
-  <img src="http://www.abekat.net/wp-content/images/gits_02.jpg" alt="En cyborg med robo-hjerne som farer rundt som en AI inde i en anden cyborgs computer's AI." /><br /> GitS 2: Man-Machine Interface
+  <img src="http://www.abekat.net/images/gits_02.jpg" alt="En cyborg med robo-hjerne som farer rundt som en AI inde i en anden cyborgs computer's AI." /><br /> GitS 2: Man-Machine Interface
 </div>
 
 Så havde jeg jo lige læst [Ghost in the Shell 2: Man-Machine Interface][1]. Her, efter endt læsning, må jeg konstatere at jeg ikke ved specielt meget mere om, hvad den handler om, end da jeg startede. Det er vistnok noget med nogle fjender, et træ og en hulens masse krops-skifte. Og kunstig intelligens. Virus er der vist også nogle af.

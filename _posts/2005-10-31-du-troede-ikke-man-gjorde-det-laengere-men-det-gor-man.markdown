@@ -10,7 +10,7 @@ categories:
 Engang blev menneskene bange når vejret stod på torden og lynild, fordi de troede at det var Gud(erne) der var ude på at aflive dem. I dag ved vi at det bare er naturen der ihærdigt prøver at slå os ihjel. Derfor skulle man tro at vi var holdt op med gudning og hvad dertil hører med at adlyde lemfældigt forfattede pamfletter og romaner fulde af fantastiske røverhistorier. Men nej, folk er stadig gudsfrygtige remoulade-spisende troende. De skal i himlen, hvis de har ført et tilstrækkeligt fromt liv og kan blive helt sure hvis nogen anfægter denne måde at se på tingene. Nogen vil gå så langt som til at hæve stemmen, sprænge sig selv og andre i luften eller sågar mobilisere en stor moderne hær for at irettesætte de andre. Pas på hvad du siger, ugudelige kætter. Dine udsagn strider med stor sandsynlighed imod hvad en lemfældigt forfattet bog om en arbitrær gud foreskriver. Bogen indholder ofte fantasifulde anbefalinger til hvordan den troende håndterer sådan nogen som dig. Det er gerne noget med at give dig hovedrollen i en mordbrand eller en eksplosion.
 
 <div class="bitImage bitRight" style="width: 178px">
-  <img src="http://www.abekat.net/wp-content/images/pirate_01.jpg" alt="Havets skræk!" /><br /> YAAARRRHHH!
+  <img src="http://www.abekat.net/images/pirate_01.jpg" alt="Havets skræk!" /><br /> YAAARRRHHH!
 </div>
 
 **Pirateri**  
@@ -18,7 +18,7 @@ Her mener jeg ikke uønsket gengivelse af immaterielle værker, men derimod lang
 Skibe bliver hele tiden angrebet af pirater og det hænder at både fartøj og besætning bliver stjålet. Her vil jeg godt benytte lejligheden til at minde om hvor stort et skib er: Det er mægtigt stort, hvis ikke større! Og derfor finder jeg det overordentlig imponerende at man med et nyt navn til skuden og måske en klat maling, kan sælge den videre. Men redere har måske dårlige øjne eller så mange skibe at de ikke orker at lede efter dem der bliver væk. Det må de jo om. Dagens pirater er selvbevidste og bruger motoriserede joller og hurtigtskydende krigsgeværer til at udføre op mod 80% af deres opgaver, hurtigt og effektivt.
 
 <div class="bitImage bitLeft" style="width: 168px">
-  <img src="http://www.abekat.net/wp-content/images/mltr_01.jpg" alt="Musisk hitleri." /><br /> Store i Asien. Store som giganter.
+  <img src="http://www.abekat.net/images/mltr_01.jpg" alt="Musisk hitleri." /><br /> Store i Asien. Store som giganter.
 </div>
 
 **Michael Learns To Rock**  

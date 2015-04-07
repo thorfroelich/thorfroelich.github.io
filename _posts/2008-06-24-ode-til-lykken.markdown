@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 258px">
-  <img src="http://www.abekat.net/wp-content/images/pyntethund.jpg" alt="Vigtighedsmedaljer!" /></p> <p>
+  <img src="http://www.abekat.net/images/pyntethund.jpg" alt="Vigtighedsmedaljer!" /></p> <p>
     Lykke er en pyntet hund med rygstykket fuld af medaljer!
   </p>
 </div>
@@ -19,7 +19,7 @@ Lykke er at se Henrik Qvortrup realisere sin livslange drøm om at blive kaptajn
 Lykke er sidde med en lille hund i skødet og fortælle den om svundne tider. Tider hvor alting var mindre kompliceret og alle var bedre til tysk. Jo, ganske vist skulle kartofler og anden jordfrugt graves op af den frosne jord med lidet andet end de bare næver og en kartoffel fra i fjor til hjælp, men dengang havde unge mænd trods alt ikke kvindagtige coiffures på toppen af deres hoveder. Ej heller var det almindeligt for dem på krukket vis at bekymre sig om hudpleje eller at pynte sig med glitrende tingeltangel. Nu om stunder gør de al den slags og mere til og den lille hund man fortæller derom kan fint forstå at dengang var bedre end i dag.
 
 <div class="bitImage bitLeft" style="width: 258px">
-  <img src="http://www.abekat.net/wp-content/images/soemaend.jpg" alt="Udfor Blåvandshug!" /><br /> Lykke er blå sømænd på et blåt skib ved deres blå kanon!
+  <img src="http://www.abekat.net/images/soemaend.jpg" alt="Udfor Blåvandshug!" /><br /> Lykke er blå sømænd på et blåt skib ved deres blå kanon!
 </div>
 
 Lykke (bestemt som ubestemt) er ikke spor lunefuld som den rædsomme Lars H.U.G. forsøger at bilde alverden ind med sine alkymistisk inspirerede sange. Man kan ikke lave bly om til guld med mindre man har muligheden for at franarre blyatomer nogle af deres elektroner (held og lykke med det, Fister), måske med en maskine fuld af fimrehår, magnetfelter og stråler. Man skal bruge et oscilloskop til det ellers er det ikke videnskab, men derimod humaniora.

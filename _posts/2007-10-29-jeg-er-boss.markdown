@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/skraldebunke.jpg" alt="Nyrenoveret." /></p> <p>
+  <img src="http://www.abekat.net/images/skraldebunke.jpg" alt="Nyrenoveret." /></p> <p>
     Mørk Tankevirksomhed’s lokaler.
   </p>
 </div>
@@ -35,7 +35,7 @@ Man skal vide ting. Om ting. Ting jeg ikke ved hvad er. Og når jeg læser om de
 For ganske nylig fik jeg en skrivelse fra den kommune hvori skæbnen har valgt at isolere mig (hinsides bjergene og over den store sump), hvori der skrives at mit firma skal betale en sum til kommunen for al det besværlige papirværk som kommunen hver uge er så venlige at køre bort for mig i store lastbiler. Det er ikke kun noget mit firma udsættes for, det er alle firmaer. Og det er fornuftigt nok når man tænker over det. Selskaber skal selvfølgelig betale for borttransportering af væmmeligt skrald. Og lastbiler med store containere, forbrændinger og makuleringsmaskiner er sikkert ikke billige at holde i gang.
 
 <div class="bitImage bitCenter" style="width: 358px">
-  <img src="http://www.abekat.net/wp-content/images/affaldsko.jpg" alt="Samtlige ventiler var gået." /><br /> Mørk Tankevirksomhed’s dagrenovation for sidste tirsdag (bemærk at koen var defekt og at det ikke kunne svare sig at reparere mere på den).
+  <img src="http://www.abekat.net/images/affaldsko.jpg" alt="Samtlige ventiler var gået." /><br /> Mørk Tankevirksomhed’s dagrenovation for sidste tirsdag (bemærk at koen var defekt og at det ikke kunne svare sig at reparere mere på den).
 </div>
 
 Men, men, men. Mit firma består af mig, en kuglepen og en sort notesbog.

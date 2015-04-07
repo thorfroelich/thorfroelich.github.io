@@ -9,7 +9,7 @@ categories:
 Jeg er af den mening at folk der ejer en hund må være en speciel slags idioter. Jeg har selv to af slagsen* og ved derfor hvad jeg snakker om. Hunde er besværlige, stinkende, larmende og altødelæggende fældedæmoner der skal luftes konstant om det så regner og hagler og sner. Og mine er begge pragteksemplarer på alle de punkter. Men nu, efter at have set TV2’s prægtige program ’Det Er Mig Eller Hunden’, har jeg lært at det ikke behøver at være sådan. Næ ingenlunde. I Programserien viser en dygtig kvindelig hundeadfærdsekspert en række dumme danskere hvordan en hund IKKE skal opdrages. Der er tale om ting som er umulige for almindelige dødelige at regne ud selv. F.eks. må man ikke give de stolte dyr dukketøj på og få dem til at danse lancier og man må heller ikke kvæle dem med næverne eller rebværk til de er døden nær. Fejl vi alle kunne have begået. 
 
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/hitlerhund.jpg" alt="Og lege med en arisk bold." /><br /> Her lærer Adolf sin førerhund at indtage østlande med magt.
+  <img src="http://www.abekat.net/images/hitlerhund.jpg" alt="Og lege med en arisk bold." /><br /> Her lærer Adolf sin førerhund at indtage østlande med magt.
 </div>
 
 Heldigvis lærer den rare ekspert os hvordan man på ingen tid får rettet op på dyrene så de bliver til små Lassier. Skal man ty til vold? Er der tale om at operere fremtidsmekanik ind i hjernebrasken på de små kræ? Skyder vi dem? Nej. Mirakelmidlet er noget så simpelt som godbidder. De skal have godbidder hele tiden. Og med hele tiden, mener jeg konstant. Når de giver hals, når de løber, når de knurrer, når de leger, når de ikke giver hals og ved tisning, spisning, bidning og savlning. Faktisk kan man få en hund til at gøre lige hvad man vil have den til, så længe man er i stand til at medbringe 12-15 kilo godbidder på sig konstant. Jeg vil gerne have bedre hunde så jeg skal ud og have en form for trækvogn eller en bør.  
@@ -21,7 +21,7 @@ Jeg havde engang en hund som jeg kunne få til at ligge død. Der lå den så, h
 
 <center>
   </p> <div class="bitImage bitCenter" style="width: 188px">
-    <img src="http://www.abekat.net/wp-content/images/skull.jpg" alt="Ja. Det gør det." /><br /> Min ene hunds kranium. Tilhører det en gris?
+    <img src="http://www.abekat.net/images/skull.jpg" alt="Ja. Det gør det." /><br /> Min ene hunds kranium. Tilhører det en gris?
   </div>
   
   <p>

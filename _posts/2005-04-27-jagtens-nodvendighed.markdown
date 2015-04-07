@@ -7,7 +7,7 @@ categories:
   - Gode råd
 ---
 <div class="bitImage bitRight" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/owl_01.jpg" alt="En værre bande ugler, dem!" /><br /> En, måske to, ugler har igennem længere tid omadresseret en del af min post
+  <img src="http://www.abekat.net/images/owl_01.jpg" alt="En værre bande ugler, dem!" /><br /> En, måske to, ugler har igennem længere tid omadresseret en del af min post
 </div>
 
 eller *“Dyrenes Uretfærdige Tyranni”*
@@ -17,7 +17,7 @@ Dyrene ude i naturen er nogle bedrevidende og irriterende skabninger. Det samme 
 Heldigvis har mennesket opfundet krudtgeværet for bedre at kunne skyde dyrene og hinanden til de var døde. Det hedder henholdsvis *jagt* og *krig*. Til tider også *bryllup*. Våben giver os en fantastisk mulighed for, ikke alene at holde dyr væk, men sørge for at de holder op med at være i live. Adskillige dyr kan dog omvendt sørge for at *du* kommer af dage: Hvepse (med striber og antenner), bjørne, pumaer, vintergækker, drager og alle dyr der kommer fra Australien. Derfor er det vigtigt at skyde, dygtigt og præcist, så snart du får øje på noget der kan være et dyr. Der er ofte ikke tid til at artsbestemme, uden at bringe sig selv i unødig fare.
 
 <div class="bitImage bitLeft" style="width: 238px">
-  <img src="http://www.abekat.net/wp-content/images/shrimp_01.jpg" alt="Den smeltede dem om til en carport" /><br /> Det var en reje næsten magen til den her, som stjal Guldhornene
+  <img src="http://www.abekat.net/images/shrimp_01.jpg" alt="Den smeltede dem om til en carport" /><br /> Det var en reje næsten magen til den her, som stjal Guldhornene
 </div>
 
 Det går godt. Adskillige arter har vi allerede fået bugt med. Dronten, en dødsensfarlig tyksak af en fugl. Dinosaurussen, en vild og blodig krabat med tænder som en menneskeædende fortidsøgles. Begge er de uddøde, fordi nok mennesker besluttede sig for ikke længere at ville leve i frygt. Andre arter er på heftig retur, takket være store jagtindsatser og kostbare programmer med at skyde dyr ud i rummet med en flot rumraket. Rumraketter bliver fløjet af astronauter og ikke rummænd, som man måske kunne tro.

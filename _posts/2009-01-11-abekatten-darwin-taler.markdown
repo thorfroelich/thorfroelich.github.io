@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" width="262">
-  <img alt="funkydarwin.jpg" src="http://www.abekat.net/wp-content/images/funkydarwin.jpg" /></p> <p>
+  <img alt="funkydarwin.jpg" src="http://www.abekat.net/images/funkydarwin.jpg" /></p> <p>
     Charles Darwin aka MC Galapagos Filthat
   </p>
 </div>

@@ -9,7 +9,7 @@ categories:
 Det er langt mere at glæde sig over ved fremtiden end udsigterne til tv-transmitterede gladiatorkampe mellem lesbiske politikere og skrabere fra Gillette med 16, måske helt op til 20, klinger – selvom det i sig selv burde være alt rigeligt. Ej heller vil din fuldt mekaniserede og ganske nypolerede jernkrop med tilhørende jernsko (med hvilke du kan trampe alt ikke-metallisk fladt) være eneste glæde i livet. Nej, verden vil i Fremtiden(tm) være spækket til randen med turistattraktioner, som vi ikke kender magen til i dag. Og de vil blot være ganske få raket-skridt væk. Forudsat selvfølgelig, at du ikke var en fedtsyl og købte jernsko uden raketter, som i fremtiden totalt vil være et social *faux pas*. Ligesom det, at gå til dans eller være veganer er det i dag.
 
 <div class="bitImage bitLeft" style="width: 142px">
-  <img src="http://www.abekat.net/wp-content/images/goering_01.jpg" alt="SCHNELL!" /><br /> Flyv güngen over London!
+  <img src="http://www.abekat.net/images/goering_01.jpg" alt="SCHNELL!" /><br /> Flyv güngen over London!
 </div>
 
 **Super Hitler Sunshine Family Fun Land**  
@@ -19,7 +19,7 @@ Henryk de mindste med en skrupskør tur i Görings Luftwaffe Günger. Og parkér
 Snyd ikke dem selv for denne oplevelse, hvis du er i Europas Forenede Emirater. Qvortrup blev stødt til hvile i dette pragtfulde stenmonument efter et langt uselvisk liv, som den dag i dag står til minde om een mands ubønhørlige kamp for indsigt i de kendtes byture. Der er få praktiske foranstaltninger at ihukomme når du besøger denne helligdom. Tal kun ganske sagte, når du er inde i selve graven, for at vise respekt. Fotografering er ikke tilladt i helligdommen og agtværdig påklædning er strengt påkrævet. 
 
 <div class="bitImage bitRight" style="width: 228px">
-  <img src="http://www.abekat.net/wp-content/images/hans_island_01.jpg" alt="Pfft, hvad kan de?!" /><br /> Den samlede danske styrke kort efter sejren over Canadalonien
+  <img src="http://www.abekat.net/images/hans_island_01.jpg" alt="Pfft, hvad kan de?!" /><br /> Den samlede danske styrke kort efter sejren over Canadalonien
 </div>
 
 **Hans Island**  

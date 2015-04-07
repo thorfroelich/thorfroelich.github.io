@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 158px">
-  <img src="http://www.abekat.net/wp-content/images/alfons.gif" alt="Ja ja, jeg skal bare lige..." /><br /> Gloria Patris
+  <img src="http://www.abekat.net/images/alfons.gif" alt="Ja ja, jeg skal bare lige..." /><br /> Gloria Patris
 </div>
 
 Alle der kender mig kan verificere at jeg er religiøs i en absurd grad. Jeg er tosset med religion og hvad dertil hører. Jeg må dog tilstå at det mest er af praktiske årsager.
@@ -17,7 +17,7 @@ Bibelen er Guds ord og et værk af uforfalsket sandhed – for således står de
 Jeg abonnerer på så mange trosretninger som overhovedet muligt. Også selvom disse måtte være i direkte konflikt med hinanden, som eksempelvis Åbergs Vidner og Syvendedags Alfonsisterne. Eller det i Irak så tydelige skænderi: Sunni kontra Shia-alfonsisme, som jo strides om hvorvidt Svipper er den sande arvtager efter Profeten Åberg. Den slags lader jeg mig ikke kue af. Jeg er med, hvis det drejer sig om usynlige venner og hemmelige huler. Derfor føler jeg mig også forholdsvis sikret, når det kommer til tiden umiddelbart efter jeg er afgået ved døden. Lidt ligesom når man har helgarderet i tips.
 
 <div class="bitImage bitLeft" style="width: 258px">
-  <img src="http://www.abekat.net/wp-content/images/vidner.jpg" alt="KUN hos Åbergs Vidner!" /><br /> Løver og mexikanere lever i fordragelighed!
+  <img src="http://www.abekat.net/images/vidner.jpg" alt="KUN hos Åbergs Vidner!" /><br /> Løver og mexikanere lever i fordragelighed!
 </div>
 
 Det er en ringe pris at betale, uafladeligt at skulle vende sig mod alle verdens hjørner i bøn. Når hele dagen går med dyrkelse af den ene entydigt og endegyldigt sande gud efter den anden, er der kun meget lidt tid hvori jeg riskikerer at bryde de op mod 2 millioner bud, som jeg er underlagt. Disse omfatter alt fra forbud mod at gå iført hatte af mere end een type fiber til en streng formaning om aldrig at forbande jorden min lokale indianer sover på.

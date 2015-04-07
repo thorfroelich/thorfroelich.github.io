@@ -9,7 +9,7 @@ categories:
 Nu da min højtærede kollega, Brian Mørk, med vanlig (mangel på) elegance har beskrevet den kætterske tro vi i denne del af verden så naivt bekendte os til for æoner siden, er det min tur til at behandle kristendommen. Nærmere bestemt vil jeg fokusere på de mest prominente figurer, hovedpersonerne om man vil. Det bliver en tour de force af farverige personligheder og skæve eksistenser, tør jeg godt love. Mest af alt fordi det her er internettet og skulle mine udsagn vise sig at være løgn og humbug, ville det være en forbrydelse uden ofre.
 
 <div class="bitImage bitRight" style="width: 168px">
-  <img src="http://www.abekat.net/wp-content/images/gud_01.jpg" alt=""Kun en lille sot skal de have i dag", synes han at sige" /><br /> Her et sjældent billede af Gamle Gud i godt humør.
+  <img src="http://www.abekat.net/images/gud_01.jpg" alt=""Kun en lille sot skal de have i dag", synes han at sige" /><br /> Her et sjældent billede af Gamle Gud i godt humør.
 </div>
 
 **Gud, den gamle**  
@@ -20,7 +20,7 @@ Man vidste hvor man havde ham og kunne derfor blot undlade at bære en hat tilvi
 Nye Gud er helt anderledes. Og det betyder som bekendt kedelig. Ildregn, dødsengle og flammesværd er byttet ud med overbærenhed, kys på kinden og plads til alle. Æv. Pludselig var Gud helt med på at de kristne fik spyd stukket i sig og blev bidt i af løver. Måske fordi han selv helt havde indstillet den slags festligheder. Vend den anden kind til når den store kat har kradset den første af, var beskeden til de noget forvirrede tilhængere. Men Nye Gud havde et hemmeligt våben, ved navn Jesus, som skulle få gejsten tilbage. Han blev også dræbt. Men mere om ham senere.
 
 <div class="bitImage bitLeft" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/holy_ghost_01.jpg" alt="Sexdyr!" /><br /> Her daler det lumpne fjerkræ ned. Utvivlsomt for at kopulere.
+  <img src="http://www.abekat.net/images/holy_ghost_01.jpg" alt="Sexdyr!" /><br /> Her daler det lumpne fjerkræ ned. Utvivlsomt for at kopulere.
 </div>
 
 **Helligånden**  

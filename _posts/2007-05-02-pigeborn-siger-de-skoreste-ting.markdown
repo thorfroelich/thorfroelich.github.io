@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 183px">
-  <img src="http://www.abekat.net/wp-content/images/simpson.jpg" alt="Meget, åh så meget." /><br /> Hun er en dum pige.
+  <img src="http://www.abekat.net/images/simpson.jpg" alt="Meget, åh så meget." /><br /> Hun er en dum pige.
 </div>
 
 Piger og drenge er forskellige fra hinanden. Det samme kan siges om mænd og kvinder. Og damer og herrer. Og også om birketræer og en knallert, men derom en anden gang.  
@@ -19,7 +19,7 @@ Jeg har taget det på mig selv at blotlægge og sprede sandheden. Som en anden K
 Og sandheden er at kvinder siger dumme ting. Så er det sagt. Eftertiden må dømme mig. Eller fanatiske feminister kan tage mig til fange og torturere mig indtil jeg bryder sammen og hjernevaskes. Men det tvivler jeg på de kan finde ud af. Kvinder siger dumme ting, ganske simpelt.
 
 <div class="bitImage bitLeft" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/hilton.jpg" alt="Og andre negative ting også." /><br /> Hun er en dum pige.
+  <img src="http://www.abekat.net/images/hilton.jpg" alt="Og andre negative ting også." /><br /> Hun er en dum pige.
 </div>
 
 Jeg har præsenteret et lille udpluk fra min egen verden, lur mig om det ikke er noget vi alle kan nikke genkendende til.
@@ -74,7 +74,7 @@ Jeg har præsenteret et lille udpluk fra min egen verden, lur mig om det ikke er
 
 <center>
   </p> <div class="bitImage bitCenter" style="width: 198px">
-    <img src="http://www.abekat.net/wp-content/images/smith.jpg" alt="Så dum at hun døde af det." /><br /> Hun er en dum pige.
+    <img src="http://www.abekat.net/images/smith.jpg" alt="Så dum at hun døde af det." /><br /> Hun er en dum pige.
   </div>
   
   <p>

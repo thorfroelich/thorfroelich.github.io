@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 211px">
-  <img src="http://www.abekat.net/wp-content/images/ungdomshus_01.jpg" alt="For næsten alle unge." /><br /> Rige udfoldelsesmuligheder her!
+  <img src="http://www.abekat.net/images/ungdomshus_01.jpg" alt="For næsten alle unge." /><br /> Rige udfoldelsesmuligheder her!
 </div>
 
 Ungeren. Ungdomshuset. Kært barn har to navne. Og nu er det kære barn blevet revet ned af en robust nedrivningsgravko og tilbage står kun barnets tomme grund og de uetablerede stakler, som havde til huse inde i barnet.
@@ -22,7 +22,7 @@ Man informerede formelt de unge om planerne og at det i den forbindelse ville v�
 Så en morgen for ikke så længe siden vågnede husets beboere ved at de ikke længere var husets beboere, men husvilde dissidenter i ordensmagtens varetægt. Politimyndigheden havde på fejeste vis undladt at bryde den stærkt befæstede port ned med hvad dertil ville høre af molotovcocktails, brosten og sække med økologisk og bæredygtigt dyrkede linser. Man havde i stedet sat nogle gæve betjente af på taget alt imens andre sprøjtede vand og sæbe ind af vinduerne. Den behandling var for stor en mundfuld for de ellers så beredte aktivister og det var ovre før det var begyndt.
 
 <div class="bitImage bitLeft" style="width: 164px">
-  <img src="http://www.abekat.net/wp-content/images/vredtbarn_01.jpg" alt="Altså, hvor er jeg sur!" /><br /> IIIIIIIIIIIIIIIHHHHHHHHH!!!!!
+  <img src="http://www.abekat.net/images/vredtbarn_01.jpg" alt="Altså, hvor er jeg sur!" /><br /> IIIIIIIIIIIIIIIHHHHHHHHH!!!!!
 </div>
 
 I kølvandet på dette fulgte de obligatoriske optøjer og ståhej. De unge mente jo at alle måtte kunne se de var blevet uretfærdigt behandlet af politikerne. Og når det sker er der kun ét tilbage at gøre. Brænd tilfældige menneskers biler af, rasér en skoles edb-faciliteter og kast med alt hvad der kan løftes fra jorden og stikkes ild på. Lidt ligesom et hysterisk barn. Ok, det var ikke kun én ting, men det understreger bare alvoren!

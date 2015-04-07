@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 206px">
-  <img src="http://www.abekat.net/wp-content/images/medieval_01.jpg" alt="Jeg blev aldrig helt færdig." /></p> <p>
+  <img src="http://www.abekat.net/images/medieval_01.jpg" alt="Jeg blev aldrig helt færdig." /></p> <p>
     Træsnit af mig der maler min carport.
   </p>
 </div>
@@ -18,7 +18,7 @@ Jeg havde engang et mareridt hvor jeg og nogle af mine håndværkervenner ved et
 
 <center>
   <div class="bitImage bitCenter" style="width: 266px">
-    <img src="http://www.abekat.net/wp-content/images/vredemaend.jpg" alt=""Åh, jeg ber'"" /><br /> Mændene udviser taknemmelighed for mit bidrag til samfundet.
+    <img src="http://www.abekat.net/images/vredemaend.jpg" alt=""Åh, jeg ber'"" /><br /> Mændene udviser taknemmelighed for mit bidrag til samfundet.
   </div>
   
   <p>

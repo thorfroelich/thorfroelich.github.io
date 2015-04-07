@@ -10,7 +10,7 @@ Du kender mig godt. Jeg er ham der sidder lige bag dig, hvis ikke ved din side, 
 Bliver jeg bedt om at tie stille, gør jeg det. I omtrent et minuts tid. Længere tid evner jeg ikke at være tyst. Det er nok fordi jeg har et problem med noget inde et sted i hjernen.
 
 <div class="bitImage bitRight" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/chatty_01.jpg" alt="Du tænker KUN på at dræbe mig!" /><br /> Den film er kedelig. Hvor gør han sådan? Hvem er hun? Iiih, altså!
+  <img src="http://www.abekat.net/images/chatty_01.jpg" alt="Du tænker KUN på at dræbe mig!" /><br /> Den film er kedelig. Hvor gør han sådan? Hvem er hun? Iiih, altså!
 </div>
 
 Mildt retarderet midaldrende menneske, som jeg er, går jeg i biografen og er ikke rigtig klar over at andre mennesker næppe finder det ønskværdigt at få beskrevet de sidste 4 sekunders handling med ord fra min mund. Måske skyldes det, at de ser samme film som jeg? Men tør jeg risikere at de går glip af handling, action og spænding? Nej. Nej, jeg gør ej.
@@ -20,7 +20,7 @@ Pigen der keder sig, hende er jeg også. Kedsomheden udspringer af min manglende
 Sommetider er jeg en 13-årig knægt, som er svært interesseret i at lade mine med-ungdomssvin vide at jeg faktisk *sagtens* kan følge med i handlingen, selvom den foregår på et svært sprog. Og alt bliver forklaret med tekst på dansk. Typer som mig burde se flere film derhjemme eller blive klippet og lave mine lektier. Mine danskkundskaber bør styrkes, da der ikke er noget der hedder “tj’aaaalt grineren, dér”!
 
 <div class="bitImage bitLeft" style="width: 156px">
-  <img src="http://www.abekat.net/wp-content/images/plagueman.gif" alt="Eller går han ud og forlanger pengene tilbage." /><br /> Pestmanden befaler stilhed i biografen!
+  <img src="http://www.abekat.net/images/plagueman.gif" alt="Eller går han ud og forlanger pengene tilbage." /><br /> Pestmanden befaler stilhed i biografen!
 </div>
 
 Fælles for mig er dog, at udstrækningen på mit empatiforladte univers er begrænset til lige der hvor min krop slutter. Og jeg har derfor ganske svært ved at forstå hvad al den virak og vrede skyldes. Hvis jeg bliver tysset på, kan jeg endog finde på at spørge om det her er en ‘voksenbiograf’, hvor man ikke må sige noget? Det er alle biografer, der viser film, bliver jeg oplyst om. Der kan man bare se. Det er snart glemt igen.

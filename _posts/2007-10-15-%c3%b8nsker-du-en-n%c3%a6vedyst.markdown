@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 228px">
-  <img src="http://www.abekat.net/wp-content/images/stik.jpg" alt="Pinden er fuld af strømførende peber." /></p> <p>
+  <img src="http://www.abekat.net/images/stik.jpg" alt="Pinden er fuld af strømførende peber." /></p> <p>
     Sådan går det oftest, når jeg spørger om klokken, vil låne sukker – eller begge disse ting i en spændende kombination.
   </p>
 </div>
@@ -38,7 +38,7 @@ Tal dig ud af problemerne**
 Det har jeg også prøvet mangt en gang, men altid med visse problemer. Jeg var ude for en fyr, der sagde til mig: ”Hva’ man. Er dit hovede fyldt med lort?” ”Ja, næsten. Men hvis du gør dig rigtig umage, kan der måske nok godt være lidt mere”. Han gjorde sig ret umage. Det er ærgerligt at få kindheste, når man meget hellere vil ha’ to heste med kinder. 
 
 <div class="bitImage bitCenter" style="width: 328px">
-  <img src="http://www.abekat.net/wp-content/images/brutality.jpg" alt="De underviser alt med hug og slag." /><br /> Her lærer jeg politiet, at jeg ikke skal svare igen!
+  <img src="http://www.abekat.net/images/brutality.jpg" alt="De underviser alt med hug og slag." /><br /> Her lærer jeg politiet, at jeg ikke skal svare igen!
 </div>
 
 **Løb**

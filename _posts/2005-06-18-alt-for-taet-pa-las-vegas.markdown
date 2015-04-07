@@ -15,7 +15,7 @@ Det betyder at man som en lovlig fremmed i deres land, mig eller f.eks. Sting, b
 Jeg drog, heltemodigt som en polarforsker, heltemodigt til det mest amerikanske sted på kloden, kapitalismens Meccha, det kulturelle vacuum, Las Vegas.
 
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/sun_01.jpg" alt="Man kan koge vand med den." /><br /> Av av av. Varm!
+  <img src="http://www.abekat.net/images/sun_01.jpg" alt="Man kan koge vand med den." /><br /> Av av av. Varm!
 </div>
 
 **Heden**  
@@ -25,7 +25,7 @@ Asfalten på gaderne er blandet op med diamanter for ikke at smelte i solens vre
 Er man, som jeg, humanoid af fysiognomi, så gør man klogest i at dække sin krop med afrikanere. De tåler nemlig solens angreb langt bedre end blegansigter. Arisk menneskehud bliver på få fatale minutter forvandlet til en sydende skorpe af kræft og de lokale barrikaderer sig da også indendørs i enorme glasborge fyld med is og kølige briser i samme sekund ildkæmpen anes i horisonten.
 
 <div class="bitImage bitLeft" style="width: 228px">
-  <img src="http://www.abekat.net/wp-content/images/poker.jpg" alt="Nej, de gør ikke. Det er urealistisk." /><br /> I Las Vegas spiller selv husdyr om penge.
+  <img src="http://www.abekat.net/images/poker.jpg" alt="Nej, de gør ikke. Det er urealistisk." /><br /> I Las Vegas spiller selv husdyr om penge.
 </div>
 
 **Hazard**  
@@ -35,7 +35,7 @@ Byen domineres af enorme templer som missionerer aggresivt for at lokke nye troe
 Den eneste beskyttelse er at straks stikke sine ører og øjne ud med det samme man ankommer til byen.
 
 <div class="bitImage bitRight" style="width: 218px">
-  <img src="http://www.abekat.net/wp-content/images/showgirls.jpg" alt="De lugter af kokos. Tro mig." /><br /> De slås om hvem af dem der skal danse ovenpå dig.
+  <img src="http://www.abekat.net/images/showgirls.jpg" alt="De lugter af kokos. Tro mig." /><br /> De slås om hvem af dem der skal danse ovenpå dig.
 </div>
 
 **Pigebørn**  

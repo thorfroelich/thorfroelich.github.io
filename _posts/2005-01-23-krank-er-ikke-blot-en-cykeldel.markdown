@@ -21,7 +21,7 @@ Det efterlader mig i bakterierne og viraenes vold.
 Og jeg bryder mig ikke om vold.
 
 <div class="bitImage bitCenter" style="width: 409px">
-  <img src="http://www.abekat.net/wp-content/images/snot.jpg" alt="Den lille strik er iklædt strik. Hi hi." /><br /> Den lille knøs er snottet ligesom mig. Men ulig mig har han en flot hue og er bosat i Andesbjergene
+  <img src="http://www.abekat.net/images/snot.jpg" alt="Den lille strik er iklædt strik. Hi hi." /><br /> Den lille knøs er snottet ligesom mig. Men ulig mig har han en flot hue og er bosat i Andesbjergene
 </div>
 
 Jeg har de seneste mange måneder ligget under for den hæslige pest som lægevidenskaben kalder ”Skidtmads”.  
@@ -45,7 +45,7 @@ Og nu er der sikkert kynikere som ville gå så langt som at kalde mig for klynk
 Jeg er simpelthen for afkræftet til at kunne bruge energi på hypokondri.
 
 <div class="bitImage bitRight" style="width: 238px">
-  <img src="http://www.abekat.net/wp-content/images/pain.jpg" alt="Helt poetisk er det italienske ord for brød rent faktisk Pain." /><br /> Så stort som brødet er, lige så stor er min smerte.
+  <img src="http://www.abekat.net/images/pain.jpg" alt="Helt poetisk er det italienske ord for brød rent faktisk Pain." /><br /> Så stort som brødet er, lige så stor er min smerte.
 </div>
 
 Nå, jeg må ud og forny mit abonnement på Treo og lommetørklæder, og skulle du møde mig på din vej, så gå da en stor bue uden om mig og modstå den overdøvende trang til at løbe hen og kramme mit skælvende hylster og slikke salten af mine hovne og sprukne læber.  

@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/lamp_01.jpg" alt="Romerflad til skærmen." /><br /> Een på goddagen. Eller kassen. Vist her: lampen.
+  <img src="http://www.abekat.net/images/lamp_01.jpg" alt="Romerflad til skærmen." /><br /> Een på goddagen. Eller kassen. Vist her: lampen.
 </div>
 
 Jeg glæder mig. Til hvad, spørger du. Til fremtiden. Ikke så meget på grund af den nye Kyborg-krop jeg er blevet skrevet op til, den som skal slæbe min hjerne rundt i verden, når nu den sølle ynkelige skal jeg befinder mig i, for længst har givet op under presset fra pomfritter og shawarma. Nej nej, grunden er en ganske anden.  
@@ -18,7 +18,7 @@ Nej, jeg glæder mig til vi får svenske tilstande i Danmark. For så skal jeg n
 Med alt held slår det nye ”up–and-coming” femininistiske parti igennem i Sverige, og forhåbentligt varer det ikke længe før det samme sker herhjemme. Det kan jo ikke tage lang tid med den ”en købmandskurv og en børnecheck for din stemme”-politik, vi så ivrigt praktiserer her i lille Danevang. Næh du! Kvinderne til magten med et brag og deraf følgende samfundsomvæltninger, såsom offentlige henrettelser af mænd der sex-chikanerer på arbejdspladsen, forbud mod anden ”humor” end det Brune Punktum og indførelse af den særlige mandeskat. Mandeskat! Ja, den er god nok. Mænd koster jo samfundet mere end kvinder med al den ravage vi går og laver. Det koster jo dyrt i psykolog hjælp, kleenex og ekstra bleer, eller hvad fanden kvinder nu skal bruge, når de har fået nogen på kassen af deres rocker-kæreste. Og da alle mænd jo potentielt er kærester af rocker-varianten, så må alle mænd bære skylden.
 
 <div class="bitImage bitLeft" style="width: 168px">
-  <img src="http://www.abekat.net/wp-content/images/beating_01.jpg" alt="HAAA USH! KIII-AAAI!" /><br /> Øv gerne dine judo-hug på en truet dyreart. Kvinder er ikke bange for en utrænet baghånd.
+  <img src="http://www.abekat.net/images/beating_01.jpg" alt="HAAA USH! KIII-AAAI!" /><br /> Øv gerne dine judo-hug på en truet dyreart. Kvinder er ikke bange for en utrænet baghånd.
 </div>
 
 Den samme tendens ser vi jo herhjemme når vi på bagsiden af Urban skal læse frøken Audrey’s, danmarks kvindelige svar på en etnisk hybrid af Finn Nørbygaard, Eddie Skoller og en sæk kartofler, udbreder sig om ”hellere et knæ i skridtet end et for lidt”. Yup, der menes at kvinder skal slå først og spørge en del senere. Den mandsperson de nu engang står overfor, jo potentielt er voldtægtsforbryder og/eller numsegramser.

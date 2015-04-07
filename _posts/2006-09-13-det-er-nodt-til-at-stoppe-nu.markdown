@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 164px">
-  <img src="http://www.abekat.net/wp-content/images/nuke_01.gif" alt="Hurra!" /><br /> Your nuclear holocaust. Your rules!
+  <img src="http://www.abekat.net/images/nuke_01.gif" alt="Hurra!" /><br /> Your nuclear holocaust. Your rules!
 </div>
 
 Det er ikke usandsynligt at jeg begår vold mod sagesløse, skulle jeg se eet til reklamefremstød benytte sætningskonstruktionen **Your *produktkategori*. Your rules**.

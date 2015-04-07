@@ -10,7 +10,7 @@ categories:
 (Citat: Thor Frølich)*
 
 <div class="bitImage bitRight" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/skib_01.jpg" alt="Rotterne er gået i bådene." /><br /> Et skib ifærd med det skibe gør bedst.
+  <img src="http://www.abekat.net/images/skib_01.jpg" alt="Rotterne er gået i bådene." /><br /> Et skib ifærd med det skibe gør bedst.
 </div>
 
 Ikke alle har et sommerhus som står fast, ligesom ikke alle synes at ferier absolut behøver at garantere deltagernes overlevelse. En stadig stigende del af befolkningen er bådejere og disse vælger ikke sjældent at tilbringe en større del af ferien ombord på fartøjet.
@@ -22,7 +22,7 @@ Sådan er det næsten ikke i dag. Nutidens skibe er bygget af jern, panser, maho
 Ude på vandet bidrager elementernes urolige natur til at kun ganske få ting ikke bevæger sig forvirrende rundt. På 9 ud af 10 sejladser er mikadospil, neurokirurgi og isætning af kontaktlinser så godt som umuligt. Det vil sige at de ombordværende må affindes sig med aktiviteter som samtale, spejden efter land og opkast. Dog skal alle være beredte på at tage sejl op og ned eller at hoppe i redningsbådene ved synet af en kraken.
 
 <div class="bitImage bitLeft" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/hund_03.jpg" alt="Hunde er landjordens fisk?" /><br /> En prægtig skibshund knejser.
+  <img src="http://www.abekat.net/images/hund_03.jpg" alt="Hunde er landjordens fisk?" /><br /> En prægtig skibshund knejser.
 </div>
 
 På søen vinker man til hinanden i erkendelse af at det meget vel kan være det sidste man ser til civilisationen. Man kalder tingene ved deres maritime navne, såsom dørk og styrbord. Derved kan man udmiddelbart skelne mellem uerfarne landkrabber og de uerfarne landkrabber der har lært sig at et køkken hedder en kabys. På bølgen blå er det aldrig til at vide hvor langt der er hen og ned og hvor hurtigt man bevæger sig. Derfor benævnes disse størrelser med enheder som er umulige at regne med. Der går 2 1/7 fod på en favn?! En knob er en sær fart og et knob er noget man binder.

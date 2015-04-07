@@ -26,7 +26,7 @@ Skællede og fremmede væsner. Bugtende, kravlende, kriblende, onde væsner.
 OG HVAD FANDEN LAVER DE I MIT BADEVÆRELSE?!
 
 <div class="bitImage bitRight" style="width: 270px">
-  <img src="http://www.abekat.net/wp-content/images/Silverfish.jpg" alt="Den kan smage din frygt." /> Påstå ej at dette dyr ikke er fra helvedes dyb.
+  <img src="http://www.abekat.net/images/Silverfish.jpg" alt="Den kan smage din frygt." /> Påstå ej at dette dyr ikke er fra helvedes dyb.
 </div>
 
 Sølvfisk!  
@@ -41,7 +41,7 @@ Men hvad kan jeg gøre? Jeg har jo andre ting at se til. Jeg kan jo ikke bruge v
 Der er ting der skal gøres. Ting kun jeg kan ordne. Vigtige ting!
 
 <div class="bitImage bitLeft" style="width: 150px">
-  <img src="http://www.abekat.net/wp-content/images/silverbars100oz.jpg" alt="Som kan byttes til forbrugsgoder." /><br /> Har man nok kan de smeltes om til fine barrer.
+  <img src="http://www.abekat.net/images/silverbars100oz.jpg" alt="Som kan byttes til forbrugsgoder." /><br /> Har man nok kan de smeltes om til fine barrer.
 </div>
 
 Hvorfor skal der absolut være en pris at betale for at være lige så vigtig som jeg?  

@@ -10,7 +10,7 @@ Jeg kommer ikke til at leve evigt. Ikke en engang halvdelen af evigt(?). Ifølge
 Derfor er det vigtigt at jeg allerede nu begynder at tænke over hvordan jeg vil blive husket af alle dem jeg ikke får taget med mig i døden. <!--more-->For huskes, det skal jeg. Ellers er det hele jo spildt, og det er der jo ikke nogen der er interesserede i. Bortset fra Vatikanet, men de skal ikke få det sidste ord i sagaen om Brian Mørk. Jeg ved de siger at paven er ufejlbarlig, men hvis det er tilfældet, hvorfor spiller han så ikke elitedart? Tænk på alle de prægtige pokaler han kunne tage med hjem til Rom. 
 
 <div class="bitImage bitCenter" style="width: 408px">
-  <img src="http://www.abekat.net/wp-content/images/dysse.jpg" alt="The old ones are the best." /><br /> Her hviler hans bene bag højens bautasten, bag højens bautasten.
+  <img src="http://www.abekat.net/images/dysse.jpg" alt="The old ones are the best." /><br /> Her hviler hans bene bag højens bautasten, bag højens bautasten.
 </div>
 
 Det ville være direkte uansvarligt at lade at overlade mit eftermæle til fremtidige generationer, da generationer jo aldrig er hvad de har været og sikkert heller aldrig bliver det igen.  
@@ -39,5 +39,5 @@ Brian Mørk blev revet fra os alt for tidligt, og først hen ad formiddagen blev
 Brian Mørk. Uden ham er vi fattigere. For vi skulle betale begravelsen.</em>
 
 <div class="bitImage bitCenter" style="width: 408px">
-  <img src="http://www.abekat.net/wp-content/images/oprah.jpg" alt="Og hun havde oven i købet fået en medalje." /><br /> Selv negerdamen græd derved.
+  <img src="http://www.abekat.net/images/oprah.jpg" alt="Og hun havde oven i købet fået en medalje." /><br /> Selv negerdamen græd derved.
 </div>

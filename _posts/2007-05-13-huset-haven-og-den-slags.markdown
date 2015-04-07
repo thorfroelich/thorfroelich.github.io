@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/nazgul.jpg" alt="De larmer og har ingen manerer." /><br /> Om sommeren ved aftentide kan vi godt være lidt generet af disse.
+  <img src="http://www.abekat.net/images/nazgul.jpg" alt="De larmer og har ingen manerer." /><br /> Om sommeren ved aftentide kan vi godt være lidt generet af disse.
 </div>
 
 Sommeren blev for kort tid siden lanceret her til lands under stor ståhej, til glæde for dem der nu engang synes om den slags pjat. I ved hvem jeg snakker om – kvindfolk og andet fruentimmer. Varme og lys er nu at finde i rigelige mængder, men det kræver dog at man går udenfor for at få det fulde udbytte. Selv bryder jeg mig ikke meget om det. Men da både min hustru og datter er kvindelige fruentimmer af hunkøn, bliver jeg jaget (udtales “javvet”) udendørs med spidse pinde og skingre hyl, så snart jeg har fundet mig en dunkel og fugtig krog at krybe sammen i. Her følger en kort beretning om min weekend.
@@ -18,7 +18,7 @@ Ved et sort uheld er marsken rundt om mit hus ikke det sædvanlige iltfattige og
 Huset vi bor i ligger som bekendt ude i marsken, ikke langt fra svenskens kyst og tårnet med Olof Palmes evigt brændende øje. Sikke et dejligt hus det er. Kun lejlighedsvis er vi plaget af Nazgûl og huset er ganske foruden klagende nazi-genfærd og moderne bekvemmeligheder som isolering og ledninger. Her bor vi godt og vi har foreløbig forhindret marskfolket i at rende af med vores førstfødte. Dejligt? Ikke udelukkende! Væggene i huset er visse steder beklædt med nøgen væg – et indretningteknisk aspekt min hustru synes meget lidt om. Derfor havde jeg været i købstaden for at indkøbe til opklæbning og gøren ved. Vi skal have glasfilt på disse vægge, sagde hun og slog ud med hånden. Ak og ve.
 
 <div class="bitImage bitLeft" style="width: 248px">
-  <img src="http://www.abekat.net/wp-content/images/swamphouse_01.jpg" alt="De tager dig nemlig med hjem" /><br /> Her er vores hus efter den omfattende istandsættelse. Det var temmelig sløjt fat inden vi gik i gang.
+  <img src="http://www.abekat.net/images/swamphouse_01.jpg" alt="De tager dig nemlig med hjem" /><br /> Her er vores hus efter den omfattende istandsættelse. Det var temmelig sløjt fat inden vi gik i gang.
 </div>
 
 Sidst jeg havde med glasfilt at gøre, kostede det mig det meste af et øje og førligheden. Så farligt er det stads at omgås. Det er konstrueret af ganske fine sylespidse glasskår, som kun holdes nødtørfigt sammen af had til kødet. Så snart man forsøger at håndtere materialet, fyldes luftveje, øjne og den ganske hud af mikroskopiske dolke.  

@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 201px">
-  <img src="http://www.abekat.net/wp-content/images/inventor.jpg" alt="Jeg har også et patent på min mund!" /></p> <p>
+  <img src="http://www.abekat.net/images/inventor.jpg" alt="Jeg har også et patent på min mund!" /></p> <p>
     Bilag 1: Foto af et ansigt. Mit.
   </p>
 </div>
@@ -38,7 +38,7 @@ Anordningen kan med lethed bæres omkring, ganske som man ville gøre det med en
 
 <center>
   <div class="bitImage bitCenter" style="width: 228px">
-    <img src="http://www.abekat.net/wp-content/images/anordning.jpg" alt="Blød at røre ved." /><br /> Bilag 2: Anordningen.
+    <img src="http://www.abekat.net/images/anordning.jpg" alt="Blød at røre ved." /><br /> Bilag 2: Anordningen.
   </div>
   
   <p>

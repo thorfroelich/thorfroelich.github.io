@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 158px">
-  <img src="http://www.abekat.net/wp-content/images/unge.jpg" alt="De vrider deres slimede kroppe i vellyst." /><br /> Beatmusik og rytmisk dans.
+  <img src="http://www.abekat.net/images/unge.jpg" alt="De vrider deres slimede kroppe i vellyst." /><br /> Beatmusik og rytmisk dans.
 </div>
 
 Mit gamle og ifølge lægerne kalkbelagte hjerte krymper sig over befolkningens holdning til fædrelandets hellige jord!
@@ -19,7 +19,7 @@ Nu om stunder sender Majestæten rask væk rigets landsknægte til fjerne himmel
 Forstå mig ret kære læser jeg er på ingen måde en af disse blodfattige krystere der undskylder togtet til Lindisfarn, tager afstand fra plyndringen af York, eller mener at angrebet på Paris ikke var fuldt politisk berettiget. Men når nu danske mænd og kvinder til stadighed lever under fremmede magters diktatur ja så bruser blodet for mine ører ved tanken om den koldblodige laden stå til og generelle slapssvanseri vore repræsentanter ved tinge udviser i brugen af rigets våbenmagt.
 
 <div class="bitImage bitLeft" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/1864.jpg" alt="Av, sagde de!" /><br /> Fader Krigsmand.
+  <img src="http://www.abekat.net/images/1864.jpg" alt="Av, sagde de!" /><br /> Fader Krigsmand.
 </div>
 
 De, kære læser, vil måske her mandigt nikke sammenbidt mens de mindes vore faldne. Ja, uvilkårligt knyttes næven fastere om drammen (drikken, ikke den norske provins!) ved tanken om Tysken. Tysken! med deres forførende flotte uniformer, deres hovmodige teorier om blonde herrefolk, og deres lumpne og svigefulde, men uhyre effektive, bagladergeværer. Ja ja også jeg bortvisker vel – som alle rettænkende – diskret en forrædderisk tårer fra min barkede kind når jeg mindes Dannevirke og tugthuskandidaten Bismarks nedrige tyveri af vore sydlige besiddelser.
@@ -27,7 +27,7 @@ De, kære læser, vil måske her mandigt nikke sammenbidt mens de mindes vore fa
 Det er imidlertid ikke disse fortvivlende omstændigheder der får min kolesterolopdæmmede kranspulsåre til at knirke faretrunde. Nej siger jeg, “siger” idet jeg dikterer disse linier til min lokale skriftkloge, en noget blegnæbet ungersvend ved navn Cyberdude, som synes at bo i Boomtowns dunkle lokaler. Nej! siger jeg, lad tysken være tysken – og hvor skulle vi iøvrigt ellers få Julemarcipan af en bare nogenlunde kvalitet, samt rigelige mængder af ægte afgiftsfri arnbitter – Næ, det er vor gamle arvefjender Svea’erne, der får mine gamle gigtplagede hænder til at ryste opbragt!
 
 <div class="bitImage bitRight" style="width: 238px">
-  <img src="http://www.abekat.net/wp-content/images/svenskebro.jpg" alt="Ligesom vores, bare farveblindt." /><br /> Svenskebro.
+  <img src="http://www.abekat.net/images/svenskebro.jpg" alt="Ligesom vores, bare farveblindt." /><br /> Svenskebro.
 </div>
 
 Jeg græder (mandigt og mens ingen ser det naturligvis) for de tålmodige danske mænd og kvinder der år efter år har måtte trykke sig skræmt i majstangens uhyggelige skygge, altimens de træller under svenskekongernes åg på Den besatte Østbred – det vore ryggesløse politicus’er i kvindagtige vendinger kalder Skåne, Halland og Blekinge! Længe nok har vore frænder hinsidan måtte vansmægte ved Surstömming, Folköl og Wasa knække. Det er på tide at danske helte gnider søvnen af øjnene, hanker op i selerne og drager i leding!

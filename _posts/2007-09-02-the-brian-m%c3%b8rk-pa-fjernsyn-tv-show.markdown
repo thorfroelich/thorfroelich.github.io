@@ -19,7 +19,7 @@ Hvorfor skal man bruge sin dyrebare tid på at sidde i en slidt sofa og se mit s
 Og så fordi at, jo flere mennesker der ser programmerne, jo mere magt får jeg i mediebranchen, og mediebranchen styrer verden. Et lille trin op ad magtens stige til jeg en skønne dag står på tinden og ler af jeres uvaskede pøbelansigter. Og arbejder for fred og kærlighed for alle, selvfølgelig. 
 
 <center>
-  <br /> [QUICKTIME http://www.abekat.net/wp-content/images/BMSTrailer.mov http://www.abekat.net/wp-content/images/BMSTrailer.mov 720 406]<br /> Klik på kulørte rektangel for at afspille. Du kan også højreklikke <a href="http://www.abekat.net/wp-content/images/BMSTrailer.mov">HER</a> og vælge ‘gem som…’ eller noget tilsvarende sært.<br />
+  <br /> [QUICKTIME http://www.abekat.net/images/BMSTrailer.mov http://www.abekat.net/images/BMSTrailer.mov 720 406]<br /> Klik på kulørte rektangel for at afspille. Du kan også højreklikke <a href="http://www.abekat.net/images/BMSTrailer.mov">HER</a> og vælge ‘gem som…’ eller noget tilsvarende sært.<br />
 </center>
 
 (*) *Eller mere korrekt. Det kommer på TV.*

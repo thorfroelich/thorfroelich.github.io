@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 173px">
-  <img src="http://www.abekat.net/wp-content/images/sadclown_01.jpg" alt="Så var jeg denne specifikke hund." /></p> <p>
+  <img src="http://www.abekat.net/images/sadclown_01.jpg" alt="Så var jeg denne specifikke hund." /></p> <p>
     Hvis jeg var en hund.
   </p>
 </div>
@@ -39,7 +39,7 @@ Jeg kender en idiot. Han ville begå selvmord ved at kaste sig ud foran et tog. 
 Man skal ikke give rotter gift. Man skal FÅ dem gift. Så holder de op med at parre sig.
 
 <div class="bitImage bitLeft" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/sadclown_02.jpg" alt="Så var det denne jeg var." /><br /> Hvis jeg var en anden hund end den første.
+  <img src="http://www.abekat.net/images/sadclown_02.jpg" alt="Så var det denne jeg var." /><br /> Hvis jeg var en anden hund end den første.
 </div>
 
 Jeg har fotografisk hukommelse. Jeg kan huske alle de kameraer jeg nogensinde har haft. 

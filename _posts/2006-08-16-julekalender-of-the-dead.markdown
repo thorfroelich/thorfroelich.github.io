@@ -7,7 +7,7 @@ categories:
   - Imponade
 ---
 <div class="bitImage bitRight" style="width: 220px">
-  <img src="http://www.abekat.net/wp-content/images/nissebande.jpg" alt="For licenspenge!" /><br /> De frække nisser er i varme lande.
+  <img src="http://www.abekat.net/images/nissebande.jpg" alt="For licenspenge!" /><br /> De frække nisser er i varme lande.
 </div>
 
 Poul og Nulle i hullet. Nissebanden. Jul i Gammelby. Jul på slottet. Jul i Valhal etc. Er alle gode eksempler på at børneTV burde brændes til varm aske der sejler bort på retfærdighedens vinde. Nationens unge børn (i modsætning til hvad præcis?) lapper disse sindsdræbende højtidsserier i sig som var de specielt lækker chokolademanna fra himlen, og det kan ikke andet end skade de kommende generationer af soldater og arbejdere i det tilsagte Mørke Tusindårsrige (Mit, mit eget). Og jeg kan ikke længere bare sidde tilbage og lade ringere mænd og kvinder lade deres talentløshed forme hvad der er retmæssigt mit, nemlig alle børns brødefri sjæle.  
@@ -17,7 +17,7 @@ Her kommer mit oplæg til en sådan utrolig serie. Hvis du skulle finde dig selv
 **Julen Gud glemte.**
 
 <div class="bitImage bitLeft" style="width: 200px">
-  <img src="http://www.abekat.net/wp-content/images/absalon.jpg" alt="Man bruger vold." /><br /> Valde og Absalon ved nok hvordan man gør.
+  <img src="http://www.abekat.net/images/absalon.jpg" alt="Man bruger vold." /><br /> Valde og Absalon ved nok hvordan man gør.
 </div>
 
 *I det herrens år 1234 har Biskop Absalon og Kong Valdemar af Danmark endelig fået nok. De forbereder et korstog imod alt hvad der ikke er kristent i riget og allerede året efter står slaget mod de hedenske små nisser på heden i Jylland. Nisserne udslettes til sidste “mand”. Massakren går i glemmebogen over de næste århundreder og verden går videre.  
@@ -32,7 +32,7 @@ Små skygger ses, lyden af små fodtrinhøres. Men altid kun i øjenkrogen.
 Dybt i katakomberne under huset står en enorm oldgammel vikingekalender med 24 låger. Hver dag åbner en ny låge og en ny slags ondskab slippes løs i huset.
 
 <div class="bitImage bitCenter" style="width: 300px">
-  <img src="http://www.abekat.net/wp-content/images/menneskebarn.jpg" alt="Eksempel på ondskab mod uskyldige." /><br /> Ond nisse driller grimt menneskebarn.
+  <img src="http://www.abekat.net/images/menneskebarn.jpg" alt="Eksempel på ondskab mod uskyldige." /><br /> Ond nisse driller grimt menneskebarn.
 </div>
 
 Noter.
@@ -44,7 +44,7 @@ Noter.
 ● En stripper som de havde hyret til julefrokosten dukker op. Hun bliver i huset og er med resten af serien som det kvindelige islæt. Hun er belæst og den eneste fornuftige i huset. Hun tager kontrollen. Og så er hun lækker og letpåklædt.
 
 <div class="bitImage bitRight" style="width: 300px">
-  <img src="http://www.abekat.net/wp-content/images/babes.jpg" alt="Siger pigebarnet." /><br /> De er ikke med i serien.
+  <img src="http://www.abekat.net/images/babes.jpg" alt="Siger pigebarnet." /><br /> De er ikke med i serien.
 </div>
 
 ● Nissernes dødsfælder er ufarlige da de er ganske små.  

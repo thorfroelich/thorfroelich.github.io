@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitLeft" style="width: 210px">
-  <img src="http://www.abekat.net/wp-content/images/shed.jpg" alt="Omme bag skuret." /><br /> HER ER MUHAMMED!
+  <img src="http://www.abekat.net/images/shed.jpg" alt="Omme bag skuret." /><br /> HER ER MUHAMMED!
 </div>
 
 Jeg ler i ansigtet på farer. Sådan er jeg. Frygtløs. Indrømmet man skal time sin latter ordentligt og ikke kaste den i grams. Det nytter ikke at le i ansigtet på en angribende løve da den ikke forstår modet i at le. Løver forstår slet ikke humor. Ej heller er det dygtigt at le hvis man befordrer sig ind på en isolationsstue fyldt med giftig Ebola. Det typiske luftbårne patogen vil heller ikke værdsætte dit mod. Derimod kan du med succes gøre som jeg. Le i ansigtet af farer der bliver yderligere provokeret af dit mod og din modige latter.  
@@ -21,14 +21,14 @@ Citat: Jahve.*
 “Til evig tid” er ret lang tid (faktisk en af de længste tider man har.) og en sø af svovl er ikke noget der lokker, lige meget hvor meget badesalt og afslappende aroma man så pøser i. Derfor er den Fri Vilje heller ikke helt så fri som de påstår den er. Det kan selvfølgelig også være gud mente “fri” som i “Gratis Vilje”? Jeg ved det ikke. Men i hvert fald er det det samme med vores elskede ytringsfrihed. Vi kan sige lige hvad vi vil så længe vi ikke siger Hendes Højhed Dronningen er en ”Hummertøs” eller at en repræsentant for ordensmagten er en ”Fucking Luderso”.
 
 <div class="bitImage bitCenter" style="width: 468px">
-  <img src="http://www.abekat.net/wp-content/images/bil.jpg" alt="Han kører Trans Am." /><br /> HER ER MUHAMMED!
+  <img src="http://www.abekat.net/images/bil.jpg" alt="Han kører Trans Am." /><br /> HER ER MUHAMMED!
 </div>
 
 Det er muligt vores ytringsfrihed ikke er fuldstændig, men det skal ikke stoppe mig fra at pøse æter på gløderne. Jeg vil i ytringsfrihedens navn afbillede den eneste sande profet her på aben, helt uden frygt. Alle billederne i denne artikel er af Muhammed. Jeg er ikke bange! Se mig, her er jeg!  
 Så skulle den være kringlet.
 
 <div class="bitImage bitRight" style="width: 200px">
-  <img src="http://www.abekat.net/wp-content/images/muhammed.jpg" alt="Ham den flinke nede fra kiosken." /><br /> HER ER MUHAMMED!
+  <img src="http://www.abekat.net/images/muhammed.jpg" alt="Ham den flinke nede fra kiosken." /><br /> HER ER MUHAMMED!
 </div>
 
 **Ps:** Hvad er det her også lige for nogle usle statements?

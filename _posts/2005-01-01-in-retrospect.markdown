@@ -17,7 +17,7 @@ Hvor er korstogene? Hvor er den Hitleriske krig? Hvor er Bud Spencer?
 Væk er hvad de er. De findes nu kun i storslåede filmværker og i elektroniske Tv-spil. (Bortset fra Bud Spencer, som aldrig rigtig har eksisteret andre steder end i børns håb og drømme. Og derfor aldrig vil dø.).
 
 <div class="bitImage bitRight" style="width: 148px">
-  <img src="http://www.abekat.net/wp-content/images/bud.jpg" alt="Se ham. Majestætisk som en guddommelig hejre af vold." /><br /> Bud Spencer. Luk ham ind i jeres hjerter og I vil blive frelst.
+  <img src="http://www.abekat.net/images/bud.jpg" alt="Se ham. Majestætisk som en guddommelig hejre af vold." /><br /> Bud Spencer. Luk ham ind i jeres hjerter og I vil blive frelst.
 </div>
 
 Men hvad vil medierne så putte i deres ”året der gik” programmer?  
@@ -56,7 +56,7 @@ Og nytårsaften i Kolding var sikkert også pænt kedelig i år.
 *”Wow, jeg havde brugt 1.500.000 kr. på det hus der engang stod derovre!”*
 
 <div class="bitImage bitLeft" style="width: 210px">
-  <img src="http://www.abekat.net/wp-content/images/band_nik_jay.jpg" alt="Ja, ondskab skjuler sig ikke længere." /><br /> Katastrofer kommer i mange former og farver. Eksempel nr. 1.
+  <img src="http://www.abekat.net/images/band_nik_jay.jpg" alt="Ja, ondskab skjuler sig ikke længere." /><br /> Katastrofer kommer i mange former og farver. Eksempel nr. 1.
 </div>
 
 **Flodbølge i Asien**  

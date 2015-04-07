@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 188px">
-  <img src="http://www.abekat.net/wp-content/images/telephone_01.jpg" alt="Hej, du taler med en anden" /><br /> “Er der nogen frækkerter på linien”?
+  <img src="http://www.abekat.net/images/telephone_01.jpg" alt="Hej, du taler med en anden" /><br /> “Er der nogen frækkerter på linien”?
 </div>
 
 Husstandsomdelte reklameblade, telemarketing, helsides annoncer i dagblade, de første tyve minutter af næsten enhver biograf forestilling, fjernsyns sponsorater, Nigeria breve, elektroniske bannere (animerede og statiske), e-postomdelt kødkonserves, pop-up vinduer, product placement, embedded Flash-animationer. Hver gang det lykkes nogen at opfinde et nyt kommunikationsmiddel eller -medie, går der ikke længe før et eller andet lyst hoved, med fordunklet sind og dårlig mundhygiejne, har fundet på en metode til at forplumre og ulideliggøre den daglige anvendelse af denne revolutionerende opfindelse. Det er en sjældenhed af kaliber (en sjælden kaliber tilmed!) at denne slags misbrug af Informations Teknologi fører til morskab – især for den hvis telekommunikation er blevet besudlet. Her vil jeg dog viderebringe en sådan sjældenhed, idet jeg vil dele med verden den sande historie om de to gange jeg er blevet udsat for, hvad vi i min spæde ungdom omtalte som, telefonfis. Lad det dog være utvetydigt klart at jeg, trods den antydede fornøjelse, ikke ønsker at gøre mig selv til talsmand for den slags produkter eller tjenester!
@@ -23,7 +23,7 @@ Nu har jeg aldrig udleveret mit telefon nummer til en fremmed – end ikke en af
 - ”Det var til en fest.” Påstod hun.
 
 <div class="bitImage bitLeft" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/teens_01.jpg" alt="Jeg skal nok finde ud af hvor I bor!" /><br /> “Fnidre, fnise, tissetrold, tihihi”!
+  <img src="http://www.abekat.net/images/teens_01.jpg" alt="Jeg skal nok finde ud af hvor I bor!" /><br /> “Fnidre, fnise, tissetrold, tihihi”!
 </div>
 
 Min dybfølte afsky ved det lægmænd omtaler som ”fester” grænser til det legendariske, og dette forsøgte jeg i milde toner at viderebringe den, ikke længere snøftende, unge dame. Dertil føjede jeg endnu en forsikring om at hun uden tvivl havde den forkerte i tale.  
@@ -36,7 +36,7 @@ Omtrent et år efter, under de stort set samme forhold, ringede min telefon igen
 Ingen jeg kender undlader at identificere sig i telefonen, selv de af mine bekendtskaber som strækker sig over adskillige år, til gengæld var det i denne stund at min hukommelse – der til tider kan være en elefant værdig – trådte i karakter. Stemmen virkede bekendt, og mindet om opkaldet et år tidligere dukkede op til overfladen af min bevidsthed, som en svømmer der har opdaget at en haj har lånt halvdelen af hans ben til en anatomilektion for nabolagets hajunger. Den tid min hjernebrask krævede til denne flyde-eksercits blev vel anvendt af den unge dame i den anden ende af kobbertråden:
 
 <div class="bitImage bitRight" style="width: 218px">
-  <img src="http://www.abekat.net/wp-content/images/balls_01.jpg" alt="Lavthængende frugt?" /><br /> “Dikke-dikke-dik”!
+  <img src="http://www.abekat.net/images/balls_01.jpg" alt="Lavthængende frugt?" /><br /> “Dikke-dikke-dik”!
 </div>
 
 - ”Jeg sidder lige og spiser tyrenosser!” erklærede hun frejdigt.  

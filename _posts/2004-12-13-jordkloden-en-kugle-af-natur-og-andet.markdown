@@ -12,7 +12,7 @@ Jordkloden er en ret så stor kugle bestående af jord med vand ovenpå. Få ste
 Ihvertfald hvis man skal tro udsendelser i tv der beskæftiger sig med den slags. Vi farer rundt om en tilsvarende, dog noget større kugle, hvorpå en mægtig brand er udbrudt. I tillæg til dette, roterer en mindre kugle rundt om *os*. Skørt? Ja, bestemt, men rumgeografer og andre mennesker med bøger, virker meget sikre i deres sag, når emnet diskuteres. Rumskibe med mænd ombord har endog verificeret adskillige af deres vanvittige påstande. Superstrengteorien viste sig dog *ikke*, at have noget at gøre med at være meget striks.
 
 <div class="bitImage bitRight" style="width: 166px">
-  <img src="http://www.abekat.net/wp-content/images/earth_01.jpg" alt="Men giver huller i tænderne. Øv, hva' rummænd." /><br /> Jeg tror at rumvæsnerne er ude efter den bløde klump i midten. Den smager friskt af citrus.
+  <img src="http://www.abekat.net/images/earth_01.jpg" alt="Men giver huller i tænderne. Øv, hva' rummænd." /><br /> Jeg tror at rumvæsnerne er ude efter den bløde klump i midten. Den smager friskt af citrus.
 </div>
 
 I en afstand til al det jord og vand svæver skyerne. Skyer er klumper af noget hvidt skum, som kan ligne dyr eller en mand der er faldet, fordi han ikke løftede fødderne. De kan også ligne kartofler eller mekaniske ting – alt, faktisk. Bare ikke porno og ninjaer, hvilket absolut er med til at mindske deres anvendelighed. Skyernes funktion er at skjule vores militære installationer på jorden, så vores rumfjender ikke kan se hvad vi laver hernede. Når de lander og vil lægge deres æg inde i vores kirtler, tager vores rumzeppelinere dem med rumbukserne nede om deres rumknæ.
@@ -20,7 +20,7 @@ I en afstand til al det jord og vand svæver skyerne. Skyer er klumper af noget 
 Selve jordens overflade, har vi inddelt i områder og vi har det med at være slemt nidkære, når det kommer til det stykke jord vi opholder os på. Det er sket mere end een gang, at man har skubbet og råbt, hvis dem fra et sted i nærheden kom hen til os. Som tiden er gået har vi taget stadig skrappere midler i brug. Så, bliv hvor du er. Dem i de andre lande vil ikke have at du tager hen til dem.
 
 <div class="bitImage bitLeft" style="width: 238px">
-  <img src="http://www.abekat.net/wp-content/images/slug_01.jpg" alt="Den gad man nødig finde i sin buks!" /><br /> Ikke sært at flere og flere dyr vælger at kravle tilbage på landjorden.
+  <img src="http://www.abekat.net/images/slug_01.jpg" alt="Den gad man nødig finde i sin buks!" /><br /> Ikke sært at flere og flere dyr vælger at kravle tilbage på landjorden.
 </div>
 
 Mennesket bor dog ikke over hele kloden. En del steder er så forfærdelige, at kun de allergrimmeste dyr og planter er at finde der. Dyr med pagajer, hvor fødder eller poter burde være, farveløse planter med sur smag og fugle der ikke kan flyve, minder een om, hvor galt det kan gå, hvis man opholder sig for længe det forkerte sted. Bedste eksempel herpå, er havet. Grimme dyr, uden arme og ben, bor i havet. Der skal mennesket ikke være.

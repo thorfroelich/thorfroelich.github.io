@@ -13,7 +13,7 @@ categories:
 Jeg har lagt søvn på hylden. Ikke frivilligt, det er bare noget der er sket automatisk. På samme hylde ligger ting som at blunde, tage en lur og en skraber. Det er en meget høj hylde og jeg kan ikke nå derop uden hjælp og min trappestige er brudt i hensynsløs brand og kan ikke bruges.
 
 <div class="bitImage bitRight" style="width: 248px">
-  <img src="http://www.abekat.net/wp-content/images/seng_01.jpg" alt="Jeg tror sengen skriger. Skriger lydløst." /><br /> Sengen er fyldt med sengetøj, madras og hadefuld uvilje mod Brian.
+  <img src="http://www.abekat.net/images/seng_01.jpg" alt="Jeg tror sengen skriger. Skriger lydløst." /><br /> Sengen er fyldt med sengetøj, madras og hadefuld uvilje mod Brian.
 </div>
 
 Det med at gå i seng om aftenen og have en dejlig nat fyldt med hvile og ro er den rene utopi for folk der er mig. Og det er en ualmindelig trist affære at være mig.  
@@ -29,7 +29,7 @@ Jeg har gået uden søvn langt længere end kun et par dage. Hvis jeg havde hemm
 Jeg ved ikke hvad det er der afholder mig fra at sove. Men jeg har et par teorier:
 
 <div class="bitImage bitLeft" style="width: 173px">
-  <img src="http://www.abekat.net/wp-content/images/yeti_01.jpg" alt="Og mere sex, også. Sexede, frække yeti." /><br /> Yeti findes ikke, men hvis den gjorde ville den få mere søvn end mig.
+  <img src="http://www.abekat.net/images/yeti_01.jpg" alt="Og mere sex, også. Sexede, frække yeti." /><br /> Yeti findes ikke, men hvis den gjorde ville den få mere søvn end mig.
 </div>
 
 1. Det kan være barndomstraumer fra dengang man fik at vide at hvis man ikke kunne falde i søvn så kom Ole Lukøje snigende ud fra skyggerne og gned ens øjenæbler ind i grus og småsten? Det er jo ikke noget at fortælle små forsvarsløse børn.

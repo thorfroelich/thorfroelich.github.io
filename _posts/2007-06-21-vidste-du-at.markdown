@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/phantom-flame.jpg" alt="Og statue og ild!" /></p> <p>
+  <img src="http://www.abekat.net/images/phantom-flame.jpg" alt="Og statue og ild!" /></p> <p>
     Fantomet!!!!!!!!!
   </p>
 </div>
@@ -35,7 +35,7 @@ Vidste du at det er lovligt for banker at lokke dig til at sætte dig selv (og d
 Vidste du at løse majs slet ikke kommer fra en plante, men i virkeligheden støbes i organisk nedbrydeligt plastik på en kæmpemæssig fabrik i Smørumnedre?
 
 <div class="bitImage bitLeft" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/thehoff.jpg" alt="Og dejlige hvalpe!" /><br /> Hasselhoff!!!!!!
+  <img src="http://www.abekat.net/images/thehoff.jpg" alt="Og dejlige hvalpe!" /><br /> Hasselhoff!!!!!!
 </div>
 
 Vidste du at Danmark er en atommagt? En lille en, som ingen regner med…

@@ -7,7 +7,7 @@ categories:
   - Introduktioner til...
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/e3_02.jpg" alt="Værdig og stolt." /><br /> Band of Furries 2 – Hoppende gule dyr med shorts på!
+  <img src="http://www.abekat.net/images/e3_02.jpg" alt="Værdig og stolt." /><br /> Band of Furries 2 – Hoppende gule dyr med shorts på!
 </div>
 
 eller **‘Friheds-spejlæg med Retfærdighedsbacon’**
@@ -27,7 +27,7 @@ I år blev der præsenteret mange, mange forskellige spil. Snart skulle man hopp
 “Ooooh, aaah”, sagde de besøgende. De kunne godt lide, hvad de så. Derpå tog de [billeder][1] af damerne med de store bryster. Damerne smilede sødt, fordi de var blevet lovet amerikanske pengesedler som betaling for at opføre sig sådan. Pengene kunne de bruge på dejlig kakaomælk, hårprodukter og sportsvogne i rappe farver.
 
 <div class="bitImage bitCenter" style="width: 340px">
-  <img src="http://www.abekat.net/wp-content/images/e3_01.jpg" alt="Det er dig!" /><br /> JEG ELSKER EDB-SPIL OG FRITURE!!1! LOL!!
+  <img src="http://www.abekat.net/images/e3_01.jpg" alt="Det er dig!" /><br /> JEG ELSKER EDB-SPIL OG FRITURE!!1! LOL!!
 </div>
 
 Jeg håber meget at jeg med denne artikel har kastet lidt lys over det ellers så dunkle og fugtige E3 og måske givet dig lyst til at besøge messen selv. Næste år lover endnu flere og bedre hoppe-spil, så det er bare med at købe en flybillet og pakke en kuffert med tøj, bomber og kager til flyturen. Og husk dette når du kommer hjem igen: Hvis du ikke lugter af bacon og kokos når du sveder, så har du ikke været i USA. Så har du måske været i Albanien eller Narnia.

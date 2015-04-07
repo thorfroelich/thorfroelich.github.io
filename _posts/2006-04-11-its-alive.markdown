@@ -16,7 +16,7 @@ Det er Pigebarnet. Thors stakkels bedre halvdel. Hendes lod er ikke af den nemme
 Jeg har talt med Pigen omkring hendes oplevelser med det danske sundhedsvæsen og her er nedskrevet hvad jeg lige kunne huske (indrømmet. Min hukommelse afgik ved døden på et eller andet tidspunkt jeg ikke lige mindes).
 
 <div class="bitImage bitCenter" style="width: 360px">
-  <img width="359" height="234" alt="Det er ikke Vivi men en stand-in." src="http://www.abekat.net/wp-content/images/pregnant.jpg" /><br /> Den vil gerne ud.
+  <img width="359" height="234" alt="Det er ikke Vivi men en stand-in." src="http://www.abekat.net/images/pregnant.jpg" /><br /> Den vil gerne ud.
 </div>
 
 ***Pigen hos Lægen.***
@@ -93,7 +93,7 @@ Ha ha ha.
 Det tror jeg ikke du skal regne med.
 
 <div class="bitImage bitRight" style="width: 150px">
-  <img alt="Han var også en lægemand som vi ikke kan lide." src="http://www.abekat.net/wp-content/images/mengele.jpg" /><br /> Dr. Mengele.
+  <img alt="Han var også en lægemand som vi ikke kan lide." src="http://www.abekat.net/images/mengele.jpg" /><br /> Dr. Mengele.
 </div>
 
 ***Pigen på Apoteket.***
@@ -189,7 +189,7 @@ Mens jeg kigger.
 Farvel!
 
 <div class="bitImage bitRight" style="width: 219px">
-  <img width="219" height="259" alt="Det er livets mirakel. Og kun lidt klamt." src="http://www.abekat.net/wp-content/images/sperm.JPG" /><br /> Ren porno!
+  <img width="219" height="259" alt="Det er livets mirakel. Og kun lidt klamt." src="http://www.abekat.net/images/sperm.JPG" /><br /> Ren porno!
 </div>
 
 ***Pigen hos lægen igen.***

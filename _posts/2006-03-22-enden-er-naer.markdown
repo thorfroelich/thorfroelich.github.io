@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 143px">
-  <img src="http://www.abekat.net/wp-content/images/naer.jpg" alt="Og den ser rundstrikket ud!" /><br /> Enden er nær!
+  <img src="http://www.abekat.net/images/naer.jpg" alt="Og den ser rundstrikket ud!" /><br /> Enden er nær!
 </div>
 
 Lad jer ikke narre! Da verden ikke gik under ved årtusindeskiftet, begyndte optimismen at snige sig ind på os som en ninja eller jægersoldat i natten. Svigefulde stemmer fortæller os at alting er ved at blive bedre – at vores teknologiske og sociale udvikling vil redde menneskeheden fra sig selv.  
@@ -16,7 +16,7 @@ De såkaldte vedvarende energikilder spreder sig til alle hjørner af verden, me
 Sandheden – man fristes til at skrive ”den grusomme sandhed” – er at de, åh-så-ufarlige vindmøller opsuger energi fra vinden, hvilket vil sige at vinden mister kraft, for ikke at tale om mandsmod, på at drive de tonstunge vinger rundt. Og når vores Rød/Grønne herrer og mestre har plantet vindmølleparker på alle plane flader, vil turbinerne bringe den sidste rest af brise til stilstand, og luften på vores gudsbenådede planet forevigt lugte så hengemt som et herreværelse i højsæsonen.
 
 <div class="bitImage bitLeft" style="width: 183px">
-  <img src="http://www.abekat.net/wp-content/images/naermere.jpg" alt="Ganske rund, jo." /><br /> Og den kommer nærmere!
+  <img src="http://www.abekat.net/images/naermere.jpg" alt="Ganske rund, jo." /><br /> Og den kommer nærmere!
 </div>
 
 Og så er der ”vidunderet” solceller: Hvor monstro energien til dem kommer fra? Ja, I gættede det: Solen. Jo flere solceller vi stiller op, jo mere af solens stråling bliver brugt til at lave strøm i stedet for at opvarme atmosfæren, og jo hårdere skal solen arbejde. Jeg behøver vel ikke at udpensle, hvordan en hårdere arbejdende sol vil forbruge mere brændstof, og derfor vil tiltrække flere kometer. Kometer der statistisk set på et eller andet tidspunkt vil ramme månen, og dermed gøre en ende på alt hvad der ligner tidevand.

@@ -7,7 +7,7 @@ categories:
   - Introduktioner til...
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/krist.jpg" alt="Men det ville han ikke. Derfor er han speciel." /><br /> En 1×1 statue af Megakrist. Han kunne knuse romerne med sine stennæver, hvis han ville.
+  <img src="http://www.abekat.net/images/krist.jpg" alt="Men det ville han ikke. Derfor er han speciel." /><br /> En 1×1 statue af Megakrist. Han kunne knuse romerne med sine stennæver, hvis han ville.
 </div>
 
 Af årsager der er for talrige til at nævne, er jeg i færd med at bladre mig igennem den populære bog man ofte finder i skuffen på hotelværelser og i hænderne på ungdomssvin der skal konfirmeres. Den hedder Det ny Testamente og den handler i bund og grund om hvor fed og happening Jesus er. Den er nummer to i en serie som virkelig mange mennesker har læst, og som muligvis er en af de mest solgte på kloden. Mere end selv Ringenes Herre. Wow.  
@@ -18,7 +18,7 @@ Men jeg blev nu alligevel konfirmeret. Jeg sad på knæ i kirken, kiggede præst
 Og var det egentlig 100% løgn? Er jeg ikke lidt kristen et eller andet sted? Danser jeg ikke om juletræet og spiser chokoladeæg til påske? Ofrer jeg ikke til nissen? Går jeg ikke i sandaler når det er varmt og siger jeg ikke av når søm hamres gennem mine lemmer af romerske legionærer? Jo, jo og jo. Og dertil kommer jeg hviledagen i hu, flere gange om ugen.
 
 <div class="bitImage bitLeft" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/sten.jpg" alt="Jeg er overbevist. En sten kan ikke lyve." /><br /> Klippefast bevis på at Gud eksisterer.
+  <img src="http://www.abekat.net/images/sten.jpg" alt="Jeg er overbevist. En sten kan ikke lyve." /><br /> Klippefast bevis på at Gud eksisterer.
 </div>
 
 På sin vis er vi jo alle kristne. Det har vi jo været siden Kong Blåtand.  
@@ -34,7 +34,7 @@ Harald Blåtand var kongen der gjorde danskerne kristne. Det gjorde han meget sn
 
 <center>
   <div class="bitImage bitCenter" style="width: 188px">
-    <img src="http://www.abekat.net/wp-content/images/fisk.jpg" alt="Og her kan man forstå hvorfor. Gud er stor." /><br /> Før man fandt på at bruge korset, var fisken et symbol på Jesus.
+    <img src="http://www.abekat.net/images/fisk.jpg" alt="Og her kan man forstå hvorfor. Gud er stor." /><br /> Før man fandt på at bruge korset, var fisken et symbol på Jesus.
   </div>
   
   <p>

@@ -7,7 +7,7 @@ categories:
   - Podcasts
 ---
 <div class="bitImage bitRight" style="width: 119px">
-  <img src="http://www.abekat.net/wp-content/images/heino_01.jpg" alt="Med en Heino for enden." /><br /> MIKROFON!
+  <img src="http://www.abekat.net/images/heino_01.jpg" alt="Med en Heino for enden." /><br /> MIKROFON!
 </div>
 
 Her er den. Ny. Forbedret. Op til 2% sjovere end sidst(*). Vi har nu anskaffet os en [mikrofon][1] i stedet for den strømførende [banan][2] vi brugte i starten. Resultatet er at vores ulidelige stemmer med deres slatne budskaber, går langt klarere igennem end før. I denne episode kigger vi nærmere på det problematiske i at tegne afdøde men stadig meget populære mænd og løser derpå krisen til alles store fornøjelse.

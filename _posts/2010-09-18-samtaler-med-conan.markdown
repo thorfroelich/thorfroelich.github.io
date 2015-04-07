@@ -12,7 +12,7 @@ tags:
   - humor
 ---
 <div id="attachment_547" class="wp-caption alignright" style="width: 260px">
-  <img class="size-full wp-image-547 " title="conan_calm" src="http://www.abekat.net/wp-content/images/conan_calm.jpg" alt="" width="250" height="285" /><p class="wp-caption-text">
+  <img class="size-full wp-image-547 " title="conan_calm" src="http://www.abekat.net/images/conan_calm.jpg" alt="" width="250" height="285" /><p class="wp-caption-text">
     Conan, her iført sit bedste ansigt.
   </p>
 </div>
@@ -22,7 +22,7 @@ tags:
 Jeg lod et par minutter passere i tavshed. Conan var tydeligvis berørt af hans ufrivillige gensyn med fortiden og jeg kunne se at hans øjne var blanke. Han snøftede og forsikrede mig at han ikke græd, men derimod var generet på luftveje og øjne af det usædvanligt høje indhold af hør i klædestykkerne på de inferiøre og mørklødede fjender, der just nu tjente os som improviseret arne.
 
 <div id="attachment_548" class="wp-caption alignleft" style="width: 260px">
-  <img class="size-full wp-image-548" title="conan_surprised" src="http://www.abekat.net/wp-content/images/conan_surprised.jpg" alt="" width="250" height="220" /><p class="wp-caption-text">
+  <img class="size-full wp-image-548" title="conan_surprised" src="http://www.abekat.net/images/conan_surprised.jpg" alt="" width="250" height="220" /><p class="wp-caption-text">
     En overrasket Conan har lige pakket en fødselsdagsgave fra undertegnede op.
   </p>
 </div>

@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 148px">
-  <img src="http://www.abekat.net/wp-content/images/postbudmedpakke.jpg" alt=""Gør med den hvad du vil"." /></p> <p>
+  <img src="http://www.abekat.net/images/postbudmedpakke.jpg" alt=""Gør med den hvad du vil"." /></p> <p>
     “Her er en pakke til en anden”
   </p>
 </div>
@@ -41,7 +41,7 @@ Hov! Vores adresse er i stykker, viste det sig. Postbuddet gjorde blot sin pligt
 > 
 > <center>
 >   <div class="bitImage bitCenter" style="width: 508px">
->     <img src="http://www.abekat.net/wp-content/images/indgang.jpg" alt="Her bor jeg. Du kan kigge ind til mig." />
+>     <img src="http://www.abekat.net/images/indgang.jpg" alt="Her bor jeg. Du kan kigge ind til mig." />
 >   </div>
 >   
 >   <p>

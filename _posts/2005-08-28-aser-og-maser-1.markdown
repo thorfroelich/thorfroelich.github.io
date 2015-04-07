@@ -14,7 +14,7 @@ Meget af deres tid går med at rovmyrde nogle stakkel undermennesker der hedder 
 De er også kendt under deres nom de plumer Aser og Vaner. Der er utroligt mange af dem, men jeg vil kun nævne de allervigtigste. Både på grund af pladsmangel, tidsmangel og vilje-til-at-skrive-mere-mangel.
 
 <div class="bitImage bitRight" style="width: 138px">
-  <img src="http://www.abekat.net/wp-content/images/odin_01.jpg" alt="Jeg troede han så mere frygtindgydende ud?!" /><br /> Lille-Odin, med en stor saks og en vaffelis.
+  <img src="http://www.abekat.net/images/odin_01.jpg" alt="Jeg troede han så mere frygtindgydende ud?!" /><br /> Lille-Odin, med en stor saks og en vaffelis.
 </div>
 
 **Odin**  
@@ -31,7 +31,7 @@ Han var også let pirrelig. Det er Thor også.
 Thor har lagt navn til Torsdag.
 
 <div class="bitImage bitLeft" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/freya_01.jpg" alt="FRÆKKERT!!!11!!?! OMG?!" /><br /> Man havde andre skønhedsidealer dengang.
+  <img src="http://www.abekat.net/images/freya_01.jpg" alt="FRÆKKERT!!!11!!?! OMG?!" /><br /> Man havde andre skønhedsidealer dengang.
 </div>
 
 **Freja**  

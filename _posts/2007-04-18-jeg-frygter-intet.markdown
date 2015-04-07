@@ -10,7 +10,7 @@ Jeg frygter intet. Jeg er drengen uden frygt. Eller det der bliver af ham når h
 
 <center>
   </p> <div class="bitImage bitCenter" style="width: 408px">
-    <img src="http://www.abekat.net/wp-content/images/zombie.jpg" alt="Jo, jeg gør." /><br /> Ikke engang det her frygter jeg.
+    <img src="http://www.abekat.net/images/zombie.jpg" alt="Jo, jeg gør." /><br /> Ikke engang det her frygter jeg.
   </div>
   
   <p>
@@ -30,7 +30,7 @@ Jeg frygter intet. Jeg er drengen uden frygt. Eller det der bliver af ham når h
   </p>
   
   <div class="bitImage bitLeft" style="width: 233px">
-    <img src="http://www.abekat.net/wp-content/images/dentist.jpg" alt="Ville jeg aldrig snave nogen." /><br /> Hvis drøbler havde øjne.
+    <img src="http://www.abekat.net/images/dentist.jpg" alt="Ville jeg aldrig snave nogen." /><br /> Hvis drøbler havde øjne.
   </div>
   
   <p>
@@ -38,7 +38,7 @@ Jeg frygter intet. Jeg er drengen uden frygt. Eller det der bliver af ham når h
   </p>
   
   <div class="bitImage bitRight" style="width: 108px">
-    <img src="http://www.abekat.net/wp-content/images/blod.jpg" alt="Smager dejligt med sukker eller sirup." /><br /> Pølsen danskerne frygter mere end døden.
+    <img src="http://www.abekat.net/images/blod.jpg" alt="Smager dejligt med sukker eller sirup." /><br /> Pølsen danskerne frygter mere end døden.
   </div>
   
   <p>

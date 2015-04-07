@@ -6,7 +6,7 @@ permalink: /thor-nu-med-afkom-1/
 categories:
   - Ars Dementreuse
 ---
-[<img src="http://www.abekat.net/wp-content/images/Thor_Comic_07.jpg" width="500" height="200" alt="" />][1]  
+[<img src="http://www.abekat.net/images/Thor_Comic_07.jpg" width="500" height="200" alt="" />][1]  
 <center>
   (med tryk på en knap bliver billedet større, menneske-person)<br /> Kunst og ide: <a href="http://no-go.dk">Poulsen</a>
 </center>
@@ -15,5 +15,5 @@ Så skete det uventede. Min kæreste havde ganske vist forsøgt at få mig i tal
 
 *(Barnets navn bliver, modsat den kulørte stribes påstand Aviaja. Det er et grønlandsk navn, som betyder noget i retning af “menneske-pigen som ikke viger tilbage for godt smørrebrød”.)*
 
- [1]: http://www.abekat.net/wp-content/images/Thor_Comic_07.jpg
- [2]: http://www.abekat.net/wp-content/images/aviaja.jpg
+ [1]: http://www.abekat.net/images/Thor_Comic_07.jpg
+ [2]: http://www.abekat.net/images/aviaja.jpg

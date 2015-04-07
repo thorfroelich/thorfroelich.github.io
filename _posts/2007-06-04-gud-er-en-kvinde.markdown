@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 234px">
-  <img src="http://www.abekat.net/wp-content/images/creator.jpg" alt="Kun koften ved besked." /><br /> Tissetrold eller tissebøf?
+  <img src="http://www.abekat.net/images/creator.jpg" alt="Kun koften ved besked." /><br /> Tissetrold eller tissebøf?
 </div>
 
 Efter adskillige minutters halv-moden overvejelse over emnet, er jeg nu kommet til den overraskende konklusion, at Gud tydeligvis er en kvinde. Dette mener jeg ikke som led i den sædvanlige feministiske hønsesnak og moderne plæderen for ligestilling og kvinders ret til at stemme, køre bil og bevæge sig uden for hjemmet på Sabbatten. Næ, denne konklusion hviler alene på den observation, at Gud nødvendigvis må være en kvinde, fordi kun en kvinde ville være i stand til at hade dig med en så indædt og harmdirrende giftighed, som Gud hader dig med, hvis du ikke gør præcis som han (undskyld hun) siger du skal. 
@@ -15,7 +15,7 @@ Efter adskillige minutters halv-moden overvejelse over emnet, er jeg nu kommet t
 Kvindekønnet er jo karakteriseret ved en vis følelsesmæssig plasticitet, en for mænds vedkommende uforståelig og ofte foruroligende evne til at springe direkte fra kærlighed (eller i det mindste stiltiende accept af din tilstedeværende) til morderisk, skrig-grædende vrede i løbet af den korte tid det tager dig ikke at slå toiletbrættet ned. 
 
 <div class="bitImage bitLeft" style="width: 120px">
-  <img src="http://www.abekat.net/wp-content/images/angry_woman.jpg" alt="Skrigende hysteri!" /><br /> Kvinden i et af hendes midlere luner.
+  <img src="http://www.abekat.net/images/angry_woman.jpg" alt="Skrigende hysteri!" /><br /> Kvinden i et af hendes midlere luner.
 </div>
 
 Bladrer man igennem biblen, så er det netop dette fuldkomne fravær af følelsesmæssig stabilitet og rationel retfærdighedssans som karakteriserer interaktionen mellem Gud og mennesket. Tage eksempelvis historien om Lots hustru Edith. Under den hovedkulds flugt fra den undergangsdømte by Sodoma (for nej, Gud kunne ikke lige have sagt det et par dage i forvejen, så der var tid til at komme ordentligt af sted), vender Edith sig i et svagt øjeblik og kaster et hastigt blik tilbage på den by, hvor hun har levet hele sit liv, hvor alle hendes venner og naboer i dette øjeblik intetanende går en brændende død i møde, og hvor hun måske og måske ikke har glemt at slukke lyset på badeværelset. 

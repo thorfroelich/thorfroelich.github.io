@@ -10,7 +10,7 @@ tags:
   - fald på halen
 ---
 <div id="attachment_567" class="wp-caption alignright" style="width: 310px">
-  <a href="http://www.abekat.net/wp-content/images/bear_wrestling.jpg"><img class="size-full wp-image-567" title="bear_wrestling" src="http://www.abekat.net/wp-content/images/bear_wrestling.jpg" alt="" width="300" height="399" /></a><p class="wp-caption-text">
+  <a href="http://www.abekat.net/images/bear_wrestling.jpg"><img class="size-full wp-image-567" title="bear_wrestling" src="http://www.abekat.net/images/bear_wrestling.jpg" alt="" width="300" height="399" /></a><p class="wp-caption-text">
     Mand smadrer bjørn.
   </p>
 </div>
@@ -19,7 +19,7 @@ Min søn Darwin, er som sønner er flest, et drengebarn. Og som et sådant er h
 Darwin er nu blot 3 år gammel og som sådan har han ikke fattet at han ikke er en stor atletisk kriger, men en lille buttet og imponerende klodset tumling. Det er ikke gået op for ham at han ikke kan springe over forhindringer som en gazelle i flugt eller lande som en panter når han falder ned fra sofaen. Derimod har han efterhånden opdaget at de fleste ting i verden er lavet af hårdere stof end han selv er og derfor kan påføre ham mere skade end omvendt. Det der er svært at forstå er at han ikke tager ved lære hver gang der går hul på ham.<!--more-->
 
 <div id="attachment_570" class="wp-caption alignleft" style="width: 310px">
-  <a href="http://www.abekat.net/wp-content/images/darwin_fald.jpg"><img class="size-full wp-image-570" title="darwin_fald" src="http://www.abekat.net/wp-content/images/darwin_fald.jpg" alt="" width="300" height="300" /></a><p class="wp-caption-text">
+  <a href="http://www.abekat.net/images/darwin_fald.jpg"><img class="size-full wp-image-570" title="darwin_fald" src="http://www.abekat.net/images/darwin_fald.jpg" alt="" width="300" height="300" /></a><p class="wp-caption-text">
     En Mørk smadrer sten.
   </p>
 </div>

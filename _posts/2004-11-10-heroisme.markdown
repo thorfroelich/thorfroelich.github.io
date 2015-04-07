@@ -12,7 +12,7 @@ Jeg emmer af heltepotentiale. Alt fra mit mystiske persona til min trang til at 
 Der er brug for mænd af rette støbning. Og det er muligt at jeg ikke så meget er støbt som størknet, men ideen er i bund og grund den samme.
 
 <div class="bitImage bitRight" style="width: 249px">
-  <img src="http://www.abekat.net/wp-content/images/hero.JPG" alt="Helte peger med næven." /><br /> Min dragt skal være langt mere pink
+  <img src="http://www.abekat.net/images/hero.JPG" alt="Helte peger med næven." /><br /> Min dragt skal være langt mere pink
 </div>
 
 Hvorfor skal jeg være superhelt?
@@ -33,7 +33,7 @@ Og dengang mine bedsteforældre havde gemt mandlen i min lillebrors Risalamande 
 Med den slags oplevelser i hævnens rygsæk er man tvunget til enten at gå under eller tage kampen op. Jeg vælger det sidste.
 
 <div class="bitImage bitLeft" style="width: 202px">
-  <img src="http://www.abekat.net/wp-content/images/Biggles.JPG" alt="Gentlemenskurke tilhører en svunden tid." /><br /> Kaptajn Biggles?! Min Nemesis!
+  <img src="http://www.abekat.net/images/Biggles.JPG" alt="Gentlemenskurke tilhører en svunden tid." /><br /> Kaptajn Biggles?! Min Nemesis!
 </div>
 
 Jeg ved at med enorme kræfter følger et enormt ansvar. Jeg er klar til at tage det ansvar.  

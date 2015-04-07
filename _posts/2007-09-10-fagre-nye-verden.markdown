@@ -11,7 +11,7 @@ For godt en uge siden kunne Abekatten fortælle at det lækre ’Brian Mørk Sho
 ’Brian Mørk Show’ var trin 2 i Abekat.Net’s mangetrinsplan for at omstyrte verdensmagterne og selv fremskynde dommedag, så vi kan opbygge en bedre verden uden helt så meget brok og ballade, og med langt mere respekt og ære til mig og Thor.
 
 <div class="bitImage bitCenter" style="width: 343px">
-  <img src="http://www.abekat.net/wp-content/images/apokalypsen.jpg" alt="Ej heller dillerdaller." /></p> <p>
+  <img src="http://www.abekat.net/images/apokalypsen.jpg" alt="Ej heller dillerdaller." /></p> <p>
     En helt almindelig apokalypse uden de store dikkedarer.
   </p>
 </div>
@@ -28,7 +28,7 @@ Derimod vil de hver især (vores børn) blive stamfader/moder for to nye folkesl
 Der vil selvfølgelig ikke være tale om egentlige folkedrab og dystre etniske udrensninger. Slet ikke. Nej da. Vi er jo ikke Hitler. De allerede eksisterende racer vil bare indse at deres tid er ovre når de ser de nye herrerfolk, og af egen fri vilje kaste sig ud fra høje stiger og ned i en løvekule*. 
 
 <div class="bitImage bitCenter" style="width: 397px">
-  <img src="http://www.abekat.net/wp-content/images/edenshave.jpg" alt="Glade dyr og mennesker." /><br /> I Morgendagens Orden er der øjensynligt godt. Dyr og nøgne mennesker trodser kækt vejrudsigten.
+  <img src="http://www.abekat.net/images/edenshave.jpg" alt="Glade dyr og mennesker." /><br /> I Morgendagens Orden er der øjensynligt godt. Dyr og nøgne mennesker trodser kækt vejrudsigten.
 </div>
 
 I den fagre nye verden vil lammet lægge sig med ulven, og verden vil være i fred med sig selv. Kun Jehovas vidner må dele det nye paradis med Mørkerne og Frölicherne. Der skal jo være nogen man kan håne og kaste ting efter. 

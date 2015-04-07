@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 178px">
-  <img src="http://www.abekat.net/wp-content/images/mand.jpg" alt="Der er flere millioner af dem i de varme lande" /><br /> Dem her så jeg mange af.
+  <img src="http://www.abekat.net/images/mand.jpg" alt="Der er flere millioner af dem i de varme lande" /><br /> Dem her så jeg mange af.
 </div>
 
 Jeg, Brian Mørk, de indfødtes betvinger, herre over alt hvad mit øje skuer (uden briller), konge blandt konger, er nyligen vendt sejrrig hjem fra det mørkeste af alle de mange hundrede kontinenter som denne afrunde og blålige klode består af. De gamle romere kendte det som Afrika og både de lokale og andre folk der også er lokale, men nogle helt andre steder, kalder det for Afrika. I folkemunde hedder det Afrika. Nærmere bestemt NordAfrika, og endnu nærmere bestemt Algieriet, og allernærmest bestemt hovedstaden Algier.
@@ -16,7 +16,7 @@ De lokale viste sig ikke at være flotte negermænd med spyd og mandsmod nok til
 Opholdet varede tvende uger og var den længste rejse udenlands denne globetrotter nogensinde har bedrevet. Fyldt med farer, oplevelser, indsigt, bestikkelse af lokale og flere farer.
 
 <div class="bitImage bitLeft" style="width: 218px">
-  <img src="http://www.abekat.net/wp-content/images/danse.jpg" alt="De holdt sig nok inde på grund af varmen." /><br /> Dem her så jeg ikke nogen af.
+  <img src="http://www.abekat.net/images/danse.jpg" alt="De holdt sig nok inde på grund af varmen." /><br /> Dem her så jeg ikke nogen af.
 </div>
 
 Jeg er vendt tilbage til civilisationen ganske uden malaria, ebola eller gener efter Tse-tse fluens insisterende bid. Men jeg formåede dog, trods mange advarsler om ikke at gøre det, at pådrage mig det man i militærjargon kalder “Køkkenmave”. En lidelse der kan indhentes på lokale spisesteder i varme lande hvor håndvask i forbindelse med omgang med levnedsmidler, er en synd direkte i øjnene på Allah og alle ørkenens profeter. Eller hvis man, ligesom jeg, besøger de lokale og drikker lunken vand direkte fra en numse. Og dertil er indehaver af et immunforsvar som en AIDSramt killing.  
@@ -25,7 +25,7 @@ Tilnavnet “Føjfontænen”var til at leve med. At skulle have hjælp til at k
 Heldigvis muliggør lidelsen at man kan blive liggende på sit sygeleje og med lidt held stadig ramme toilettet ude i entreen.
 
 <div class="bitImage bitRight" style="width: 271px">
-  <img src="http://www.abekat.net/wp-content/images/mad.jpg" alt="Den hedder Adrik Fy Fasan." /><br /> En lokal ret opkaldt efter mig.
+  <img src="http://www.abekat.net/images/mad.jpg" alt="Den hedder Adrik Fy Fasan." /><br /> En lokal ret opkaldt efter mig.
 </div>
 
 Efter fem dage fyldt med umenneskelige pinsler og puha, lykkedes det mig at komme på benene og tilbage på min mission. At få en Algiersk tandlæge til at sætte en krone på den kindtand jeg knækkede for over et år siden. Et indgreb der herhjemme ville koste mig alle de penge jeg endnu ikke har tjent og betalt skat af, men som i nordafrika koster det samme som et par gode sko i Danmark.  

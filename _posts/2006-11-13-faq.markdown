@@ -11,7 +11,7 @@ Derfor er det på tide at få svaret på nogle af alle de spørgsmål vi har få
 Jeg påtog mig at kigge rundt om vores fyr for at redde nogle af de mange breve og her er hvad jeg fiskede ud af asken. Læs og lær.
 
 <div class="bitImage bitRight" style="width: 228px">
-  <img src="http://www.abekat.net/wp-content/images/bill.jpg" alt="Uden helt at forstå det danske sprog. Han sanser at det er godt med sine præsident powers." /><br /> Bill læser altid Aben.
+  <img src="http://www.abekat.net/images/bill.jpg" alt="Uden helt at forstå det danske sprog. Han sanser at det er godt med sine præsident powers." /><br /> Bill læser altid Aben.
 </div>
 
 **Spørgsmål:** Er det sandt at Brian Mørk er veludrustet som en travhingst?
@@ -29,7 +29,7 @@ Gerninge
 **Aben:** *Usandheden over dem alle. Et vedvarende rygte der er blevet først legende, siden hen sagn og til sidst myte. I virkeligheden er der tale om siamesiske tvillinger der blev født med fire-fem års mellemrum. Det tragiske var at de delte både hjerne og fedt hvilket gjorde deres kirurgiske adskillelse til et videnskabeligt tilløbsstykke uden lige. Den 50 timers lange operation lykkedes da man valgte i sidste øjeblik at give hjernen til Thor og godt og vel hele fedtbeholdningen til Brian. De blev af deres samtid ofte kendt som KvikkeThor og Blobbo.*
 
 <div class="bitImage bitLeft" style="width: 182px">
-  <img src="http://www.abekat.net/wp-content/images/tutu.jpg" alt="Han retter ofte kommaer og den slags." /><br /> Desmond læser altid Aben.
+  <img src="http://www.abekat.net/images/tutu.jpg" alt="Han retter ofte kommaer og den slags." /><br /> Desmond læser altid Aben.
 </div>
 
 **Spørgsmål:** Hvad er det tætteste I har været på døden?
@@ -76,7 +76,7 @@ Ishoej
 **Aben:** *Her på aben er ansat 1000 aber med 1000 skrivemaskiner. De har skrevet i 1000 år og vi udvælger det bedste af hvad de kommer op med. Det er derfor det er sådan noget bras.*
 
 <div class="bitImage bitRight" style="width: 248px">
-  <img src="http://www.abekat.net/wp-content/images/hitler.jpg" alt="Han er nemlig altid sur og tvær." /><br /> Adolf læser ALDRIG Aben.
+  <img src="http://www.abekat.net/images/hitler.jpg" alt="Han er nemlig altid sur og tvær." /><br /> Adolf læser ALDRIG Aben.
 </div>
 
 **Spørgsmål:** Brian og Thor, kommer I ikke snart hjem? Det der abekat er noget vrøvl og I har en forpligtelse til at være hjemme hos jeres familier. Hvis I ikke kommer snart behøver I slet ikke komme hjem. Men det er jo helt op til jer hvad I finder vigtigst.

@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 228px">
-  <img src="http://www.abekat.net/wp-content/images/nazgulcarter_01.jpg" alt="Og fin kutte." /><br /> Det gamle ansigt i dansk politik med det nye sværd i dansk politik.
+  <img src="http://www.abekat.net/images/nazgulcarter_01.jpg" alt="Og fin kutte." /><br /> Det gamle ansigt i dansk politik med det nye sværd i dansk politik.
 </div>
 
 Danmark har fået et nyt parti og her mener jeg ikke en sending varer, men derimod et politisk parti bestående af mennesker med meninger, ringbind og måske nogle vælgere. Hvem ved? Ikke nogen af os, for Ny Alliance har ikke fremlagt et komplet program. Så Aben ringede til partiets leder Nazgûl Carter og denne indvilligede i at besvare Jer, Kære Læseres spørgsmål, vel vidende at I er nogle imbecile tåber. Men sådan er politikere så spøjse.
@@ -39,7 +39,7 @@ Falderah Tallerik
 
 <center>
   <div class="bitImage bitCenter" style="width: 205px">
-    <img src="http://www.abekat.net/wp-content/images/sepp.jpg" alt="Recepten!" /><br /> Carter Administrationens Minister for Runde Anliggender.
+    <img src="http://www.abekat.net/images/sepp.jpg" alt="Recepten!" /><br /> Carter Administrationens Minister for Runde Anliggender.
   </div>
   
   <p>

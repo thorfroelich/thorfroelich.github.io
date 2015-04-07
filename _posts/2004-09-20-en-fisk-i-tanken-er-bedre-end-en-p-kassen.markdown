@@ -13,7 +13,7 @@ Danmarks Akvarium. Et helt igennem forrygende sted, hvor gamle tiders eventyr er
 Trods dårlige odds nåede vi sikkert frem. Vi løb hastigt fra bilen ind i bygningens relative sikkerhed, hvor vi høfligt men bestemt blev tvunget til at overdrage en del af vores penge. Vi blev mod forventning ikke billeteret af Aquaman eller en havfrue, men et menneske, der med stor sandsynlighed slet ikke var en fisk. Ikke nogen god start.
 
 <div class="bitImage bitRight" style="width: 218px">
-  <img src="http://www.abekat.net/wp-content/images/dykker_01.jpg" alt="Han forholder sig HELT stille udenfor fodringstid." /><br /> Den omstridte havmand. Skal han have samme rettigheder som du og jeg?
+  <img src="http://www.abekat.net/images/dykker_01.jpg" alt="Han forholder sig HELT stille udenfor fodringstid." /><br /> Den omstridte havmand. Skal han have samme rettigheder som du og jeg?
 </div>
 
 I Danmarks Akvarium hersker en meget striks opdeling af racer. Og arter. Der gøres eksempelvis unødigt meget for at mennesker og fisk ikke udsætte for direkte kontakt med hinanden. Lige med undtagelse af et lavvandet bassin, hvor fisk kan få lov til at prøve at bide i børns fingre.  
@@ -22,7 +22,7 @@ Måske er de bange for at deres fisk kommer til at lugte slemt af menneske. Elle
 Da vi havde fået de påkrævede, men festlige, flynder-hjelme fastgjort til hovedet og lært Havets Hilsen – en serie bevægelser, kun rytmiktimerne fra folkeskolen gjorde os i stand til at lære – måtte vi fortsætte ind i undervandsverdenen. Et sted der normalt henligger i mystikkens grumsede vand. Og Animal Planet’s utallige ‘Haj Uger’.
 
 <div class="bitImage bitLeft" style="width: 218px">
-  <img src="http://www.abekat.net/wp-content/images/paddefisk_01.jpg" alt="Nana troede hun havde fjernet al snavset. Det havde hun ikke." /><br /> “Du har noget nas på skjoldet, Nanna! Lad mig lige…”
+  <img src="http://www.abekat.net/images/paddefisk_01.jpg" alt="Nana troede hun havde fjernet al snavset. Det havde hun ikke." /><br /> “Du har noget nas på skjoldet, Nanna! Lad mig lige…”
 </div>
 
 Hillemænd, hvor var der mange akvarier. Akvariummer. Akvariæ. Tanke. Stoppet til randen med iboende fisk. Og vand. Det var lige noget for mig. Blå fisk, grå-blå fisk, store fisk, små fisk. Og fisk der slet ikke var fisk, men en anden slags dyr. Dem kunne jeg også lide! Der var også en masse børn. De kan frit løbe rundt derinde, hujende og skrigende. Med børn følger uværgeligt barnegråd, fordi de små jo som bekendt er yderst følsomme overfor udsving i magtbalancen, barn og forælder imellem. Latter det ene sekund, det andet ansigtet en lavine af snot og tårer, fordi de ikke må skrige en ål døv eller kaste deres små legemer mod hummernes vinduesparti. Dernæst følger kritikken af beslutningen til forældrene, udført i et sprog udlukkende bestående af vokaler. Og savlen. *“Aa uuiee iua iiiu uy”*, siger de, mens de peger. Tit får de ret og bliver belønnet med en gave.
@@ -32,7 +32,7 @@ At lave en liste over de fantastiske oplevelser der venter i Danmarks Akvarium e
 > En centralt placeret tank huser Michael Strunge, en art man indtil for nyligt troede udød, præcis 70 mio. år tidligere. En portugisisk fisker hev til sin store forundring et eksemplar op af havet i de sene 80′ere. Senere fandt man en undersøisk hule stoppet til randen med disse primitive, men smukke skabninger. Den har et smukt blåligt skær, når man lyser på den med blåt lys.
 
 <div class="bitImage bitRight" style="width: 248px">
-  <img src="http://www.abekat.net/wp-content/images/anemoner_01.jpg" alt="Eller muffedisser?" /><br /> Et akvarium med strikkede huer
+  <img src="http://www.abekat.net/images/anemoner_01.jpg" alt="Eller muffedisser?" /><br /> Et akvarium med strikkede huer
 </div>
 
 > Blæksprutten i DA er en havkat. Ihvertfald hvis man skal tro skiltet ved glasset. Det lykkedes næsten, men jeg så igennem deres røgslør. Det var ikke nogen kat. Frisk og livlig som en koala, lå den op ad bagsiden af dens kunstige undervandsmilieu. De er alsidige dyr, sprutterne, men dette eksemplar var ikke i humør til hverken at flagre med arme eller puste med blæk. Øv.

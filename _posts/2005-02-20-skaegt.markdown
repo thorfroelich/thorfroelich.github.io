@@ -20,7 +20,7 @@ Ikke et af hans romantiske stykker eller en af hans tragedier eller komedier. Me
 Jeg er en Quisling, jeg er Judas. Jeg barberede mit skæg. Af.
 
 <div class="bitImage bitLeft" style="width: 303px">
-  <img src="http://www.abekat.net/wp-content/images/eier.jpg" alt="Jeg er god med bacon." /><br /> Se mig.
+  <img src="http://www.abekat.net/images/eier.jpg" alt="Jeg er god med bacon." /><br /> Se mig.
 </div>
 
 Hvis verden valgte lige nu til at gå under i en stormild af aske og død, ville det passe mig udsøgt meget.  
@@ -33,7 +33,7 @@ Så når du ser en mand på gaden der har iført sit hoved i en uigennemsigtig s
 Og en uge frem.
 
 <div class="bitImage bitCenter" style="width: 408px">
-  <img src="http://www.abekat.net/wp-content/images/moses.jpg" alt="Jeg kunne også skille vandene." /><br /> Mig før ulykken.
+  <img src="http://www.abekat.net/images/moses.jpg" alt="Jeg kunne også skille vandene." /><br /> Mig før ulykken.
 </div>
 
 *Eller jeg tiggede og bad folk om at tage den.

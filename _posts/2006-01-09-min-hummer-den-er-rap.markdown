@@ -9,7 +9,7 @@ categories:
 Jeg *er *hiphop. Ja ja, grin blot og hån den jord jeg ligger på, men sandheden er at jeg er så rap som man overhovedet kan blive. Jeg lever et liv med bitches, bling bling, hoes og skydere. Og hvis du mener at ordet “skydere” ikke er street nok så er det fordi du ikke er street nok min ven.
 
 <div class="bitImage bitCenter" style="width: 360px">
-  <img src="http://www.abekat.net/wp-content/images/hoes.jpg" alt="De hedder Sharleeena, Shawnesasquatch og Lotte." /><br /> Nogle af mine hoes.
+  <img src="http://www.abekat.net/images/hoes.jpg" alt="De hedder Sharleeena, Shawnesasquatch og Lotte." /><br /> Nogle af mine hoes.
 </div>
 
 Jeg er oldskool og hvis du tror noget andet så er du et fool.  

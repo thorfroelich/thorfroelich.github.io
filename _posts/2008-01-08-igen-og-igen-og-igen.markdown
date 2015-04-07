@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/hyena.jpg" alt="Hyænen lurer i baggrunden" /></p> <p>
+  <img src="http://www.abekat.net/images/hyena.jpg" alt="Hyænen lurer i baggrunden" /></p> <p>
     Søvnigt egern
   </p>
 </div>
@@ -33,7 +33,7 @@ Det skal du få at vide, din videbegærlige paparazzirøv!
 </center>
 
 <div class="bitImage bitLeft" style="width: 228px">
-  <img src="http://www.abekat.net/wp-content/images/hvepse.jpg" alt="Mmmmh. Og av." /><br /> Jeg laver al min hvepsejuice selv!
+  <img src="http://www.abekat.net/images/hvepse.jpg" alt="Mmmmh. Og av." /><br /> Jeg laver al min hvepsejuice selv!
 </div>
 
 1. Myrde nogen med en lanse lavet af frossen urin. For når politiet kommer, så er lansen smeltet og det ser ud til at nogen har tisset ham igennem hjertet. RESPEKT!  

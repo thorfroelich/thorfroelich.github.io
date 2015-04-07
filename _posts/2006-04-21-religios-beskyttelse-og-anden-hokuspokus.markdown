@@ -10,7 +10,7 @@ Den altid sommer-milde Dr. Donnis har nyligen besøgt et land. I dette land køb
 
 <center>
   <div class="bitImage bitCenter" style="width: 337px">
-    <img src="http://www.abekat.net/wp-content/images/barotek_01.jpg" alt="Også bare kaldet Sankt Vred" /><br /> Sankt Barotek den Knotne, skytshelgen for spiludvikling.
+    <img src="http://www.abekat.net/images/barotek_01.jpg" alt="Også bare kaldet Sankt Vred" /><br /> Sankt Barotek den Knotne, skytshelgen for spiludvikling.
   </div>
   
   <p>

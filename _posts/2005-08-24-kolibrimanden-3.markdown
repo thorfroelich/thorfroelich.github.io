@@ -7,7 +7,7 @@ categories:
   - Ars Dementreuse
 ---
 <div class="bitImage bitCenter" style="width: 378px">
-  <img src="http://www.abekat.net/wp-content/images/kolibrimanden_03.jpg" alt="Sut kun forsigtigt på hvor Frelser!" /><br /> Det brød de sig ikke om!
+  <img src="http://www.abekat.net/images/kolibrimanden_03.jpg" alt="Sut kun forsigtigt på hvor Frelser!" /><br /> Det brød de sig ikke om!
 </div>
 
 <center>

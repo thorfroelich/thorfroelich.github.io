@@ -10,7 +10,7 @@ categories:
 Jeg er gift med min hustru. Dette går op for mig da hun med sit arbejde skal udenlands i weekenden. Hun arbejder enten for et rejsebureau eller en fremmed stats efterretningsapparat. Så meget ved jeg. Jeg får dog altid tvetydige svar, når jeg spørger. “Vi sælger rejser”, siger hun. Uanset, er hun ikke hjemme denne weekend. Hun skal til Budapest i Ungarn og jeg skal være alene med det lille barn, vi har sammen: Min datter, som er en lille pige. Straks bliver jeg mistroisk, da jeg udmærket er klar over at Ungarn er det land der opfandt både min chef (som er født i Ungarn) og langt de fleste andre ungarer.
 
 <div class="bitImage bitRight" style="width: 196px">
-  <img src="http://www.abekat.net/wp-content/images/biplane.jpg" alt="... af denne type fløj min hustru til Budepest." /><br /> Luftens hyrevogn
+  <img src="http://www.abekat.net/images/biplane.jpg" alt="... af denne type fløj min hustru til Budepest." /><br /> Luftens hyrevogn
 </div>
 
 *Fredag d. 2 feb., kl. 19.01*  
@@ -32,7 +32,7 @@ Jeg er nu udråbt til Alle Bjørnes Konge af de imponerede dyr. Lillepigen mener
 Storsindet lader jeg min datter bære den kongekrone af kviste og blade, jeg fik af de umælende pelsede kræ tidligere på dagen. Hun synes det er sjovt at lade som om hun er alle bjørnes konge, selvom vi begge ved det er noget pjat. Den rigtige konge er og bliver mig. Iøvrigt kradser den ærligt talt noget tarvelige krone ubehageligt mod hovedbunden.
 
 <div class="bitImage bitLeft" style="width: 158px">
-  <img src="http://www.abekat.net/wp-content/images/swamppeople.jpg" alt="De kom oprindeligt over isen fra Sverige." /><br /> Marsk-folket lister sig gennem mørket på udkig efter nedfaldsfrugt.
+  <img src="http://www.abekat.net/images/swamppeople.jpg" alt="De kom oprindeligt over isen fra Sverige." /><br /> Marsk-folket lister sig gennem mørket på udkig efter nedfaldsfrugt.
 </div>
 
 *Lørdag d. 3 feb., kl. 19.38*  

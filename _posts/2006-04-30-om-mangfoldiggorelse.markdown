@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 208px">
-  <img src="http://www.abekat.net/wp-content/images/barnet_01.jpg" alt="Valget falder på forældrene!" /><br /> Barnet planlægger her de omfattende ødelæggelser, som iværksættes straks ved opnået selvfremdrift.
+  <img src="http://www.abekat.net/images/barnet_01.jpg" alt="Valget falder på forældrene!" /><br /> Barnet planlægger her de omfattende ødelæggelser, som iværksættes straks ved opnået selvfremdrift.
 </div>
 
 Nu kan det ikke holdes hemmeligt længere. Jeg, Thor Frølich, er blevet far til et lille menneske-agtigt væsen med både arme og ben. Ja, du læste rigtigt: Lille! Børn er nemlig ikke særligt store, før de er vokset og det gør de først på et senere tidspunkt. Brian har allerede på vanlig ubehjælpelig vis skrevet om barnemoderens prøvelser. Dog fandt jeg hans værk mangelfuldt og til tider helt ukorrekt, men man får hvad man betaler for – og jeg har betalt for usammenhængende og usandt vås. Eksempelvis nævner han på intet tidspunkt det mindste om *mine* ofte heltemodige og endnu oftere fantastiske bedrifter under og efter forløbet. Det skal der rettes op på. Af mig.
@@ -25,7 +25,7 @@ Endelig hjemme. Barnet blev vurderet til at være relativt ufarlig og vi slap me
 Hun skal ikke hedde Kratbjørg, lader myndighederne os forstå. “Man må ikke bare opfinde åndsvage navne, tossede og dumme tossehoveder”, i brevet stod. Vi reagerer i trods og vælger at kalder hende ved det ligeså umulige *Aviaja*. Barnet synes uinteresseret i denne polemik, samt alt der ikke er bryster.
 
 <div class="bitImage bitLeft" style="width: 244px">
-  <img src="http://www.abekat.net/wp-content/images/barnevogn_01.jpg" alt="Stilfuld piberygende faderfigur." /><br /> Aerodynamik!
+  <img src="http://www.abekat.net/images/barnevogn_01.jpg" alt="Stilfuld piberygende faderfigur." /><br /> Aerodynamik!
 </div>
 
 **Dag 11**  

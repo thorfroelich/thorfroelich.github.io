@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 192px">
-  <img src="http://www.abekat.net/wp-content/images/dancer_01.jpg" alt="Gud fri mig vel!" /><br /> Noget må gøres!
+  <img src="http://www.abekat.net/images/dancer_01.jpg" alt="Gud fri mig vel!" /><br /> Noget må gøres!
 </div>
 
 Som Ægyptens syv plager er dansen over os. Ægyptens ene plage, så. En rivende malstrøm af remoulade og jitterbug truer med at skylle vor hovedskal tom for selvstændigt tænkende hjerne og erstatte den med koordinerede trin og tøj med flæser. For hvert sekund der går, bliver jeg vredere. Og jeg var temmelig vred til at begynde med.
@@ -17,7 +17,7 @@ Tv-maskinen viser denne dans og alt blot perifært associeret med samme. Højt b
 Jeg bryder mig ikke om at danse. Det skyldes ikke udelukkende min totale mangel på kropskontrol eller min hulbrystede fremtoning, når jeg er iklædt trikot. Jeg bryder mig ikke om at se andre danse. Lidt på samme måde som jeg heller ikke finder megen glæde i at se på hunde iført mennesketøj.
 
 <div class="bitImage bitLeft" style="width: 190px">
-  <img src="http://www.abekat.net/wp-content/images/dancer_02.jpg" alt="Det vil jeg gerne kigge på." /><br /> Acceptabel dans.
+  <img src="http://www.abekat.net/images/dancer_02.jpg" alt="Det vil jeg gerne kigge på." /><br /> Acceptabel dans.
 </div>
 
 Nej, dans er en fesen og forfærdelig disciplin solidt plantet i kategorien ‘gøgl’, og kan bedst sammenlignes med forbrydelser som kunstskøjteløb og pædofili. Konceptet er undfanget af kvindfolk, som ikke ved bedre end at udsætte mænd for uvante pigede aktiviteter. Mænd er bygget til, med sten i hånd, at jage mamutter og vi er fra naturens hånd ikke udstyret med evnen til at udføre fjerlette trin med milimeterpræcision. Det tætteste en mand realistisk kan komme dans er når han marcherer på geled med andre ligeså uniformerede mænd. Det program ville jeg se, forudsat disse mænd marcherede mod (og deltog i) krigshandlinger.

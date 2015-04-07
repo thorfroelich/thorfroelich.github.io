@@ -11,7 +11,7 @@ Her forleden var jeg så uheldig at komme til at kaste et blik på min lønsedde
 Mystificeret af de skræmmende små tal kunne jeg bare stirre i mild undren. A-skat, stod der et sted. “Hvordan kan sådan en lille fusentaster af et tal være blevet så stort” tænkte jeg, halv-højt. “Hvis det bliver ved med at vokse med den hast, vokser den jo sin rare storebror *Løn*, over hovedet”!
 
 <div class="bitImage bitRight" style="width: 238px">
-  <img src="http://www.abekat.net/wp-content/images/hitler_01.jpg" alt="Vi skal have bryster så langt øjet rækker. Kun Polen står mellem os og visionen!" /><br /> “Mmmh, bryster”, siger en tydeligt henrykt Hitler
+  <img src="http://www.abekat.net/images/hitler_01.jpg" alt="Vi skal have bryster så langt øjet rækker. Kun Polen står mellem os og visionen!" /><br /> “Mmmh, bryster”, siger en tydeligt henrykt Hitler
 </div>
 
 Jeg var fast besluttet på at komme til bunds i sagen og begyndte straks at undersøge hvad det her *skat* var for en størrelse, og om der skulle eksistere en eller anden form for kur eller modgift.
@@ -49,7 +49,7 @@ Naturligvis må der kunne blive blive råd til al verdens herligheder med de svi
 Er det bare for at du trods alt, Hr. Frølich, kan stikke dit hoved ind på samfulde beværtninger på amager og sige *“Skål i skivet, jeg giver også den næste, og velbekomme”*?
 
 <div class="bitImage bitLeft" style="width: 140px">
-  <img src="http://www.abekat.net/wp-content/images/bryster_01.jpg" alt="Så lange, så lange!" /><br /> Kend fjenden!
+  <img src="http://www.abekat.net/images/bryster_01.jpg" alt="Så lange, så lange!" /><br /> Kend fjenden!
 </div>
 
 Når jeg kommer med mine foreslag til hvad skatten skal gå til er der flere der rynker brynene, vender sveskestene og danser en regndans. De ser begrænsninger og ikke mulighederne. De siger at hvis man tager Sveriges guldminer vil svenskerne blive kede af det, hvis man bygger kæmpe beton engle skal man også til at bygge kæmpe beton bedetæpper og kalotter og det er alt for besværligt at rende rundt med, og sådan bliver deres jammer ved i det uendelige.

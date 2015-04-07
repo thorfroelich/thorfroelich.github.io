@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div id="attachment_591" class="wp-caption alignleft" style="width: 275px">
-  <a href="http://www.abekat.net/wp-content/images/sunburn.jpg"><img class="size-full wp-image-591" title="Sunburn" src="http://www.abekat.net/wp-content/images/sunburn.jpg" alt="Smuk hud." width="265" height="292" /></a><p class="wp-caption-text">
+  <a href="http://www.abekat.net/images/sunburn.jpg"><img class="size-full wp-image-591" title="Sunburn" src="http://www.abekat.net/images/sunburn.jpg" alt="Smuk hud." width="265" height="292" /></a><p class="wp-caption-text">
     Selv denne prægtige mand tåler ikke solen!
   </p>
 </div>

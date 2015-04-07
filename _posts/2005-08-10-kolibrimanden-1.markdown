@@ -7,7 +7,7 @@ categories:
   - Ars Dementreuse
 ---
 <div class="bitImage bitCenter" style="width: 348px">
-  <img src="http://www.abekat.net/wp-content/images/kolibrimanden_01.jpg" alt="" /><br /> Kolibrimanden.
+  <img src="http://www.abekat.net/images/kolibrimanden_01.jpg" alt="" /><br /> Kolibrimanden.
 </div>
 
 <center>

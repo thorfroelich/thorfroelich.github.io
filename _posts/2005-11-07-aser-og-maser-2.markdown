@@ -11,7 +11,7 @@ Folket var stolt og modigt og havde ikke horn på deres hjelme. Men de havde sk�
 Dette folk havde en gudepantheon de havde stykket sammen af forskellige rigtige religioner fra udlandet og af dem skabte de et herligt sammensurium af dommedag, død, sex og fjolleri. Guderne var mange og forskellige og nogle mere kendte end andre. Vi har tidligere stiftet bekendtskab med eliten. Toppen af poppen. Cremen af kroppen(?). Men nu til de andre.
 
 <div class="bitImage bitRight" style="width: 458px">
-  <img src="http://www.abekat.net/wp-content/images/sten.JPG" alt="Dengang kunne man ikke låne dem på biblioteket." /><br /> En tegneserie fra dengang.
+  <img src="http://www.abekat.net/images/sten.JPG" alt="Dengang kunne man ikke låne dem på biblioteket." /><br /> En tegneserie fra dengang.
 </div>
 
 **Frigg**  
@@ -35,7 +35,7 @@ Hun er gudinde for planterne hvilket betyder at hun er den kedelige gartnergud s
 En gavtyv der hed Loke barberede engang hendes hår af mens hun sov så hun var nødt til at få en paryk. Da hun samtidig er gudinde af pral, frås og bling bling måtte hun selvfølgelig have en paryk af det pureste guld. Hvilket er praktisk da man kan tisse på guld uden at det ruster (!?).
 
 <div class="bitImage bitLeft" style="width: 179px">
-  <img src="http://www.abekat.net/wp-content/images/thor.JPG" alt="Statelig og flot ser han jo ud." /><br /> Thor. Altså ikke ham, men den anden.
+  <img src="http://www.abekat.net/images/thor.JPG" alt="Statelig og flot ser han jo ud." /><br /> Thor. Altså ikke ham, men den anden.
 </div>
 
 **Loke**  

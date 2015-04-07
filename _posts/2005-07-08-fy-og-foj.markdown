@@ -10,7 +10,7 @@ Hr. Mørks sidste skriv om hans forfaders bedrifter inspirerede mig til at gå p
 Dagbogen var fedtet, som var den dækket af et tyndt lag magarine. Måske fordi det udstoppede fjerkræ under hvilket jeg fandt den, lækker en lind olieagtig væske. Hvorom alting her, følger her udvalgte brudstykker af Flavius Druckpheldt Phroelich’s nassede dagbog.
 
 <div class="bitImage bitLeft" style="width: 168px">
-  <img src="http://www.abekat.net/wp-content/images/fisherman_01.jpg" alt="En gæv gammel søulk, var han. " /><br /> Flavius Druckpheldt Phroelich
+  <img src="http://www.abekat.net/images/fisherman_01.jpg" alt="En gæv gammel søulk, var han. " /><br /> Flavius Druckpheldt Phroelich
 </div>
 
 > *Deen Fjortendes maj, 1889*  
@@ -27,7 +27,7 @@ Dagbogen var fedtet, som var den dækket af et tyndt lag magarine. Måske fordi 
 > Captajnen haver til sin store misfornoejelse giort den opdagelse at talrige blade i vaerket *Monckey Genitalia – Eet Stuudium Udi Forplantning* er ganske som liimet til hverandre. Ligeså er bindet om rundorme i samlingen *Bloeddyr och Anden Hvirvelloes Existens* ulaeselig, grundet slige omstaendigheder. Jeg maa, ved den aarle morgenstund, fordre en opbloedning af litteraturen i kradse vaedsker, saa bindemiddelet oploese sig. Koejen maa dog vaebne sig med taalmod, da Juncker just har udbedt sig min assistance udi haandtering af en bandiit. Antageligen baadsmand Circhumphlecks i kachotten, friihedsberoevet saaledes grundet usoemmelig forvaltning af kostbahr kompas-spriith. 
 
 <div class="bitImage bitRight" style="width: 238px">
-  <img src="http://www.abekat.net/wp-content/images/belgium_01.jpg" alt="Here be dragons!" /><br /> Eneste kendte kort over dette ‘Belgien’.
+  <img src="http://www.abekat.net/images/belgium_01.jpg" alt="Here be dragons!" /><br /> Eneste kendte kort over dette ‘Belgien’.
 </div>
 
 > *Deen Femtende Juli, 1889*  

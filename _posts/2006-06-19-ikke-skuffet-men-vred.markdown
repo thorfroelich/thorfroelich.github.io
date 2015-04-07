@@ -11,7 +11,7 @@ Men det hænder dog en sjælden gang i mellem at jeg rammes af vreden. Og ikke b
 Jeg risikerer mit gode helbred ved at skrive den følgende liste da mit skrøbelige hjerte truer med at sprænge mit bryst af ren edderspændthed ved overhovedet at tænke på det. Men her på aben risikerer vi dagligt mere end det. Eller jeg gør. Den sarte Frölich er ikke så meget for den slags vovemod. Kujoneri er mere hans gebet. Det gør han til gengæld bedre end de fleste.
 
 <div>
-  <img src="http://www.abekat.net/wp-content/images/beard.jpg" alt="Han er kun en sølle amatør og jeg hader ham." /><br /> Jeg er langt mere vred end denne mand.
+  <img src="http://www.abekat.net/images/beard.jpg" alt="Han er kun en sølle amatør og jeg hader ham." /><br /> Jeg er langt mere vred end denne mand.
 </div>
 
 **Folk der køber gaver til deres kæledyr**  
@@ -23,7 +23,7 @@ Man sidder på en café, i en togkupé, eller et tredie sted der slutter med bog
 Der er kun én korrekt måde at tackle en sådan episode og den indebærer, udover formanende blikke, en opdragende kindhest.
 
 <div>
-  <img src="http://www.abekat.net/wp-content/images/panter.jpg" alt="Og have flotte tænder." /><br /> Negere kan også være vrede.
+  <img src="http://www.abekat.net/images/panter.jpg" alt="Og have flotte tænder." /><br /> Negere kan også være vrede.
 </div>
 
 **Folk der forsinker køer**  

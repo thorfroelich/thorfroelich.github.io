@@ -10,7 +10,7 @@ Da jeg i dag sad og næsten nød maden i den kantine hvor jeg arbejder i øjebli
 MC takkede mig for mit heltearbejde og jeg lod filantropisk den lille fyr leve videre i en nærliggende potteplante (larven, ikke MC. Ham slog jeg nådigt ihjel).
 
 <div class="bitImage bitLeft" style="width: 140px">
-  <img src="http://www.abekat.net/wp-content/images/orm.jpg" alt="For de er fyldt med honning." /><br /> De er nu søde.
+  <img src="http://www.abekat.net/images/orm.jpg" alt="For de er fyldt med honning." /><br /> De er nu søde.
 </div>
 
 Denne lille anekdote havde intet med noget at gøre, havde det ikke været for det lille krybende bæst (larven, ikke MC.). Denne lille forårsbebuder bebød nemlig det snarligt oprindende forår og henledte mine tanker (der før havde været koncentreret omkring lesbisk sex) mod forårets muligheder for at tage på stranden, danse natten lang og plukke blomster med dem man elsker. Der er nemlig ikke noget jeg elsker mere end at tage på stranden, danse natten lang og plukke blomster med dem man elsker. Det skulle da lige være at bruge ironi.  
@@ -31,7 +31,7 @@ Da jeg er en sart og kræsen starut er listen her forkortet betydeligt da min da
 6. **Whiskas**.
 
 <div class="bitImage bitRight" style="width: 180px">
-  <img src="http://www.abekat.net/wp-content/images/1.jpg" alt="Ned i min mad!" /><br /> Dejligt krydderi. Intimian.
+  <img src="http://www.abekat.net/images/1.jpg" alt="Ned i min mad!" /><br /> Dejligt krydderi. Intimian.
 </div>
 
 7. **Lesbisk sex**. Hov, det er en fejl. Lesbisk sex er rent faktisk noget af det jeg allerhelst ville finde i min mad.

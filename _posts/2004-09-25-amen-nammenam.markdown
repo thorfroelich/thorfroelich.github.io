@@ -19,7 +19,7 @@ Da den oprindelige Vorherre var en hævngerrig og voldelig gud med en virkelig k
 Noah skyndte sig derfor ud for at opdage Australien, Amerikaerne og Papua Ny Guinea for også at samle dyrene derfra. Det var hårdt arbejde og tog mange slidsomme uger, da de var til fods (Arken var ikke færdig endnu).
 
 <div class="bitImage bitCenter" style="width: 400px">
-  <img src="http://www.abekat.net/wp-content/images/arkmural.jpg" alt="Mand over bord!!" width="400" height="200" /><br /> På dyrene kan vi se at vi er i Afrika. På menneskene kan man se at det er vi ikke.
+  <img src="http://www.abekat.net/images/arkmural.jpg" alt="Mand over bord!!" width="400" height="200" /><br /> På dyrene kan vi se at vi er i Afrika. På menneskene kan man se at det er vi ikke.
 </div>
 
 Endelig havde han samlet to af hvert slags dyr. En han og en hun af hver art. Bortset fra bladlusene hvoraf han kun behøvede en enkelt. De formerer sig aseksuelt (Den kristne favorit).  
@@ -38,7 +38,7 @@ Og da arken stødte på grund og alle dyrene blev sluppet løs. Hvad da?
 Hvad levede rovdyrene så af de første mange årtier før der var kommet nye bestande af kødfulde fødedyr de kunne jage (som set på Discovery Channel)? 
 
 <div class="bitImage bitCenter" style="width: 308px">
-  <img src="http://www.abekat.net/wp-content/images/meat.JPG" alt="Kødtøj. Varmer og smager godt." /><br /> Ha ha, vi skal bruge mere kød end det, små venner.
+  <img src="http://www.abekat.net/images/meat.JPG" alt="Kødtøj. Varmer og smager godt." /><br /> Ha ha, vi skal bruge mere kød end det, små venner.
 </div>
 
 En gåde ikke ulig sphinxens vil blive løst af undertegnedes klippefaste teori.  
