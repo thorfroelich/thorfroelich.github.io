@@ -23,12 +23,12 @@ module Jekyll
     end
 
     alias orig_to_liquid to_liquid
-    def to_liquid
+    def to_liquid(attrs = nil)
         h = orig_to_liquid
         h['thumb_url'] = self.thumb_url
         h
     end
-  
+
   end
 
 end
