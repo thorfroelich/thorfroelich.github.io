@@ -1,4 +1,3 @@
-auto:        true
 #exclude: ['Rakefile', 'README.textile', test, 'History.txt']
 domain: abekat.net
 title: Brian Mørk & Thor Frølich præsenterer
