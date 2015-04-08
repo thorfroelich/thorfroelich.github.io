@@ -36,14 +36,14 @@ a:hover
 header.site-header {
 	font-size: 0.9em;
 	height: 220px;
-	margin-top: -20px;
-	padding-top: 1em;
+	margin-top: -10px;
+	padding-top: 2em;
 	padding-bottom: 3em;
-	margin-bottom: 2em;
+	margin-bottom: 4em;
 	/*background: #F7F7F7;*/
 	background-image: url('../gfx/abekat.png');
 	background-repeat: no-repeat;
-	background-position: 56% 95%;
+	background-position: 56% 55%;
 	/* optional rounded corners for browsers that support it */
 /*
    -moz-border-radius: 8px;
@@ -84,7 +84,7 @@ h1.headline {
 
 .description
 {
-	margin-top: -0.4em !important;
+	margin-top: 3.5em !important;
 	width: 80%;
 	margin: 0 auto;
 	font-size: 3.0em;
@@ -106,13 +106,13 @@ h1.headline {
 
 .content
 {
-	margin-top: 4em;
+	margin-top: 3em;
 	margin-bottom: 3em;
 }
 
 #home, #single
 {
-	font-size: 1.0em;
+	font-size: 1.1em;
 	line-height: 1.4em;
 }
 
@@ -510,3 +510,22 @@ h2.widgettitle
 {
 	margin-bottom: 0.5em;
 }
+
+/*hr.header-separator {
+	width: 66%;
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+
+hr.header-separator:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.95em;
+    font-size: 1.0em;
+    padding: 0 0.25em;
+    background: white;
+}*/
