@@ -6,7 +6,7 @@ author: Brian Mørk & Thor Frølich
 email: thor@abekat.net
 url: http://abekat.net
 
-markdown: rdiscount
+markdown: kramdown
 
 permalink: /:title
 
