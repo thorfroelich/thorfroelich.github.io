@@ -7,7 +7,7 @@ categories:
   - Generel spas
 ---
 <div class="bitImage bitRight" style="width: 252px">
-  <img alt="Hans hat strammer" src="http://abekat.net/wp-content/images/sadkid.jpg" /></p> <p>
+  <img alt="Hans hat strammer" src="http://www.abekat.net/images/sadkid.jpg" /></p> <p>
     “Typisk ansigt et barn kan stille op”
   </p>
 </div>
