@@ -1,71 +1,31 @@
 ---
 layout: default
-description: A description about my blog homepage
 ---
+{% for post in site.posts limit:1 %}
 
-<div id="home">
-
-	{% for post in site.posts limit:1 %}
-
-	<div id="primary" class="content">
-		<article>
-		  <header class="headline">
-	    	<a href="{{ post.url }}">{{ post.title }}</a>
-	    	<div class="meta">
-					af {{ post.author }}
-	    		<!-- <time>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</time> -->
-	    	</div>
-		  </header>
-		  {{ post.content }}
-		  <a href="{{ post.url }}">
-		  	<div class="more-container">
-		  		<span class="moretext">&#8230; l&#230;s resten &#187;</span>
-		  	</div>
-			</a>
-		</article>
+<article>
+	<h2>
+		<a href="{{ post.url }}">{{ post.title }}</a>
+	</h2>
+	<div class="meta">
+		<span class="by">af</span> {{ post.author }}
 	</div>
+	{{ post.content }}
+</article>
 
-	{% endfor %}
+{% endfor %}
 
-	{% for post in site.posts offset:1 limit:2 %}
+{% for post in site.posts offset:1 %}
 
-	<div id="secondary" class="content">
-		<article>
-		  <header class="headline">
-		    	<a href="{{ post.url }}">{{ post.title }}</a>
-			    <div class="meta">
-					af {{ post.author }}
-				    <!-- <time>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</time> -->
-			    </div>
-		  </header>
-		  {{ post.content }}
-		  	<a href="{{ post.url }}">
-		  		<div class="more-container">
-		  			<span class="moretext">&#8230; l&#230;s resten &#187;</span>
-			  	</div>
-			</a>
-		</article>
+<article>
+	<h3>
+		<a href="{{ post.url }}">{{ post.title }}</a>
+	</h3>
+	<div class="meta">
+		<span class="by">af</span> {{ post.author }}
 	</div>
+</article>
 
-	{% endfor %}
+{% endfor %}
 
-	{% for post in site.posts offset:3 limit:10 %}
-
-	<div id="tertiary" class="content">
-			<article>
-			  <header class="headline">
-			    	<a href="{{ post.url }}">{{ post.title }}</a>
-			    	 <div class="meta">
-				af {{ post.author }}
-			    <!-- <time>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</time> -->
-			    </div>
-			    </header>
-			</article>
-	</div>
-
-	{% endfor %}
-
-	<a href="archive.html"><h1 class="headline">Arkivet</h1></a>
-
-
-</div>
+<!-- <a href="archive.html"><h1 class="headline">Arkivet ☞</h1></a> -->

@@ -4,17 +4,14 @@ layout: default
 
 {% for post in site.posts limit:1 %}
 
-<div id="single" class="content">
-	<article>
-	  <header class="headline">
-	    	<a href="{{ page.url }}">{{ page.title }}</a>
-		    <div class="meta">
-			af {{ page.author }}
-		    <!-- <time>{{ page.date | date: '%B' }} {{ page.date | date: '%e' }}, {{ page.date | date: '%Y' }}</time> -->
-		    </div>
-	  </header>
-	  {{ content }}
-	</article>
-</div>
+<article>
+	<h2>
+		<a href="{{ page.url }}">{{ page.title }}</a>
+	</h2>
+	<div class="meta">
+		<span class="by">af</span> {{ page.author }}
+	</div>
+	{{ content }}
+</article>
 
-{% endfor %}	
+{% endfor %}

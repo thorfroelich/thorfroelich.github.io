@@ -1,1 +1,0 @@
-rsync -avr --delete --progress -e "ssh -i /Users/thor/.ssh/thor-nostromo-key" _site/* thor@176.34.232.64:/home/thor/sites/abekat.net/
